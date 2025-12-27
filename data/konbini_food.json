@@ -1,0 +1,246 @@
+{
+  "id": "konbini_food",
+  "name": "コンビニで<ruby>食べ物<rt>たべもの</rt></ruby>",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "コンビニでよく何を買いますか。",
+      "question_ruby": "コンビニでよく<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Di konbini, kamu sering membeli apa?",
+      "example_answer": "よくおにぎりを<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "昨日、コンビニで何を買いましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、コンビニで<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いましたか。",
+      "translation_id": "Kemarin, kamu membeli apa di konbini?",
+      "example_answer": "<ruby>昨日<rt>きのう</rt></ruby>、パンを<ruby>買<rt>か</rt></ruby>いました。"
+    },
+    {
+      "id": "q3",
+      "level": "N4",
+      "question": "コンビニで一番よく買うものは何ですか。",
+      "question_ruby": "コンビニで<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>買<rt>か</rt></ruby>うものは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Barang apa yang paling sering kamu beli di konbini?",
+      "example_answer": "<ruby>一番<rt>いちばん</rt></ruby>よくおにぎりを<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "コンビニで何をよく食べますか。",
+      "question_ruby": "コンビニで<ruby>何<rt>なに</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Di konbini, apa yang sering kamu makan?",
+      "example_answer": "よくサンドイッチを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "コンビニで飲み物をよく買いますか。",
+      "question_ruby": "コンビニで<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>をよく<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu sering membeli minuman di konbini?",
+      "example_answer": "はい、よくお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "コンビニで昼ご飯を買いますか。",
+      "question_ruby": "コンビニで<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli makan siang di konbini?",
+      "example_answer": "はい、<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q7",
+      "level": "N4",
+      "question": "コンビニでお菓子を買いますか。",
+      "question_ruby": "コンビニでお<ruby>菓子<rt>かし</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli snack di konbini?",
+      "example_answer": "はい、チョコレートをよく<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q8",
+      "level": "N5",
+      "question": "コンビニでアイスを食べますか。",
+      "question_ruby": "コンビニでアイスを<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Apakah kamu makan es krim di konbini?",
+      "example_answer": "はい、アイスを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q9",
+      "level": "N4",
+      "question": "コンビニで何時に買い物をしますか。",
+      "question_ruby": "コンビニで<ruby>何時<rt>なんじ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしますか。",
+      "translation_id": "Jam berapa kamu biasanya belanja di konbini?",
+      "example_answer": "<ruby>朝<rt>あさ</rt></ruby>７<ruby>時<rt>じ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をします。"
+    },
+    {
+      "id": "q10",
+      "level": "N5",
+      "question": "コンビニで昼食を買うとき、何を選びますか。",
+      "question_ruby": "コンビニで<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>買<rt>か</rt></ruby>うとき、<ruby>何<rt>なに</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びますか。",
+      "translation_id": "Saat membeli makan siang di konbini, apa yang kamu pilih?",
+      "example_answer": "おにぎりを<ruby>選<rt>えら</rt></ruby>びます。"
+    },
+    {
+      "id": "q11",
+      "level": "N4",
+      "question": "コンビニで買うおにぎりは何味が好きですか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>うおにぎりは<ruby>何味<rt>なにあじ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Onigiri rasa apa yang kamu suka beli di konbini?",
+      "example_answer": "<ruby>梅味<rt>うめあじ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q12",
+      "level": "N5",
+      "question": "コンビニで弁当を買いますか。",
+      "question_ruby": "コンビニで<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli bento di konbini?",
+      "example_answer": "はい、<ruby>弁当<rt>べんとう</rt></ruby>をよく<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q13",
+      "level": "N4",
+      "question": "コンビニでスープやお味噌汁を買いますか。",
+      "question_ruby": "コンビニでスープやお<ruby>味噌汁<rt>みそしる</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli sup atau miso di konbini?",
+      "example_answer": "はい、お<ruby>味噌汁<rt>みそしる</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q14",
+      "level": "N5",
+      "question": "コンビニで何を買うのが楽しいですか。",
+      "question_ruby": "コンビニで<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>うのが<ruby>楽<rt>たの</rt></ruby>しいですか。",
+      "translation_id": "Barang apa yang menyenangkan untuk dibeli di konbini?",
+      "example_answer": "スイーツを<ruby>買<rt>か</rt></ruby>うのが<ruby>楽<rt>たの</rt></ruby>しいです。"
+    },
+    {
+      "id": "q15",
+      "level": "N4",
+      "question": "コンビニで買い物するとき、いくらまで払いますか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>するとき、いくらまで<ruby>払<rt>はら</rt></ruby>いますか。",
+      "translation_id": "Saat belanja di konbini, kamu membayar sampai berapa yen?",
+      "example_answer": "１０００<ruby>円<rt>えん</rt></ruby>まで<ruby>払<rt>はら</rt></ruby>います。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "コンビニで新しい商品を買いますか。",
+      "question_ruby": "コンビニで<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli produk baru di konbini?",
+      "example_answer": "はい、<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>試<rt>ため</rt></ruby>します。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "コンビニで買ったものを家で食べますか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>ったものを<ruby>家<rt>いえ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Apakah kamu makan barang yang dibeli di konbini di rumah?",
+      "example_answer": "はい、<ruby>家<rt>いえ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q18",
+      "level": "N5",
+      "question": "コンビニでお弁当とパン、どちらを買いますか。",
+      "question_ruby": "コンビニでお<ruby>弁当<rt>べんとう</rt></ruby>とパン、どちらを<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Di konbini, kamu membeli bento atau roti?",
+      "example_answer": "お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "q19",
+      "level": "N4",
+      "question": "コンビニで買い物するのは週に何回ですか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>するのは<ruby>週<rt>しゅう</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby>ですか。",
+      "translation_id": "Berapa kali seminggu kamu belanja di konbini?",
+      "example_answer": "<ruby>週<rt>しゅう</rt></ruby>に３<ruby>回買<rt>かいか</rt></ruby>います。"
+    },
+    {
+      "id": "q20",
+      "level": "N5",
+      "question": "コンビニで何をよく買って友達にあげますか。",
+      "question_ruby": "コンビニで<ruby>何<rt>なに</rt></ruby>をよく<ruby>買<rt>か</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>にあげますか。",
+      "translation_id": "Barang apa yang sering kamu beli di konbini untuk diberikan ke teman?",
+      "example_answer": "お<ruby>菓子<rt>かし</rt></ruby>をあげます。"
+    },
+    {
+      "id": "q21",
+      "level": "N4",
+      "question": "コンビニで買うものをリストに書きますか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>うものをリストに<ruby>書<rt>か</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu menulis daftar barang yang akan dibeli di konbini?",
+      "example_answer": "はい、リストを<ruby>書<rt>か</rt></ruby>きます。"
+    },
+    {
+      "id": "q22",
+      "level": "N5",
+      "question": "コンビニで買い物するときカードを使いますか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>するときカードを<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Saat belanja di konbini, apakah kamu menggunakan kartu?",
+      "example_answer": "はい、カードを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "コンビニで買う時、レジで並びますか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>う<ruby>時<rt>とき</rt></ruby>、レジで<ruby>並<rt>なら</rt></ruby>びますか。",
+      "translation_id": "Saat belanja di konbini, apakah kamu mengantri di kasir?",
+      "example_answer": "はい、レジで<ruby>並<rt>なら</rt></ruby>びます。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "コンビニでおおにぎりとサンドイッチ、どちらを食べますか。",
+      "question_ruby": "コンビニでおにぎりとサンドイッチ、どちらを<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Di konbini, kamu makan onigiri atau sandwich?",
+      "example_answer": "おにぎりを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "コンビニで買ったものを家族と食べますか。",
+      "question_ruby": "コンビニで<ruby>買<rt>か</rt></ruby>ったものを<ruby>家族<rt>かぞく</rt></ruby>と<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Apakah kamu makan barang yang dibeli di konbini bersama keluarga?",
+      "example_answer": "はい、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q26",
+      "level": "N5",
+      "question": "コンビニのホットスナックは好きですか。",
+      "question_ruby": "コンビニのホットスナックは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka hot snack (makanan hangat di kasir) konbini?",
+      "example_answer": "はい、ファミチキが<ruby>大好<rt>だいす</rt></ruby>きです。"
+    },
+    {
+      "id": "q27",
+      "level": "N4",
+      "question": "店員さんに「温めますか」と聞かれたら、何と言いますか。",
+      "question_ruby": "<ruby>店員<rt>てんいん</rt></ruby>さんに「<ruby>温<rt>あたた</rt></ruby>めますか」と<ruby>聞<rt>き</rt></ruby>かれたら、<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。",
+      "translation_id": "Jika pelayan bertanya 'mau dipanaskan?', apa yang kamu katakan?",
+      "example_answer": "「はい、お<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>言<rt>い</rt></ruby>します。"
+    },
+    {
+      "id": "q28",
+      "level": "N5",
+      "question": "コンビニのコーヒーを飲みますか。",
+      "question_ruby": "コンビニのコーヒーを<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu minum kopi konbini?",
+      "example_answer": "はい、よくセブンカフェを<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "q29",
+      "level": "N4",
+      "question": "レジ袋が必要ですか。",
+      "question_ruby": "レジ<ruby>袋<rt>ぶくろ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>ですか。",
+      "translation_id": "Apakah kamu butuh kantong plastik?",
+      "example_answer": "いいえ、マイバッグを<ruby>持<rt>も</rt></ruby>っています。"
+    },
+    {
+      "id": "q30",
+      "level": "N5",
+      "question": "コンビニは便利だと思いますか。",
+      "question_ruby": "コンビニは<ruby>便利<rt>べんり</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu pikir konbini itu praktis?",
+      "example_answer": "はい、とても<ruby>便利<rt>べんり</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。"
+    }
+  ]
+}

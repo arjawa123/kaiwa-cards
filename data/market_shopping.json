@@ -1,0 +1,206 @@
+{
+  "id": "market_shopping",
+  "name": "<ruby>市場<rt>いちば</rt></ruby>で<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "市場でよく何を買いますか。",
+      "question_ruby": "市場でよく何を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Di pasar, kamu sering membeli apa?",
+      "example_answer": "よく<ruby>野菜<rt>やさい</rt></ruby>を買います。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "昨日、市場で何を買いましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、市場で何を<ruby>買<rt>か</rt></ruby>いましたか。",
+      "translation_id": "Kemarin, kamu membeli apa di pasar?",
+      "example_answer": "<ruby>魚<rt>さかな</rt></ruby>を買いました。"
+    },
+    {
+      "id": "q3",
+      "level": "N4",
+      "question": "市場で買い物するとき、値段を比べますか。",
+      "question_ruby": "市場で<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>するとき、<ruby>値段<rt>ねだん</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べますか。",
+      "translation_id": "Saat berbelanja di pasar, apakah kamu membandingkan harga?",
+      "example_answer": "はい、比べます。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "市場で魚と野菜、どちらをよく買いますか。",
+      "question_ruby": "市場で<ruby>魚<rt>さかな</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>、どちらをよく買いますか。",
+      "translation_id": "Di pasar, kamu lebih sering membeli ikan atau sayuran?",
+      "example_answer": "<ruby>野菜<rt>やさい</rt></ruby>をよく買います。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "市場でどのくらいお金を使いますか。",
+      "question_ruby": "市場でどのくらいお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Di pasar, kira-kira berapa banyak uang yang kamu gunakan?",
+      "example_answer": "だいたい1000<ruby>円<rt>えん</rt></ruby>使います。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "市場で買うのは毎日ですか。",
+      "question_ruby": "市場で買うのは<ruby>毎日<rt>まいにち</rt></ruby>ですか。",
+      "translation_id": "Apakah kamu belanja di pasar setiap hari?",
+      "example_answer": "はい、毎日買います。"
+    },
+    {
+      "id": "q7",
+      "level": "N4",
+      "question": "市場で果物をよく買いますか。",
+      "question_ruby": "市場で<ruby>果物<rt>くだもの</rt></ruby>をよく買いますか。",
+      "translation_id": "Apakah kamu sering membeli buah di pasar?",
+      "example_answer": "はい、よく買います。"
+    },
+    {
+      "id": "q8",
+      "level": "N5",
+      "question": "市場で値段を聞きますか。",
+      "question_ruby": "市場で<ruby>値段<rt>ねだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu menanyakan harga di pasar?",
+      "example_answer": "はい、聞きます。"
+    },
+    {
+      "id": "q9",
+      "level": "N4",
+      "question": "市場で店員さんと話しますか。",
+      "question_ruby": "市場で<ruby>店員<rt>てんいん</rt></ruby>さんと話しますか。",
+      "translation_id": "Apakah kamu berbicara dengan penjual di pasar?",
+      "example_answer": "はい、話します。"
+    },
+    {
+      "id": "q10",
+      "level": "N5",
+      "question": "市場でどんな野菜をよく買いますか。",
+      "question_ruby": "市場でどんな<ruby>野菜<rt>やさい</rt></ruby>をよく買いますか。",
+      "translation_id": "Sayuran apa yang sering kamu beli di pasar?",
+      "example_answer": "<ruby>トマト<rt></rt></ruby>をよく買います。"
+    },
+    {
+      "id": "q11",
+      "level": "N4",
+      "question": "市場で新鮮な魚を選びますか。",
+      "question_ruby": "市場で<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚<rt>さかな</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びますか。",
+      "translation_id": "Apakah kamu memilih ikan segar di pasar?",
+      "example_answer": "はい、選びます。"
+    },
+    {
+      "id": "q12",
+      "level": "N5",
+      "question": "市場で何時に行きますか。",
+      "question_ruby": "市場で何<rt>なん</rt></ruby>時<rt>じ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Jam berapa kamu pergi ke pasar?",
+      "example_answer": "<ruby>朝<rt>あさ</rt></ruby>８時に行きます。"
+    },
+    {
+      "id": "q13",
+      "level": "N4",
+      "question": "市場で特売品を買いますか。",
+      "question_ruby": "市場で<ruby>特売品<rt>とくばいひん</rt></ruby>を買いますか。",
+      "translation_id": "Apakah kamu membeli barang diskon di pasar?",
+      "example_answer": "はい、時々買います。"
+    },
+    {
+      "id": "q14",
+      "level": "N5",
+      "question": "市場で何人で買い物しますか。",
+      "question_ruby": "市場で何<rt>なん</rt></ruby>人で<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>しますか。",
+      "translation_id": "Berapa orang yang biasanya belanja di pasar bersamamu?",
+      "example_answer": "一人で買い物します。"
+    },
+    {
+      "id": "q15",
+      "level": "N4",
+      "question": "市場で安いものを探しますか。",
+      "question_ruby": "市場で<ruby>安<rt>やす</rt></ruby>いものを<ruby>探<rt>さが</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu mencari barang murah di pasar?",
+      "example_answer": "はい、探します。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "市場で新しい食材を試しますか。",
+      "question_ruby": "市場で新しい<ruby>食材<rt>しょくざい</rt></ruby>を<ruby>試<rt>ため</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu mencoba bahan makanan baru di pasar?",
+      "example_answer": "はい、試します。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "市場でどのくらいの時間買い物しますか。",
+      "question_ruby": "市場でどのくらいの<ruby>時間<rt>じかん</rt></ruby>買い物しますか。",
+      "translation_id": "Berapa lama kamu berbelanja di pasar?",
+      "example_answer": "だいたい1時間買い物します。"
+    },
+    {
+      "id": "q18",
+      "level": "N5",
+      "question": "市場で何を買うのが一番好きですか。",
+      "question_ruby": "市場で何を買うのが一番<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Di pasar, apa yang paling kamu suka beli?",
+      "example_answer": "<ruby>果物<rt>くだもの</rt></ruby>が一番好きです。"
+    },
+    {
+      "id": "q19",
+      "level": "N4",
+      "question": "市場で店員さんに値段を聞きますか。",
+      "question_ruby": "市場で<ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>値段<rt>ねだん</rt></ruby>を聞きますか。",
+      "translation_id": "Apakah kamu menanyakan harga kepada penjual di pasar?",
+      "example_answer": "はい、聞きます。"
+    },
+    {
+      "id": "q20",
+      "level": "N5",
+      "question": "市場で買い物を楽しみますか。",
+      "question_ruby": "市場で<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみますか。",
+      "translation_id": "Apakah kamu menikmati belanja di pasar?",
+      "example_answer": "はい、楽しみます。"
+    },
+    {
+      "id": "q21",
+      "level": "N4",
+      "question": "市場で何をまとめて買いますか。",
+      "question_ruby": "市場で何をまとめて買いますか。",
+      "translation_id": "Barang apa saja yang biasanya kamu beli sekaligus di pasar?",
+      "example_answer": "<ruby>野菜<rt>やさい</rt></ruby>と<ruby>果物<rt>くだもの</rt></ruby>をまとめて買います。"
+    },
+    {
+      "id": "q22",
+      "level": "N5",
+      "question": "市場で買い物の後、どこに行きますか。",
+      "question_ruby": "市場で買い物の後、どこに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Setelah belanja di pasar, kamu pergi ke mana?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>に帰ります。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "市場で買うものをリストに書きますか。",
+      "question_ruby": "市場で買うものをリストに<ruby>書<rt>か</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu menulis daftar belanjaan sebelum ke pasar?",
+      "example_answer": "はい、書きます。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "市場で友達と買い物しますか。",
+      "question_ruby": "市場で<ruby>友達<rt>ともだち</rt></ruby>と買い物しますか。",
+      "translation_id": "Apakah kamu berbelanja di pasar bersama teman?",
+      "example_answer": "はい、友達と行きます。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "市場で買い物をするとき、気をつけることは何ですか。",
+      "question_ruby": "市場で買い物をするとき、気をつけることは何ですか。",
+      "translation_id": "Saat belanja di pasar, apa yang harus diperhatikan?",
+      "example_answer": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>を選びます。"
+    }
+  ]
+}

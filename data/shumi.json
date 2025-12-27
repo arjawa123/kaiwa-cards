@@ -1,0 +1,246 @@
+{
+  "id": "shumi",
+  "name": "<ruby>趣味<rt>しゅみ</rt></ruby>",
+  "questions": [
+    {
+      "id": "h1",
+      "level": "N5",
+      "question": "趣味は何ですか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Hobimu apa?",
+      "example_answer": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことです。"
+    },
+    {
+      "id": "h2",
+      "level": "N5",
+      "question": "休みの日は何をしますか。",
+      "question_ruby": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Hari libur kamu melakukan apa?",
+      "example_answer": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "h3",
+      "level": "N4",
+      "question": "その趣味をいつから始めましたか。",
+      "question_ruby": "その<ruby>趣味<rt>しゅみ</rt></ruby>をいつから<ruby>始<rt>はじ</rt></ruby>めましたか。",
+      "translation_id": "Hobi itu mulai dari kapan?",
+      "example_answer": "２<ruby>年前<rt>ねんまえ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。"
+    },
+    {
+      "id": "h4",
+      "level": "N4",
+      "question": "その趣味は一人ですることが多いですか。",
+      "question_ruby": "その<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>ですることが<ruby>多<rt>おお</rt></ruby>いですか。",
+      "translation_id": "Hobi itu sering dilakukan sendiri?",
+      "example_answer": "<ruby>一人<rt>ひとり</rt></ruby>ですることが<ruby>多<rt>おお</rt></ruby>いです。"
+    },
+    {
+      "id": "h5",
+      "level": "N4",
+      "question": "これから新しい趣味を始めたいですか。",
+      "question_ruby": "これから<ruby>新<rt>あたら</rt></ruby>しい<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めたいですか。",
+      "translation_id": "Apakah kamu ingin memulai hobi baru?",
+      "example_answer": "はい、<ruby>料理<rt>りょうり</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いたいです。"
+    },
+    {
+      "id": "h6",
+      "level": "N5",
+      "question": "趣味は家でしますか、それとも外でしますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>ですか、それとも<ruby>外<rt>そと</rt></ruby>でしますか。",
+      "translation_id": "Hobi dilakukan di rumah atau di luar?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>で<ruby>趣味<rt>しゅみ</rt></ruby>をします。"
+    },
+    {
+      "id": "h7",
+      "level": "N4",
+      "question": "趣味にどのくらい時間を使いますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>にどのくらい<ruby>時間<rt>じかん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Berapa lama waktu yang kamu habiskan untuk hobi?",
+      "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby>１<ruby>時間使<rt>じかんつか</rt></ruby>います。"
+    },
+    {
+      "id": "h8",
+      "level": "N5",
+      "question": "趣味の道具は何ですか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>道具<rt>どうぐ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Alat apa yang kamu gunakan untuk hobimu?",
+      "example_answer": "ギターを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "h9",
+      "level": "N4",
+      "question": "趣味の友達はいますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>はいますか。",
+      "translation_id": "Apakah kamu punya teman untuk hobi itu?",
+      "example_answer": "はい、<ruby>友達<rt>ともだち</rt></ruby>がいます。"
+    },
+    {
+      "id": "h10",
+      "level": "N5",
+      "question": "趣味で何を作りますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>で<ruby>何<rt>なに</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りますか。",
+      "translation_id": "Apa yang kamu buat dari hobimu?",
+      "example_answer": "<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>きます。"
+    },
+    {
+      "id": "h11",
+      "level": "N4",
+      "question": "趣味はお金がかかりますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>はお<ruby>金<rt>かね</rt></ruby>がかかりますか。",
+      "translation_id": "Apakah hobi itu menghabiskan uang?",
+      "example_answer": "はい、<ruby>少<rt>すこ</rt></ruby>しかかります。"
+    },
+    {
+      "id": "h12",
+      "level": "N5",
+      "question": "趣味の本は持っていますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>は<ruby>持<rt>も</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu punya buku tentang hobimu?",
+      "example_answer": "<ruby>本<rt>ほん</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。"
+    },
+    {
+      "id": "h13",
+      "level": "N4",
+      "question": "趣味は週に何回しますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週<rt>しゅう</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby>しますか。",
+      "translation_id": "Berapa kali seminggu kamu melakukan hobi itu?",
+      "example_answer": "<ruby>週<rt>しゅう</rt></ruby>に２<ruby>回<rt>かい</rt></ruby>します。"
+    },
+    {
+      "id": "h14",
+      "level": "N5",
+      "question": "趣味の写真を撮りますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu mengambil foto untuk hobimu?",
+      "example_answer": "はい、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。"
+    },
+    {
+      "id": "h15",
+      "level": "N4",
+      "question": "趣味のグループに入っていますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>のグループに<ruby>入<rt>はい</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu bergabung dengan grup hobi?",
+      "example_answer": "はい、<ruby>入<rt>はい</rt></ruby>っています。"
+    },
+    {
+      "id": "h16",
+      "level": "N5",
+      "question": "趣味は楽しいですか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しいですか。",
+      "translation_id": "Apakah hobimu menyenangkan?",
+      "example_answer": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しいです。"
+    },
+    {
+      "id": "h17",
+      "level": "N4",
+      "question": "趣味で新しいことを学びますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しいことを<ruby>学<rt>まな</rt></ruby>びますか。",
+      "translation_id": "Apakah kamu belajar hal baru dari hobimu?",
+      "example_answer": "はい、<ruby>新<rt>あたら</rt></ruby>しいことを<ruby>学<rt>まな</rt></ruby>びます。"
+    },
+    {
+      "id": "h18",
+      "level": "N5",
+      "question": "趣味のために旅行しますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>のために<ruby>旅行<rt>りょこう</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu bepergian untuk hobimu?",
+      "example_answer": "はい、<ruby>旅行<rt>りょこう</rt></ruby>します。"
+    },
+    {
+      "id": "h19",
+      "level": "N4",
+      "question": "趣味のために道具を買いますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>のために<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli alat untuk hobimu?",
+      "example_answer": "はい、<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "h20",
+      "level": "N5",
+      "question": "趣味は友達と一緒にしますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にしますか。",
+      "translation_id": "Apakah kamu melakukan hobi bersama teman?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にします。"
+    },
+    {
+      "id": "h21",
+      "level": "N4",
+      "question": "日本のアニメを見るのが好きですか。",
+      "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>のアニメを<ruby>見<rt>み</rt></ruby>るのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka menonton anime Jepang?",
+      "example_answer": "はい、アニメを<ruby>見<rt>み</rt></ruby>るのが<ruby>大好<rt>だいす</rt></ruby>きです。"
+    },
+    {
+      "id": "h22",
+      "level": "N5",
+      "question": "スポーツをよくしますか。",
+      "question_ruby": "スポーツをよくしますか。",
+      "translation_id": "Apakah kamu sering berolahraga?",
+      "example_answer": "はい、ときどきサッカーをします。"
+    },
+    {
+      "id": "h23",
+      "level": "N4",
+      "question": "趣味について日本語で話せますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>について<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>せますか。",
+      "translation_id": "Bisakah kamu berbicara tentang hobimu dalam bahasa Jepang?",
+      "example_answer": "はい、<ruby>少<rt>すこ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>せます。"
+    },
+    {
+      "id": "h24",
+      "level": "N5",
+      "question": "読書は好きですか。",
+      "question_ruby": "<ruby>読書<rt>どくしょ</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka membaca buku?",
+      "example_answer": "はい、<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。"
+    },
+    {
+      "id": "h25",
+      "level": "N4",
+      "question": "趣味の発表会に行ったことがありますか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>発表会<rt>はっぴょうかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったことがありますか。",
+      "translation_id": "Pernahkah kamu pergi ke pameran/pertunjukan hobi?",
+      "example_answer": "はい、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>発表会<rt>はっぴょうかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+    },
+    {
+      "id": "h26",
+      "level": "N5",
+      "question": "ゲームを毎日しますか。",
+      "question_ruby": "ゲームを<ruby>毎日<rt>まいにち</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu bermain game setiap hari?",
+      "example_answer": "はい、<ruby>夜<rt>よる</rt></ruby>に１<ruby>時間<rt>じかん</rt></ruby>くらいします。"
+    },
+    {
+      "id": "h27",
+      "level": "N4",
+      "question": "将来、趣味を仕事にしたいですか。",
+      "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>仕事<rt>しごと</rt></ruby>にしたいですか。",
+      "translation_id": "Di masa depan, apakah kamu ingin menjadikan hobi sebagai pekerjaan?",
+      "example_answer": "はい、そうしたいです。"
+    },
+    {
+      "id": "h28",
+      "level": "N5",
+      "question": "カメラを持っていますか。",
+      "question_ruby": "カメラを<ruby>持<rt>も</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu memiliki kamera?",
+      "example_answer": "いいえ、スマホのカメラを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "h29",
+      "level": "N4",
+      "question": "最近、どんな新しい趣味を見つけましたか。",
+      "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、どんな<ruby>新<rt>あたら</rt></ruby>しい<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけましたか。",
+      "translation_id": "Belakangan ini, hobi baru apa yang kamu temukan?",
+      "example_answer": "<ruby>最近<rt>さいきん</rt></ruby>、ヨガを<ruby>始<rt>はじ</rt></ruby>めました。"
+    },
+    {
+      "id": "h30",
+      "level": "N5",
+      "question": "散歩は趣味ですか。",
+      "question_ruby": "<ruby>散歩<rt>さんぽ</rt></ruby>は<ruby>趣味<rt>しゅみ</rt></ruby>ですか。",
+      "translation_id": "Apakah jalan-jalan (santai) adalah hobimu?",
+      "example_answer": "はい、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きです。"
+    }
+  ]
+}

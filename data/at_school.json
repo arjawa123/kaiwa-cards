@@ -1,0 +1,246 @@
+{
+  "id": "at_school",
+  "name": "<ruby>学校<rt>がっこう</rt></ruby>で",
+  "questions": [
+    {
+      "id": "s1",
+      "level": "N5",
+      "question": "学校は好きですか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka sekolah?",
+      "example_answer": "はい、<ruby>学校<rt>がっこう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "s2",
+      "level": "N5",
+      "question": "毎日学校に何時に行きますか。",
+      "question_ruby": "<ruby>毎日学校<rt>まいにちがっこう</rt></ruby>に<ruby>何時<rt>なんじ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Setiap hari jam berapa kamu pergi ke sekolah?",
+      "example_answer": "８<ruby>時<rt>じ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ます。"
+    },
+    {
+      "id": "s3",
+      "level": "N5",
+      "question": "学校で何を勉強しますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>何<rt>なに</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しますか。",
+      "translation_id": "Di sekolah belajar apa?",
+      "example_answer": "<ruby>数学<rt>すうがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。"
+    },
+    {
+      "id": "s4",
+      "level": "N4",
+      "question": "授業は好きですか。",
+      "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka pelajaran?",
+      "example_answer": "はい、<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "s5",
+      "level": "N4",
+      "question": "好きな教科は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>教科<rt>きょうか</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Pelajaran favoritmu apa?",
+      "example_answer": "<ruby>英語<rt>えいご</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "s6",
+      "level": "N5",
+      "question": "学校で友達はいますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>はいますか。",
+      "translation_id": "Apakah kamu punya teman di sekolah?",
+      "example_answer": "はい、います。"
+    },
+    {
+      "id": "s7",
+      "level": "N5",
+      "question": "休み時間は何をしますか。",
+      "question_ruby": "<ruby>休<rt>やす</rt></ruby>み<ruby>時間<rt>じかん</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Saat istirahat, biasanya apa yang kamu lakukan?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。"
+    },
+    {
+      "id": "s8",
+      "level": "N4",
+      "question": "学校までどのくらいかかりますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>までどのくらいかかりますか。",
+      "translation_id": "Dari rumah ke sekolah butuh waktu berapa lama?",
+      "example_answer": "３０<ruby>分<rt>ぷん</rt></ruby>くらいかかります。"
+    },
+    {
+      "id": "s9",
+      "level": "N5",
+      "question": "昼ご飯は学校で食べますか。",
+      "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>で<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Apakah makan siang di sekolah?",
+      "example_answer": "はい、<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "s10",
+      "level": "N4",
+      "question": "学校の図書館を使いますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu menggunakan perpustakaan sekolah?",
+      "example_answer": "はい、よく<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "s11",
+      "level": "N5",
+      "question": "学校の帰りに何をしますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りに<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah pulang sekolah, apa yang kamu lakukan?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>って<ruby>宿題<rt>しゅくだい</rt></ruby>をします。"
+    },
+    {
+      "id": "s12",
+      "level": "N4",
+      "question": "先生は誰ですか。",
+      "question_ruby": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。",
+      "translation_id": "Siapa gurumu?",
+      "example_answer": "<ruby>田中先生<rt>たなかせんせい</rt></ruby>です。"
+    },
+    {
+      "id": "s13",
+      "level": "N5",
+      "question": "学校に制服がありますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>に<ruby>制服<rt>せいふく</rt></ruby>がありますか。",
+      "translation_id": "Apakah di sekolah ada seragam?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "s14",
+      "level": "N4",
+      "question": "学校の体育は好きですか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>体育<rt>たいいく</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka pelajaran olahraga di sekolah?",
+      "example_answer": "はい、<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "s15",
+      "level": "N5",
+      "question": "学校で部活をしていますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>部活<rt>ぶかつ</rt></ruby>をしていますか。",
+      "translation_id": "Apakah kamu mengikuti kegiatan ekstrakurikuler di sekolah?",
+      "example_answer": "はい、サッカー<ruby>部<rt>ぶ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っています。"
+    },
+    {
+      "id": "s16",
+      "level": "N4",
+      "question": "教室は何階ですか。",
+      "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>は<ruby>何階<rt>なんかい</rt></ruby>ですか。",
+      "translation_id": "Kelasmu di lantai berapa?",
+      "example_answer": "２<ruby>階<rt>かい</rt></ruby>です。"
+    },
+    {
+      "id": "s17",
+      "level": "N5",
+      "question": "学校で友達と何をしますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>と<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Di sekolah, biasanya melakukan apa dengan teman?",
+      "example_answer": "<ruby>話<rt>はな</rt></ruby>したり、<ruby>遊<rt>あそ</rt></ruby>んだりします。"
+    },
+    {
+      "id": "s18",
+      "level": "N4",
+      "question": "学校に自転車で行きますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Pergi ke sekolah pakai sepeda?",
+      "example_answer": "はい、<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "s19",
+      "level": "N5",
+      "question": "学校の図工は楽しいですか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>図工<rt>ずこう</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しいですか。",
+      "translation_id": "Apakah pelajaran seni di sekolah menyenangkan?",
+      "example_answer": "はい、<ruby>楽<rt>たの</rt></ruby>しいです。"
+    },
+    {
+      "id": "s20",
+      "level": "N4",
+      "question": "学校の音楽の授業は好きですか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka pelajaran musik di sekolah?",
+      "example_answer": "はい、<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "s21",
+      "level": "N5",
+      "question": "学校の帰りに友達と遊びますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びますか。",
+      "translation_id": "Setelah pulang sekolah, bermain dengan teman?",
+      "example_answer": "はい、<ruby>遊<rt>あそ</rt></ruby>びます。"
+    },
+    {
+      "id": "s22",
+      "level": "N4",
+      "question": "学校の休み時間は何分ですか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>休<rt>やす</rt></ruby>み<ruby>時間<rt>じかん</rt></ruby>は<ruby>何分<rt>なんぷん</rt></ruby>ですか。",
+      "translation_id": "Berapa menit waktu istirahat di sekolah?",
+      "example_answer": "１０<ruby>分<rt>ぷん</rt></ruby>です。"
+    },
+    {
+      "id": "s23",
+      "level": "N5",
+      "question": "学校で何を習っていますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>何<rt>なに</rt></ruby>を<ruby>習<rt>なら</rt></ruby>っていますか。",
+      "translation_id": "Di sekolah, kamu belajar apa?",
+      "example_answer": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>習<rt>なら</rt></ruby>っています。"
+    },
+    {
+      "id": "s24",
+      "level": "N4",
+      "question": "学校で試験はありますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>試験<rt>しけん</rt></ruby>はありますか。",
+      "translation_id": "Apakah ada ujian di sekolah?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "s25",
+      "level": "N5",
+      "question": "学校で何時に終わりますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりますか。",
+      "translation_id": "Sekolah selesai jam berapa?",
+      "example_answer": "３<ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
+    },
+    {
+      "id": "s26",
+      "level": "N4",
+      "question": "将来、どこの大学に行きたいですか。",
+      "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、どこの<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいですか。",
+      "translation_id": "Di masa depan, kamu ingin masuk universitas mana?",
+      "example_answer": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "s27",
+      "level": "N5",
+      "question": "筆箱の中に何がありますか。",
+      "question_ruby": "<ruby>筆箱<rt>ふでばこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>何<rt>なに</rt></ruby>がありますか。",
+      "translation_id": "Ada apa di dalam kotak pensilmu?",
+      "example_answer": "<ruby>鉛筆<rt>えんぴつ</rt></ruby>と<ruby>消<rt>け</rt></ruby>しゴムがあります。"
+    },
+    {
+      "id": "s28",
+      "level": "N4",
+      "question": "宿題は大変ですか。",
+      "question_ruby": "<ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>ですか。",
+      "translation_id": "Apakah PR itu berat/sulit?",
+      "example_answer": "はい、とても<ruby>大変<rt>たいへん</rt></ruby>です。"
+    },
+    {
+      "id": "s29",
+      "level": "N5",
+      "question": "教室に時計がありますか。",
+      "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>時計<rt>とけい</rt></ruby>がありますか。",
+      "translation_id": "Apakah ada jam di dalam kelas?",
+      "example_answer": "はい、<ruby>黒板<rt>こくばん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあります。"
+    },
+    {
+      "id": "s30",
+      "level": "N4",
+      "question": "学校の行事で何が一番楽しいですか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>一番楽<rt>いちばんたの</rt></ruby>しいですか。",
+      "translation_id": "Acara sekolah apa yang paling menyenangkan?",
+      "example_answer": "<ruby>文化祭<rt>ぶんかさい</rt></ruby>が<ruby>一番楽<rt>いちばんたの</rt></ruby>しいです。"
+    }
+  ]
+}

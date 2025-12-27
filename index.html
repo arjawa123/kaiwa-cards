@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kaiwa FlashCard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+</head>
+
+<body>
+  
+<div id="loading" class="loading">
+  📦 Loading data...
+</div>
+
+<div class="container">
+
+  <!-- HOME -->
+  <div id="home">
+    <h1>🇯🇵 Kaiwa FlashCard</h1>
+
+    <div class="card">
+      <h2>Tema</h2>
+      <div class="theme-buttons" id="themeContainer"></div>
+
+      <label style="display:block;margin-top:12px;">
+        <input type="checkbox" id="randomThemeChk">
+        Random Questions
+      </label>
+
+      <h2>Level</h2>
+      <div class="level-group">
+        <label><input type="radio" name="level" value="ALL" checked> ALL</label>
+        <label><input type="radio" name="level" value="N5"> N5</label>
+        <label><input type="radio" name="level" value="N4"> N4</label>
+      </div>
+
+      <h2>Mode</h2>
+      <div class="mode-buttons">
+        <button onclick="selectMode('free', this)" class="active">Free Talk</button>
+        <button onclick="selectMode('hint', this)">Translation</button>
+      </div>
+
+      <button class="start-btn" onclick="startSession()">START</button>
+    </div>
+  </div>
+
+  <!-- PRACTICE -->
+  <div id="practice" class="hidden">
+    <div class="meta" id="metaInfo"></div>
+
+    <div class="card">
+      <div class="questionImg" id="questionImg"></div>
+      <div class="question" id="questionText"></div>
+
+      <div class="hint hidden" id="hintBox"></div>
+      <button class="nav-btn" onclick="toggleExample()">Contoh Jawaban</button>
+      <div class="hint hidden" id="exampleBox"></div>
+
+      <div class="nav">
+        <button class="nav-btn end" onclick="endSession()">END</button>
+        <button class="nav-btn" onclick="nextQuestion()">NEXT</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- END -->
+  <div id="end" class="hidden">
+    <div class="card">
+      <div class="banner" id="banner"></div>
+      <h2>セッション終了 🎉</h2>
+      <p id="summary"></p>
+      <button class="start-btn" onclick="goHome()">HOME</button>
+    </div>
+  </div>
+
+</div>
+
+<script src="script.js" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>

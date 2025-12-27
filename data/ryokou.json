@@ -1,0 +1,246 @@
+{
+  "id": "ryokou",
+  "name": "<ruby>旅行<rt>りょこう</rt></ruby>",
+  "questions": [
+    {
+      "id": "r1",
+      "level": "N5",
+      "question": "旅行は好きですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka bepergian?",
+      "example_answer": "はい、<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "r2",
+      "level": "N5",
+      "question": "今までにどこへ行きましたか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>までにどこへ<ruby>行<rt>い</rt></ruby>きましたか。",
+      "translation_id": "Sampai sekarang, ke mana saja kamu pergi?",
+      "example_answer": "<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。"
+    },
+    {
+      "id": "r3",
+      "level": "N4",
+      "question": "旅行でいちばん楽しかったところはどこですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>でいちばん<ruby>楽<rt>たの</rt></ruby>しかったところはどこですか。",
+      "translation_id": "Tempat mana yang paling menyenangkan saat perjalanan?",
+      "example_answer": "<ruby>沖縄<rt>おきなわ</rt></ruby>がいちばん<ruby>楽<rt>たの</rt></ruby>しかったです。"
+    },
+    {
+      "id": "r4",
+      "level": "N4",
+      "question": "旅行するとき、何を大切にしますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>するとき、<ruby>何<rt>なに</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしますか。",
+      "translation_id": "Saat bepergian, apa yang kamu anggap penting?",
+      "example_answer": "<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。"
+    },
+    {
+      "id": "r5",
+      "level": "N4",
+      "question": "次はどこへ旅行したいですか。",
+      "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>はどこへ<ruby>旅行<rt>りょこう</rt></ruby>したいですか。",
+      "translation_id": "Kemana kamu ingin pergi selanjutnya?",
+      "example_answer": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "r6",
+      "level": "N5",
+      "question": "旅行の計画は自分で作りますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu membuat rencana perjalanan sendiri?",
+      "example_answer": "はい、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ります。"
+    },
+    {
+      "id": "r7",
+      "level": "N4",
+      "question": "旅行に行くとき、何を持って行きますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くとき、<ruby>何<rt>なに</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Saat bepergian, apa yang kamu bawa?",
+      "example_answer": "パスポートとお<ruby>金<rt>かね</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "r8",
+      "level": "N5",
+      "question": "旅行の前にチケットを予約しますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にチケットを<ruby>予約<rt>よやく</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu memesan tiket sebelum perjalanan?",
+      "example_answer": "はい、<ruby>予約<rt>よやく</rt></ruby>します。"
+    },
+    {
+      "id": "r9",
+      "level": "N5",
+      "question": "旅行で一番楽しみにしていることは何ですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>楽<rt>たの</rt></ruby>しみにしていることは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Hal apa yang paling kamu nantikan saat bepergian?",
+      "example_answer": "<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べることが<ruby>一番楽<rt>いちばんたの</rt></ruby>しみです。"
+    },
+    {
+      "id": "r10",
+      "level": "N4",
+      "question": "旅行に行くとき、誰と行きますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くとき、<ruby>誰<rt>だれ</rt></ruby>と<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Dengan siapa kamu pergi bepergian?",
+      "example_answer": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "r11",
+      "level": "N5",
+      "question": "旅行中に写真を撮りますか。",
+      "question_ruby": "<ruby>旅行中<rt>りょこうちゅう</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu mengambil foto saat bepergian?",
+      "example_answer": "はい、たくさん<ruby>撮<rt>と</rt></ruby>ります。"
+    },
+    {
+      "id": "r12",
+      "level": "N4",
+      "question": "旅行で困ったことは何ですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>困<rt>こま</rt></ruby>ったことは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa kesulitan yang pernah kamu alami saat bepergian?",
+      "example_answer": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったことがありました。"
+    },
+    {
+      "id": "r13",
+      "level": "N5",
+      "question": "旅行で何を食べましたか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましたか。",
+      "translation_id": "Apa yang kamu makan saat bepergian?",
+      "example_answer": "<ruby>寿司<rt>すし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。"
+    },
+    {
+      "id": "r14",
+      "level": "N4",
+      "question": "旅行で行きたい国はどこですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>行<rt>い</rt></ruby>きたい<ruby>国<rt>くに</rt></ruby>はどこですか。",
+      "translation_id": "Negara mana yang ingin kamu kunjungi?",
+      "example_answer": "フランスに<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "r15",
+      "level": "N5",
+      "question": "旅行の準備はいつから始めますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>はいつから<ruby>始<rt>はじ</rt></ruby>めますか。",
+      "translation_id": "Kapan kamu mulai mempersiapkan perjalanan?",
+      "example_answer": "<ruby>一週間前<rt>いっしゅうかんまえ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。"
+    },
+    {
+      "id": "r16",
+      "level": "N4",
+      "question": "旅行でお土産は買いますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>でお<ruby>土産<rt>みやげ</rt></ruby>は<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu membeli oleh-oleh saat bepergian?",
+      "example_answer": "はい、<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "r17",
+      "level": "N5",
+      "question": "旅行で宿泊先はどこですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>宿泊先<rt>しゅくはくさき</rt></ruby>はどこですか。",
+      "translation_id": "Di mana kamu menginap saat bepergian?",
+      "example_answer": "ホテルに<ruby>泊<rt>と</rt></ruby>まります。"
+    },
+    {
+      "id": "r18",
+      "level": "N4",
+      "question": "旅行で行きたい都市はどこですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>行<rt>い</rt></ruby>きたい<ruby>都市<rt>とし</rt></ruby>はどこですか。",
+      "translation_id": "Kota mana yang ingin kamu kunjungi saat bepergian?",
+      "example_answer": "<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "r19",
+      "level": "N5",
+      "question": "旅行で使うお金はいくらですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>はいくらですか。",
+      "translation_id": "Berapa banyak uang yang kamu gunakan untuk perjalanan?",
+      "example_answer": "<ruby>三万円<rt>さんまんえん</rt></ruby>くらいです。"
+    },
+    {
+      "id": "r20",
+      "level": "N4",
+      "question": "旅行で一番楽しみにしていることは何ですか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>楽<rt>たの</rt></ruby>しみにしていることは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Hal apa yang paling kamu nantikan saat bepergian?",
+      "example_answer": "<ruby>観光<rt>かんこう</rt></ruby>することが<ruby>一番楽<rt>いちばんたの</rt></ruby>しみです。"
+    },
+    {
+      "id": "r21",
+      "level": "N5",
+      "question": "旅行の計画は誰と立てますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>と<ruby>立<rt>た</rt></ruby>てますか。",
+      "translation_id": "Dengan siapa kamu membuat rencana perjalanan?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てます。"
+    },
+    {
+      "id": "r22",
+      "level": "N5",
+      "question": "飛行機に乗るのが好きですか。",
+      "question_ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka naik pesawat?",
+      "example_answer": "はい、<ruby>空<rt>そら</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "r23",
+      "level": "N4",
+      "question": "一人旅とグループ旅行、どちらがいいですか。",
+      "question_ruby": "<ruby>一人旅<rt>ひとりたび</rt></ruby>とグループ<ruby>旅行<rt>りょこう</rt></ruby>、どちらがいいですか。",
+      "translation_id": "Mana yang lebih baik, bepergian sendiri atau dalam grup?",
+      "example_answer": "<ruby>自由<rt>じゆう</rt></ruby>なので<ruby>一人旅<rt>ひとりたび</rt></ruby>がいいです。"
+    },
+    {
+      "id": "r24",
+      "level": "N5",
+      "question": "海と山、どちらへ旅行したいですか。",
+      "question_ruby": "<ruby>海<rt>うみ</rt></ruby>と<ruby>山<rt>やま</rt></ruby>、どちらへ<ruby>旅行<rt>りょこう</rt></ruby>したいですか。",
+      "translation_id": "Ke laut atau gunung, kamu ingin bepergian ke mana?",
+      "example_answer": "<ruby>泳<rt>およ</rt></ruby>ぎたいので<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "r25",
+      "level": "N4",
+      "question": "旅行のバッグは何を使いますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>のバッグは<ruby>何<rt>なに</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Tas apa yang kamu gunakan untuk bepergian?",
+      "example_answer": "スーツケースを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "r26",
+      "level": "N5",
+      "question": "旅行で神社や寺に行きますか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>神社<rt>じんじゃ</rt></ruby>や<ruby>寺<rt>てら</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu pergi ke kuil Shinto atau Buddha saat bepergian?",
+      "example_answer": "はい、よく<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "r27",
+      "level": "N4",
+      "question": "格安航空券を探したことがありますか。",
+      "question_ruby": "<ruby>格安航空券<rt>かくやすこうくうけん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>したことがありますか。",
+      "translation_id": "Pernahkah kamu mencari tiket pesawat murah?",
+      "example_answer": "はい、インターネットで<ruby>探<rt>さが</rt></ruby>します。"
+    },
+    {
+      "id": "r28",
+      "level": "N5",
+      "question": "旅行で新しい友達ができましたか。",
+      "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>ができましたか。",
+      "translation_id": "Apakah kamu mendapatkan teman baru saat bepergian?",
+      "example_answer": "はい、ホテルのロビーでできました。"
+    },
+    {
+      "id": "r29",
+      "level": "N4",
+      "question": "温泉があるホテルに泊まりたいですか。",
+      "question_ruby": "<ruby>温泉<rt>おんせん</rt></ruby>があるホテルに<ruby>泊<rt>と</rt></ruby>まりたいですか。",
+      "translation_id": "Apakah kamu ingin menginap di hotel yang ada pemandian air panasnya?",
+      "example_answer": "はい、ゆっくりしたいです。"
+    },
+    {
+      "id": "r30",
+      "level": "N5",
+      "question": "またあそこへ行きたいですか。",
+      "question_ruby": "またあそこへ<ruby>行<rt>い</rt></ruby>きたいですか。",
+      "translation_id": "Apakah kamu ingin pergi ke sana lagi?",
+      "example_answer": "はい、また<ruby>行<rt>い</rt></ruby>きたいです。"
+    }
+  ]
+}

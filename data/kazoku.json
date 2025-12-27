@@ -1,0 +1,246 @@
+{
+  "id": "kazoku",
+  "name": "<ruby>家族<rt>かぞく</rt></ruby>",
+  "questions": [
+    {
+      "id": "f1",
+      "level": "N5",
+      "question": "家族は何人ですか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>は<ruby>何人<rt>なんにん</rt></ruby>ですか。",
+      "translation_id": "Keluargamu ada berapa orang?",
+      "example_answer": "４<ruby>人<rt>にん</rt></ruby>です。"
+    },
+    {
+      "id": "f2",
+      "level": "N5",
+      "question": "家族は誰ですか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。",
+      "translation_id": "Siapa saja keluargamu?",
+      "example_answer": "<ruby>母<rt>はは</rt></ruby>と<ruby>父<rt>ちち</rt></ruby>と<ruby>私<rt>わたし</rt></ruby>です。"
+    },
+    {
+      "id": "f3",
+      "level": "N4",
+      "question": "兄弟はいますか。",
+      "question_ruby": "<ruby>兄弟<rt>きょうだい</rt></ruby>はいますか。",
+      "translation_id": "Apakah kamu punya saudara kandung?",
+      "example_answer": "はい、<ruby>兄<rt>あに</rt></ruby>が<ruby>一人<rt>ひとり</rt></ruby>います。"
+    },
+    {
+      "id": "f4",
+      "level": "N5",
+      "question": "父は何をしていますか。",
+      "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしていますか。",
+      "translation_id": "Ayahmu bekerja sebagai apa?",
+      "example_answer": "<ruby>父<rt>ちち</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。"
+    },
+    {
+      "id": "f5",
+      "level": "N5",
+      "question": "母は何をしていますか。",
+      "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしていますか。",
+      "translation_id": "Ibumu melakukan apa?",
+      "example_answer": "<ruby>母<rt>はは</rt></ruby>は<ruby>主婦<rt>しゅふ</rt></ruby>です。"
+    },
+    {
+      "id": "f6",
+      "level": "N4",
+      "question": "家族と一緒に何をしますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Bersama keluarga biasanya melakukan apa?",
+      "example_answer": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "f7",
+      "level": "N5",
+      "question": "週末は家族とどこに行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>とどこに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Akhir minggu pergi ke mana bersama keluarga?",
+      "example_answer": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "f8",
+      "level": "N4",
+      "question": "家族とよく話しますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>とよく<ruby>話<rt>はな</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu sering berbicara dengan keluarga?",
+      "example_answer": "はい、よく<ruby>話<rt>はな</rt></ruby>します。"
+    },
+    {
+      "id": "f9",
+      "level": "N5",
+      "question": "兄弟と仲がいいですか。",
+      "question_ruby": "<ruby>兄弟<rt>きょうだい</rt></ruby>と<ruby>仲<rt>なか</rt></ruby>がいいですか。",
+      "translation_id": "Apakah kamu dekat dengan saudara?",
+      "example_answer": "はい、<ruby>仲<rt>なか</rt></ruby>がいいです。"
+    },
+    {
+      "id": "f10",
+      "level": "N4",
+      "question": "家族と一緒に食事をしますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>をしますか。",
+      "translation_id": "Apakah makan bersama keluarga?",
+      "example_answer": "はい、します。"
+    },
+    {
+      "id": "f11",
+      "level": "N5",
+      "question": "家族の誕生日を祝いますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>を<ruby>祝<rt>いわ</rt></ruby>いますか。",
+      "translation_id": "Apakah merayakan ulang tahun keluarga?",
+      "example_answer": "はい、<ruby>祝<rt>いわ</rt></ruby>います。"
+    },
+    {
+      "id": "f12",
+      "level": "N4",
+      "question": "家族はどこに住んでいますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>はどこに<ruby>住<rt>す</rt></ruby>んでいますか。",
+      "translation_id": "Keluarga tinggal di mana?",
+      "example_answer": "<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。"
+    },
+    {
+      "id": "f13",
+      "level": "N5",
+      "question": "家族で旅行しますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>しますか。",
+      "translation_id": "Apakah pergi jalan-jalan dengan keluarga?",
+      "example_answer": "はい、<ruby>旅行<rt>りょこう</rt></ruby>します。"
+    },
+    {
+      "id": "f14",
+      "level": "N4",
+      "question": "家族の写真を見せますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せますか。",
+      "translation_id": "Apakah menunjukkan foto keluarga?",
+      "example_answer": "はい、<ruby>見<rt>み</rt></ruby>せます。"
+    },
+    {
+      "id": "f15",
+      "level": "N5",
+      "question": "家族とよく電話しますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>とよく<ruby>電話<rt>でんわ</rt></ruby>しますか。",
+      "translation_id": "Apakah sering telepon dengan keluarga?",
+      "example_answer": "はい、よくします。"
+    },
+    {
+      "id": "f16",
+      "level": "N4",
+      "question": "家族と一緒にテレビを見ますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にテレビを<ruby>見<rt>み</rt></ruby>ますか。",
+      "translation_id": "Apakah menonton TV bersama keluarga?",
+      "example_answer": "はい、<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "f17",
+      "level": "N5",
+      "question": "家族は元気ですか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>ですか。",
+      "translation_id": "Apakah keluargamu sehat?",
+      "example_answer": "はい、<ruby>元気<rt>げんき</rt></ruby>です。"
+    },
+    {
+      "id": "f18",
+      "level": "N4",
+      "question": "家族と外食しますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>外食<rt>がいしょく</rt></ruby>しますか。",
+      "translation_id": "Apakah makan di luar bersama keluarga?",
+      "example_answer": "はい、します。"
+    },
+    {
+      "id": "f19",
+      "level": "N5",
+      "question": "祖父母と住んでいますか。",
+      "question_ruby": "<ruby>祖父母<rt>そふぼ</rt></ruby>と<ruby>住<rt>す</rt></ruby>んでいますか。",
+      "translation_id": "Apakah tinggal bersama kakek dan nenek?",
+      "example_answer": "いいえ、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいません。"
+    },
+    {
+      "id": "f20",
+      "level": "N4",
+      "question": "家族でイベントに行きますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>でイベントに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi ke acara bersama keluarga?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "f21",
+      "level": "N5",
+      "question": "家族はどんな人ですか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>はどんな<ruby>人<rt>ひと</rt></ruby>ですか。",
+      "translation_id": "Keluargamu orangnya bagaimana?",
+      "example_answer": "<ruby>優<rt>やさ</rt></ruby>しいです。"
+    },
+    {
+      "id": "f22",
+      "level": "N4",
+      "question": "家族と写真を撮りますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りますか。",
+      "translation_id": "Apakah mengambil foto bersama keluarga?",
+      "example_answer": "はい、<ruby>撮<rt>と</rt></ruby>ります。"
+    },
+    {
+      "id": "f23",
+      "level": "N5",
+      "question": "家族に手紙を書きますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きますか。",
+      "translation_id": "Apakah menulis surat untuk keluarga?",
+      "example_answer": "はい、<ruby>書<rt>か</rt></ruby>きます。"
+    },
+    {
+      "id": "f24",
+      "level": "N4",
+      "question": "家族とよく旅行しますか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>とよく<ruby>旅行<rt>りょこう</rt></ruby>しますか。",
+      "translation_id": "Apakah sering pergi jalan-jalan dengan keluarga?",
+      "example_answer": "はい、よくします。"
+    },
+    {
+      "id": "f25",
+      "level": "N5",
+      "question": "家族と仲がいいですか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>仲<rt>なか</rt></ruby>がいいですか。",
+      "translation_id": "Apakah kamu dekat dengan keluargamu?",
+      "example_answer": "はい、<ruby>仲<rt>なか</rt></ruby>がいいです。"
+    },
+    {
+      "id": "f26",
+      "level": "N4",
+      "question": "兄弟は何をしていますか。",
+      "question_ruby": "<ruby>兄弟<rt>きょうだい</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしていますか。",
+      "translation_id": "Saudaramu melakukan apa (pekerjaan/status)?",
+      "example_answer": "<ruby>兄<rt>あに</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。"
+    },
+    {
+      "id": "f27",
+      "level": "N5",
+      "question": "お父さんの名前は何ですか。",
+      "question_ruby": "お<ruby>父<rt>とう</rt></ruby>さんの<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Siapa nama ayahmu?",
+      "example_answer": "スハルトです。"
+    },
+    {
+      "id": "f28",
+      "level": "N4",
+      "question": "家族で誰が一番背が高いですか。",
+      "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>で<ruby>誰<rt>だれ</rt></ruby>が<ruby>一番背<rt>いちばんせ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いですか。",
+      "translation_id": "Di keluarga, siapa yang paling tinggi badannya?",
+      "example_answer": "<ruby>父<rt>ちち</rt></ruby>が<ruby>一番高<rt>いちばんたか</rt></ruby>いです。"
+    },
+    {
+      "id": "f29",
+      "level": "N5",
+      "question": "ペットは家族ですか。",
+      "question_ruby": "ペットは<ruby>家族<rt>かぞく</rt></ruby>ですか。",
+      "translation_id": "Apakah hewan peliharaan adalah bagian dari keluarga?",
+      "example_answer": "はい、<ruby>犬<rt>いぬ</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>家族<rt>かぞく</rt></ruby>です。"
+    },
+    {
+      "id": "f30",
+      "level": "N4",
+      "question": "いつ家族に会いますか。",
+      "question_ruby": "いつ<ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いますか。",
+      "translation_id": "Kapan kamu akan bertemu keluargamu?",
+      "example_answer": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みに<ruby>会<rt>あ</rt></ruby>います。"
+    }
+  ]
+}

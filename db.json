@@ -1,0 +1,285 @@
+{
+  "themes": [
+    {
+      "id": "seikatsu",
+      "name": "日常生活",
+      "questions": [
+        {
+          "id": "s1",
+          "level": "N5",
+          "question": "毎日何時に起きますか。",
+          "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きますか。",
+          "hint": "<ruby>〜時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます",
+          "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby>６<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。",
+          "img": "bed_boy_wake.png"
+        },
+        {
+          "id": "s2",
+          "level": "N4",
+          "question": "朝起きてから、何をしますか。",
+          "question_ruby": "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きてから、<ruby>何<rt>なに</rt></ruby>をしますか。",
+          "hint": "<ruby>〜てから<rt></rt></ruby>、〜ます",
+          "example_answer": "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きてから、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>って、<ruby>ご飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+          "img": "sleep_futon_samui_woman.png"
+        },
+        {
+          "id": "s3",
+          "level": "N5",
+          "question": "毎朝、朝ご飯を食べますか。",
+          "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+          "hint": "はい／いいえ",
+          "example_answer": "はい、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+          "img": "syokuji_boy_silent.png"
+        },
+        {
+          "id": "s4",
+          "level": "N5",
+          "question": "夜は何時に寝ますか。",
+          "question_ruby": "<ruby>夜<rt>よる</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ますか。",
+          "hint": "<ruby>〜時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます",
+          "example_answer": "<ruby>夜<rt>よる</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
+          "img": "sleep_nezou_bad_onaka_man.png"
+        },
+        {
+          "id": "s5",
+          "level": "N4",
+          "question": "平日と週末の生活は違いますか。",
+          "question_ruby": "<ruby>平日<rt>へいじつ</rt></ruby>と<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>いますか。",
+          "hint": "<ruby>〜が<rt></rt></ruby>、〜です",
+          "example_answer": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいですが、<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>です。",
+          "img": "rennai_kaeruka.png"
+        }
+      ]
+    },
+    {
+      "id": "kaimono",
+      "name": "買い物",
+      "questions": [
+        {
+          "id": "k1",
+          "level": "N5",
+          "question": "よくどこで買い物をしますか。",
+          "question_ruby": "よくどこで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしますか。",
+          "hint": "スーパー／コンビニ",
+          "example_answer": "スーパーで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をします。"
+        },
+        {
+          "id": "k2",
+          "level": "N4",
+          "question": "最近、何を買いましたか。",
+          "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いましたか。",
+          "hint": "<ruby>〜を<rt></rt></ruby>買いました",
+          "example_answer": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。"
+        },
+        {
+          "id": "k3",
+          "level": "N5",
+          "question": "買い物は好きですか。",
+          "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+          "hint": "好き／好きじゃない",
+          "example_answer": "はい、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+        },
+        {
+          "id": "k4",
+          "level": "N4",
+          "question": "買い物をするとき、値段と品質、どちらが大切ですか。",
+          "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をするとき、<ruby>値段<rt>ねだん</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby>、どちらが大切ですか。",
+          "hint": "<ruby>〜の<rt></rt></ruby>ほうが〜です",
+          "example_answer": "<ruby>品質<rt>ひんしつ</rt></ruby>のほうが大切です。"
+        },
+        {
+          "id": "k5",
+          "level": "N4",
+          "question": "店員さんに何を聞くことが多いですか。",
+          "question_ruby": "<ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>何<rt>なに</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことが多いですか。",
+          "hint": "<ruby>〜を<rt></rt></ruby>聞きます",
+          "example_answer": "<ruby>値段<rt>ねだん</rt></ruby>を聞くことが多いです。"
+        }
+      ]
+    },
+    {
+      "id": "shumi",
+      "name": "趣味",
+      "questions": [
+        {
+          "id": "h1",
+          "level": "N5",
+          "question": "趣味は何ですか。",
+          "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は何ですか。",
+          "hint": "〜です",
+          "example_answer": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことです。"
+        },
+        {
+          "id": "h2",
+          "level": "N5",
+          "question": "休みの日は何をしますか。",
+          "question_ruby": "<ruby>休<rt>やす</rt></ruby>みの日は<ruby>何<rt>なに</rt></ruby>をしますか。",
+          "hint": "〜をします",
+          "example_answer": "<ruby>休<rt>やす</rt></ruby>みの日は<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。"
+        },
+        {
+          "id": "h3",
+          "level": "N4",
+          "question": "その趣味をいつから始めましたか。",
+          "question_ruby": "その<ruby>趣味<rt>しゅみ</rt></ruby>をいつから<ruby>始<rt>はじ</rt></ruby>めましたか。",
+          "hint": "〜から",
+          "example_answer": "２<ruby>年前<rt>ねんまえ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。"
+        },
+        {
+          "id": "h4",
+          "level": "N4",
+          "question": "その趣味は一人ですることが多いですか。",
+          "question_ruby": "その<ruby>趣味<rt>しゅみ</rt></ruby>は一人ですることが多いですか。",
+          "hint": "よく／たまに",
+          "example_answer": "一人ですることが多いです。"
+        },
+        {
+          "id": "h5",
+          "level": "N4",
+          "question": "これから新しい趣味を始めたいですか。",
+          "question_ruby": "これから新しい<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めたいですか。",
+          "hint": "〜たいです",
+          "example_answer": "はい、<ruby>料理<rt>りょうり</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いたいです。"
+        }
+      ]
+    },
+    {
+      "id": "tabemono",
+      "name": "食べ物",
+      "questions": [
+        {
+          "id": "t1",
+          "level": "N5",
+          "question": "好きな食べ物は何ですか。",
+          "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は何ですか。",
+          "hint": "〜が好きです",
+          "example_answer": "<ruby>ラーメン<rt></rt></ruby>が好きです。"
+        },
+        {
+          "id": "t2",
+          "level": "N5",
+          "question": "昨日、何を食べましたか。",
+          "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましたか。",
+          "hint": "〜を食べました",
+          "example_answer": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>カレー<rt></rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。"
+        },
+        {
+          "id": "t3",
+          "level": "N4",
+          "question": "外食と自炊、どちらが多いですか。",
+          "question_ruby": "<ruby>外食<rt>がいしょく</rt></ruby>と<ruby>自炊<rt>じすい</rt></ruby>、どちらが多いですか。",
+          "hint": "〜のほうが多いです",
+          "example_answer": "<ruby>外食<rt>がいしょく</rt></ruby>のほうが多いです。"
+        },
+        {
+          "id": "t4",
+          "level": "N4",
+          "question": "その料理はどんな味ですか。",
+          "question_ruby": "その<ruby>料理<rt>りょうり</rt></ruby>はどんな<ruby>味<rt>あじ</rt></ruby>ですか。",
+          "hint": "甘い／辛い／おいしい",
+          "example_answer": "少し辛くて、おいしいです。"
+        },
+        {
+          "id": "t5",
+          "level": "N4",
+          "question": "よく食べる料理は何ですか。",
+          "question_ruby": "よく<ruby>食<rt>た</rt></ruby>べる<ruby>料理<rt>りょうり</rt></ruby>は何ですか。",
+          "hint": "よく〜ます",
+          "example_answer": "よく<ruby>焼<rt>や</rt></ruby>き<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。"
+        }
+      ]
+    },
+    {
+      "id": "shigoto",
+      "name": "仕事",
+      "questions": [
+        {
+          "id": "w1",
+          "level": "N5",
+          "question": "仕事は何ですか。",
+          "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は何ですか。",
+          "hint": "〜です",
+          "example_answer": "<ruby>会社員<rt>かいしゃいん</rt></ruby>です。"
+        },
+        {
+          "id": "w2",
+          "level": "N5",
+          "question": "何時から何時まで働きますか。",
+          "question_ruby": "<ruby>何時<rt>なんじ</rt></ruby>から<ruby>何時<rt>なんじ</rt></ruby>まで<ruby>働<rt>はたら</rt></ruby>きますか。",
+          "hint": "〜から〜まで",
+          "example_answer": "９<ruby>時<rt>じ</rt></ruby>から５<ruby>時<rt>じ</rt></ruby>まで<ruby>働<rt>はたら</rt></ruby>きます。"
+        },
+        {
+          "id": "w3",
+          "level": "N4",
+          "question": "仕事は忙しいですか。",
+          "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいですか。",
+          "hint": "とても／少し",
+          "example_answer": "とても<ruby>忙<rt>いそが</rt></ruby>しいです。"
+        },
+        {
+          "id": "w4",
+          "level": "N4",
+          "question": "仕事で大変なことは何ですか。",
+          "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>なことは何ですか。",
+          "hint": "〜ことです",
+          "example_answer": "<ruby>時間<rt>じかん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>です。"
+        },
+        {
+          "id": "w5",
+          "level": "N4",
+          "question": "将来、どんな仕事をしたいですか。",
+          "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、どんな<ruby>仕事<rt>しごと</rt></ruby>をしたいですか。",
+          "hint": "〜たいです",
+          "example_answer": "ITの<ruby>仕事<rt>しごと</rt></ruby>をしたいです。"
+        }
+      ]
+    },
+    {
+      "id": "ryokou",
+      "name": "旅行",
+      "questions": [
+        {
+          "id": "r1",
+          "level": "N5",
+          "question": "旅行は好きですか。",
+          "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>は好きですか。",
+          "hint": "好き／好きじゃない",
+          "example_answer": "はい、<ruby>旅行<rt>りょこう</rt></ruby>が好きです。"
+        },
+        {
+          "id": "r2",
+          "level": "N5",
+          "question": "今までにどこへ行きましたか。",
+          "question_ruby": "今までにどこへ<ruby>行<rt>い</rt></ruby>きましたか。",
+          "hint": "〜へ行きました",
+          "example_answer": "<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。"
+        },
+        {
+          "id": "r3",
+          "level": "N4",
+          "question": "旅行でいちばん楽しかったところはどこですか。",
+          "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>でいちばん<ruby>楽<rt>たの</rt></ruby>しかったところはどこですか。",
+          "hint": "いちばん〜",
+          "example_answer": "<ruby>沖縄<rt>おきなわ</rt></ruby>がいちばん<ruby>楽<rt>たの</rt></ruby>しかったです。"
+        },
+        {
+          "id": "r4",
+          "level": "N4",
+          "question": "旅行するとき、何を大切にしますか。",
+          "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>するとき、<ruby>何<rt>なに</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしますか。",
+          "hint": "〜を大切にします",
+          "example_answer": "<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にします。"
+        },
+        {
+          "id": "r5",
+          "level": "N4",
+          "question": "次はどこへ旅行したいですか。",
+          "question_ruby": "次はどこへ<ruby>旅行<rt>りょこう</rt></ruby>したいですか。",
+          "hint": "〜へ行きたいです",
+          "example_answer": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "restaurant_order",
+  "name": "レストランで<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>する",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "レストランでよく何を買いますか。",
+      "question_ruby": "レストランでよく<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Di restoran, kamu sering membeli apa?",
+      "example_answer": "よくカレーを<ruby>注文<rt>ちゅうもん</rt></ruby>します。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "昨日、レストランで何を食べましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、レストランで<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましたか。",
+      "translation_id": "Kemarin, kamu makan apa di restoran?",
+      "example_answer": "<ruby>昨日<rt>きのう</rt></ruby>、パスタを<ruby>食<rt>た</rt></ruby>べました。"
+    },
+    {
+      "id": "q3",
+      "level": "N4",
+      "question": "レストランで好きな料理は何ですか。",
+      "question_ruby": "レストランで<ruby>好<rt>す</rt></ruby>きな<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Di restoran, makanan favoritmu apa?",
+      "example_answer": "<ruby>寿司<rt>すし</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "何時にレストランに行きますか。",
+      "question_ruby": "<ruby>何時<rt>なんじ</rt></ruby>にレストランに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Jam berapa kamu pergi ke restoran?",
+      "example_answer": "<ruby>夜<rt>よる</rt></ruby>７<ruby>時<rt>じ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "レストランで何を飲みますか。",
+      "question_ruby": "レストランで<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Di restoran, kamu minum apa?",
+      "example_answer": "<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "一人でレストランに行きますか。",
+      "question_ruby": "<ruby>一人<rt>ひとり</rt></ruby>でレストランに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu pergi ke restoran sendiri?",
+      "example_answer": "はい、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "q7",
+      "level": "N4",
+      "question": "友達とレストランに行きますか。",
+      "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>とレストランに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu pergi ke restoran bersama teman?",
+      "example_answer": "はい、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "q8",
+      "level": "N5",
+      "question": "レストランで和食と洋食、どちらを注文しますか。",
+      "question_ruby": "レストランで<ruby>和食<rt>わしょく</rt></ruby>と<ruby>洋食<rt>ようしょく</rt></ruby>、どちらを<ruby>注文<rt>ちゅうもん</rt></ruby>しますか。",
+      "translation_id": "Di restoran, kamu memesan masakan Jepang atau Barat?",
+      "example_answer": "<ruby>和食<rt>わしょく</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>します。"
+    },
+    {
+      "id": "q9",
+      "level": "N4",
+      "question": "レストランでデザートを頼みますか。",
+      "question_ruby": "レストランでデザートを<ruby>頼<rt>たの</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu memesan dessert di restoran?",
+      "example_answer": "はい、ケーキを<ruby>頼<rt>たの</rt></ruby>みます。"
+    },
+    {
+      "id": "q10",
+      "level": "N5",
+      "question": "レストランでランチを食べますか。",
+      "question_ruby": "レストランでランチを<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Apakah kamu makan siang di restoran?",
+      "example_answer": "はい、ランチを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q11",
+      "level": "N4",
+      "question": "レストランで好きな飲み物は何ですか。",
+      "question_ruby": "レストランで<ruby>好<rt>す</rt></ruby>きな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Minuman favoritmu di restoran apa?",
+      "example_answer": "ジュースが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q12",
+      "level": "N5",
+      "question": "レストランで何を注文するとき、迷いますか。",
+      "question_ruby": "レストランで<ruby>何<rt>なに</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>するとき、<ruby>迷<rt>まよ</rt></ruby>いますか。",
+      "translation_id": "Saat memesan di restoran, apakah kamu bingung memilih?",
+      "example_answer": "はい、よく<ruby>迷<rt>まよ</rt></ruby>います。"
+    },
+    {
+      "id": "q13",
+      "level": "N4",
+      "question": "レストランで辛い料理を注文しますか。",
+      "question_ruby": "レストランで<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu memesan makanan pedas di restoran?",
+      "example_answer": "はい、<ruby>時々注文<rt>ときどきちゅうもん</rt></ruby>します。"
+    },
+    {
+      "id": "q14",
+      "level": "N5",
+      "question": "レストランで何時に食事しますか。",
+      "question_ruby": "レストランで<ruby>何時<rt>なんじ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>しますか。",
+      "translation_id": "Jam berapa kamu makan di restoran?",
+      "example_answer": "<ruby>夜<rt>よる</rt></ruby>７<ruby>時<rt>じ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>します。"
+    },
+    {
+      "id": "q15",
+      "level": "N4",
+      "question": "レストランでどんな料理を頼みますか。",
+      "question_ruby": "レストランでどんな<ruby>料理<rt>りょうり</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>みますか。",
+      "translation_id": "Jenis makanan apa yang kamu pesan di restoran?",
+      "example_answer": "<ruby>寿司<rt>すし</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>みます。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "レストランでセットメニューを注文しますか。",
+      "question_ruby": "レストランでセットメニューを<ruby>注文<rt>ちゅうもん</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu memesan menu set di restoran?",
+      "example_answer": "はい、セットメニューを<ruby>注文<rt>ちゅうもん</rt></ruby>します。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "レストランで何を一番楽しみにしていますか。",
+      "question_ruby": "レストランで<ruby>何<rt>なに</rt></ruby>を<ruby>一番楽<rt>いちばんたの</rt></ruby>しみにしていますか。",
+      "translation_id": "Di restoran, apa yang paling kamu nantikan?",
+      "example_answer": "デザートを<ruby>楽<rt>たの</rt></ruby>しみにしています。"
+    },
+    {
+      "id": "q18",
+      "level": "N5",
+      "question": "レストランでアレルギーがある食べ物がありますか。",
+      "question_ruby": "レストランでアレルギーがある<ruby>食べ物<rt>たべもの</rt></ruby>がありますか。",
+      "translation_id": "Apakah ada makanan yang kamu alergi di restoran?",
+      "example_answer": "はい、ピーナッツがあります。"
+    },
+    {
+      "id": "q19",
+      "level": "N4",
+      "question": "レストランで料理をシェアしますか。",
+      "question_ruby": "レストランで<ruby>料理<rt>りょうり</rt></ruby>をシェアしますか。",
+      "translation_id": "Apakah kamu berbagi makanan di restoran?",
+      "example_answer": "はい、<ruby>友達<rt>ともだち</rt></ruby>とシェアします。"
+    },
+    {
+      "id": "q20",
+      "level": "N5",
+      "question": "レストランでサラダを頼みますか。",
+      "question_ruby": "レストランでサラダを<ruby>頼<rt>たの</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu memesan salad di restoran?",
+      "example_answer": "はい、サラダを<ruby>頼<rt>たの</rt></ruby>みます。"
+    },
+    {
+      "id": "q21",
+      "level": "N4",
+      "question": "レストランで飲み物と食べ物、どちらを先に注文しますか。",
+      "question_ruby": "レストランで<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>、どちらを<ruby>先<rt>さき</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>しますか。",
+      "translation_id": "Di restoran, kamu memesan minuman atau makanan dulu?",
+      "example_answer": "<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>先<rt>さき</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>します。"
+    },
+    {
+      "id": "q22",
+      "level": "N5",
+      "question": "レストランで何回も注文しますか。",
+      "question_ruby": "レストランで<ruby>何回<rt>なんかい</rt></ruby>も<ruby>注文<rt>ちゅうもん</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu memesan beberapa kali di restoran?",
+      "example_answer": "はい、<ruby>時々注文<rt>ときどきちゅうもん</rt></ruby>します。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "レストランでおすすめ料理を聞きますか。",
+      "question_ruby": "レストランでお<ruby>勧<rt>すす</rt></ruby>め<ruby>料理<rt>りょうり</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu menanyakan makanan rekomendasi di restoran?",
+      "example_answer": "はい、<ruby>聞<rt>き</rt></ruby>きます。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "レストランで料理を温かいまま食べたいですか。",
+      "question_ruby": "レストランで<ruby>料理<rt>りょうり</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>かいまま<ruby>食<rt>た</rt></ruby>べたいですか。",
+      "translation_id": "Apakah kamu ingin makanan tetap hangat di restoran?",
+      "example_answer": "はい、<ruby>温<rt>あたた</rt></ruby>かいまま<ruby>食<rt>た</rt></ruby>べたいです。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "レストランでお会計は現金ですか、カードですか。",
+      "question_ruby": "レストランでお<ruby>会計<rt>かいけい</rt></ruby>は<ruby>現金<rt>げんきん</rt></ruby>ですか、カードですか。",
+      "translation_id": "Di restoran, pembayaran pakai tunai atau kartu?",
+      "example_answer": "カードで<ruby>支払<rt>しはら</rt></ruby>います。"
+    },
+    {
+      "id": "q26",
+      "level": "N5",
+      "question": "メニューに写真がありますか。",
+      "question_ruby": "メニューに<ruby>写真<rt>しゃしん</rt></ruby>がありますか。",
+      "translation_id": "Apakah di menunya ada fotonya?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "q27",
+      "level": "N4",
+      "question": "レストランを予約しますか。",
+      "question_ruby": "レストランを<ruby>予約<rt>よやく</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu mereservasi restoran?",
+      "example_answer": "はい、<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>予約<rt>よやく</rt></ruby>します。"
+    },
+    {
+      "id": "q28",
+      "level": "N5",
+      "question": "レストランのサービスはどうですか。",
+      "question_ruby": "レストランのサービスはどうですか。",
+      "translation_id": "Bagaimana pelayanan restorannya?",
+      "example_answer": "とてもいいです。"
+    },
+    {
+      "id": "q29",
+      "level": "N4",
+      "question": "窓側の席がいいですか。",
+      "question_ruby": "<ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>がいいですか。",
+      "translation_id": "Apakah kamu ingin tempat duduk di pinggir jendela?",
+      "example_answer": "はい、<ruby>景色<rt>けしき</rt></ruby>が<ruby>見<rt>み</rt></ruby>たいので<ruby>窓側<rt>まどがわ</rt></ruby>がいいです。"
+    },
+    {
+      "id": "q30",
+      "level": "N5",
+      "question": "お腹がいっぱいですか。",
+      "question_ruby": "お<ruby>腹<rt>なか</rt></ruby>がいっぱいですか。",
+      "translation_id": "Apakah kamu sudah kenyang?",
+      "example_answer": "はい、お<ruby>腹<rt>なか</rt></ruby>がいっぱいです。"
+    }
+  ]
+}

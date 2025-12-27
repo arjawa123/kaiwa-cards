@@ -1,0 +1,246 @@
+{
+  "id": "sports",
+  "name": "スポーツ",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "好きなスポーツは何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きなスポーツは<ruby>何<rt>なん</rt></ruby>ですか。",
+      "translation_id": "Olahraga favoritmu apa?",
+      "example_answer": "サッカーが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "週に何回運動しますか。",
+      "question_ruby": "<ruby>週<rt>しゅう</rt></ruby>に<ruby>何回運動<rt>なんかいうんどう</rt></ruby>しますか。",
+      "translation_id": "Seminggu berapa kali kamu berolahraga?",
+      "example_answer": "<ruby>週<rt>しゅう</rt></ruby>に３<ruby>回運動<rt>かいうんどう</rt></ruby>します。"
+    },
+    {
+      "id": "q3",
+      "level": "N4",
+      "question": "どんなスポーツが得意ですか。",
+      "question_ruby": "どんなスポーツが<ruby>得意<rt>とくい</rt></ruby>ですか。",
+      "translation_id": "Olahraga apa yang kamu kuasai?",
+      "example_answer": "<ruby>水泳<rt>すいえい</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>です。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "よく誰とスポーツをしますか。",
+      "question_ruby": "よく<ruby>誰<rt>だれ</rt></ruby>とスポーツをしますか。",
+      "translation_id": "Biasanya kamu olahraga sama siapa?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>とします。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "スポーツを見るのは好きですか。",
+      "question_ruby": "スポーツを<ruby>見<rt>み</rt></ruby>るのは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka menonton olahraga?",
+      "example_answer": "はい、スポーツを<ruby>見<rt>み</rt></ruby>るのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "昨日、運動しましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>運動<rt>うんどう</rt></ruby>しましたか。",
+      "translation_id": "Kemarin kamu berolahraga tidak?",
+      "example_answer": "はい、<ruby>昨日<rt>きのう</rt></ruby>ジョギングをしました。"
+    },
+    {
+      "id": "q7",
+      "level": "N4",
+      "question": "運動した後、どう感じますか。",
+      "question_ruby": "<ruby>運動<rt>うんどう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>、どう<ruby>感<rt>かん</rt></ruby>じますか。",
+      "translation_id": "Setelah berolahraga, bagaimana perasaanmu?",
+      "example_answer": "<ruby>疲<rt>つか</rt></ruby>れますが、<ruby>気持<rt>きも</rt></ruby>ちいいです。"
+    },
+    {
+      "id": "q8",
+      "level": "N5",
+      "question": "屋外と室内、どちらで運動するのが好きですか。",
+      "question_ruby": "<ruby>屋外<rt>おくがい</rt></ruby>と<ruby>室内<rt>しつない</rt></ruby>、どちらで<ruby>運動<rt>うんどう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Lebih suka olahraga di luar atau di dalam ruangan?",
+      "example_answer": "<ruby>屋外<rt>おくがい</rt></ruby>で<ruby>運動<rt>うんどう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q9",
+      "level": "N4",
+      "question": "スポーツクラブに入っていますか。",
+      "question_ruby": "スポーツクラブに<ruby>入<rt>はい</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu bergabung dengan klub olahraga?",
+      "example_answer": "はい、スポーツクラブに<ruby>入<rt>はい</rt></ruby>っています。"
+    },
+    {
+      "id": "q10",
+      "level": "N5",
+      "question": "毎日運動することは大切ですか。",
+      "question_ruby": "<ruby>毎日運動<rt>まいにちうんどう</rt></ruby>することは<ruby>大切<rt>たいせつ</rt></ruby>ですか。",
+      "translation_id": "Apakah berolahraga setiap hari itu penting?",
+      "example_answer": "はい、<ruby>毎日運動<rt>まいにちうんどう</rt></ruby>することは<ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "id": "q11",
+      "level": "N4",
+      "question": "どの季節にスポーツをするのが好きですか。",
+      "question_ruby": "どの<ruby>季節<rt>きせつ</rt></ruby>にスポーツをするのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Musim apa yang paling kamu suka untuk olahraga?",
+      "example_answer": "<ruby>夏<rt>なつ</rt></ruby>にスポーツをするのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q12",
+      "level": "N5",
+      "question": "運動するとき、何を着ますか。",
+      "question_ruby": "<ruby>運動<rt>うんどう</rt></ruby>するとき、<ruby>何<rt>なに</rt></ruby>を<ruby>着<rt>き</rt></ruby>ますか。",
+      "translation_id": "Saat berolahraga, pakaian apa yang kamu pakai?",
+      "example_answer": "<ruby>運動<rt>うんどう</rt></ruby>するとき、ジャージを<ruby>着<rt>き</rt></ruby>ます。"
+    },
+    {
+      "id": "q13",
+      "level": "N4",
+      "question": "スポーツをするとき、何を持って行きますか。",
+      "question_ruby": "スポーツをするとき、<ruby>何<rt>なに</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Saat berolahraga, apa yang kamu bawa?",
+      "example_answer": "<ruby>水<rt>みず</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "q14",
+      "level": "N5",
+      "question": "友達とスポーツをするのは好きですか。",
+      "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>とスポーツをするのは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka olahraga bersama teman?",
+      "example_answer": "はい、<ruby>友達<rt>ともだち</rt></ruby>とするのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q15",
+      "level": "N4",
+      "question": "一人でスポーツをすることはありますか。",
+      "question_ruby": "<ruby>一人<rt>ひとり</rt></ruby>でスポーツをすることはありますか。",
+      "translation_id": "Apakah kamu pernah olahraga sendiri?",
+      "example_answer": "はい、<ruby>一人<rt>ひとり</rt></ruby>でジョギングをします。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "スポーツの大会に参加したことがありますか。",
+      "question_ruby": "スポーツの<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>したことがありますか。",
+      "translation_id": "Apakah kamu pernah mengikuti turnamen olahraga?",
+      "example_answer": "はい、<ruby>去年<rt>きょねん</rt></ruby>バスケットボールの<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>しました。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "スポーツを始めたきっかけは何ですか。",
+      "question_ruby": "スポーツを<ruby>始<rt>はじ</rt></ruby>めたきっかけは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa alasan kamu mulai berolahraga?",
+      "example_answer": "<ruby>健康<rt>けんこう</rt></ruby>のために<ruby>始<rt>はじ</rt></ruby>めました。"
+    },
+    {
+      "id": "q18",
+      "level": "N5",
+      "question": "どのスポーツが一番好きですか。",
+      "question_ruby": "どのスポーツが<ruby>一番好<rt>いちばんす</rt></ruby>きですか。",
+      "translation_id": "Olahraga apa yang paling kamu suka?",
+      "example_answer": "サッカーが<ruby>一番好<rt>いちばんす</rt></ruby>きです。"
+    },
+    {
+      "id": "q19",
+      "level": "N4",
+      "question": "スポーツをするとき、音楽を聴きますか。",
+      "question_ruby": "スポーツをするとき、<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きますか。",
+      "translation_id": "Saat berolahraga, apakah kamu mendengarkan musik?",
+      "example_answer": "はい、<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きます。"
+    },
+    {
+      "id": "q20",
+      "level": "N5",
+      "question": "運動した後、何をしますか。",
+      "question_ruby": "<ruby>運動<rt>うんどう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah berolahraga, apa yang kamu lakukan?",
+      "example_answer": "シャワーを<ruby>浴<rt>あ</rt></ruby>びます。"
+    },
+    {
+      "id": "q21",
+      "level": "N4",
+      "question": "好きなスポーツ選手は誰ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きなスポーツ<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。",
+      "translation_id": "Atlet favoritmu siapa?",
+      "example_answer": "メッシが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q22",
+      "level": "N5",
+      "question": "スポーツを見るのはテレビですか、スタジアムですか。",
+      "question_ruby": "スポーツを<ruby>見<rt>み</rt></ruby>るのはテレビですか、スタジアムですか。",
+      "translation_id": "Menonton olahraga, di TV atau di stadion?",
+      "example_answer": "テレビで<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "スポーツを始める時間はいつですか。",
+      "question_ruby": "スポーツを<ruby>始<rt>はじ</rt></ruby>める<ruby>時間<rt>じかん</rt></ruby>はいつですか。",
+      "translation_id": "Biasanya mulai olahraga jam berapa?",
+      "example_answer": "<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>めます。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "運動を続けるのは難しいですか。",
+      "question_ruby": "<ruby>運動<rt>うんどう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けるのは<ruby>難<rt>むずか</rt></ruby>しいですか。",
+      "translation_id": "Apakah sulit untuk terus berolahraga?",
+      "example_answer": "<ruby>少<rt>すこ</rt></ruby>し<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>頑張<rt>がんば</rt></ruby>ります。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "これから新しいスポーツを始めたいですか。",
+      "question_ruby": "これから<ruby>新<rt>あたら</rt></ruby>しいスポーツを<ruby>始<rt>はじ</rt></ruby>めたいですか。",
+      "translation_id": "Apakah kamu ingin mulai olahraga baru?",
+      "example_answer": "はい、テニスを<ruby>始<rt>はじ</rt></ruby>めたいです。"
+    },
+    {
+      "id": "q26",
+      "level": "N5",
+      "question": "冬にスキーをしますか。",
+      "question_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>にスキーをしますか。",
+      "translation_id": "Apakah kamu bermain ski di musim dingin?",
+      "example_answer": "いいえ、しません。"
+    },
+    {
+      "id": "q27",
+      "level": "N4",
+      "question": "日本で相撲を見たいですか。",
+      "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>で<ruby>相撲<rt>すもう</rt></ruby>を<ruby>見<rt>み</rt></ruby>たいですか。",
+      "translation_id": "Apakah kamu ingin menonton Sumo di Jepang?",
+      "example_answer": "はい、ぜひ<ruby>見<rt>み</rt></ruby>たいです。"
+    },
+    {
+      "id": "q28",
+      "level": "N5",
+      "question": "朝、散歩をしますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>散歩<rt>さんぽ</rt></ruby>をしますか。",
+      "translation_id": "Apakah kamu jalan-jalan di pagi hari?",
+      "example_answer": "はい、<ruby>近<rt>ちか</rt></ruby>くの<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。"
+    },
+    {
+      "id": "q29",
+      "level": "N4",
+      "question": "チームスポーツと個人競技、どちらが好きですか。",
+      "question_ruby": "チームスポーツと<ruby>個人競技<rt>こじんきょうぎ</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Mana yang kamu suka, olahraga tim atau olahraga individu?",
+      "example_answer": "チームスポーツのほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q30",
+      "level": "N5",
+      "question": "子供の時、どんなスポーツをしましたか。",
+      "question_ruby": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>、どんなスポーツをしましたか。",
+      "translation_id": "Saat kecil, olahraga apa yang kamu lakukan?",
+      "example_answer": "<ruby>野球<rt>やきゅう</rt></ruby>をしました。"
+    }
+  ]
+}

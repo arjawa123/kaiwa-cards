@@ -1,0 +1,276 @@
+{
+  "id": "seikatsu",
+  "name": "<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>",
+  "questions": [
+    {
+      "id": "s1",
+      "level": "N5",
+      "question": "毎日何時に起きますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きますか。",
+      "translation_id": "Setiap hari jam berapa kamu bangun?",
+      "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby>６<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。",
+      "img": "bed_boy_wake.png"
+    },
+    {
+      "id": "s2",
+      "level": "N4",
+      "question": "朝起きてから、何をしますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きてから、<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah bangun pagi, apa yang kamu lakukan?",
+      "example_answer": "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きてから、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>って、ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+      "img": "sleep_futon_samui_woman.png"
+    },
+    {
+      "id": "s3",
+      "level": "N5",
+      "question": "毎朝、朝ご飯を食べますか。",
+      "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Apakah kamu sarapan setiap pagi?",
+      "example_answer": "はい、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+      "img": "syokuji_boy_silent.png"
+    },
+    {
+      "id": "s4",
+      "level": "N5",
+      "question": "夜は何時に寝ますか。",
+      "question_ruby": "<ruby>夜<rt>よる</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ますか。",
+      "translation_id": "Malam hari jam berapa kamu tidur?",
+      "example_answer": "<ruby>夜<rt>よる</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
+      "img": "sleep_nezou_bad_onaka_man.png"
+    },
+    {
+      "id": "s5",
+      "level": "N4",
+      "question": "平日と週末の生活は違いますか。",
+      "question_ruby": "<ruby>平日<rt>へいじつ</rt></ruby>と<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>いますか。",
+      "translation_id": "Apakah kehidupanmu berbeda antara hari kerja dan akhir pekan?",
+      "example_answer": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいですが、<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>です。",
+      "img": "rennai_kaeruka.png"
+    },
+    {
+      "id": "s6",
+      "level": "N5",
+      "question": "毎日、何時間くらい勉強しますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>何時間<rt>なんじかん</rt></ruby>くらい<ruby>勉強<rt>べんきょう</rt></ruby>しますか。",
+      "translation_id": "Setiap hari, kira-kira berapa jam kamu belajar?",
+      "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>二時間<rt>にじかん</rt></ruby>くらい<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+      "img": "slump_bad_man_study.png"
+    },
+    {
+      "id": "s7",
+      "level": "N4",
+      "question": "朝ご飯は何を食べますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Sarapan, biasanya makan apa?",
+      "example_answer": "パンを<ruby>食<rt>た</rt></ruby>べます。",
+      "img": "francepan_boy.png"
+    },
+    {
+      "id": "s8",
+      "level": "N5",
+      "question": "寝る前に何をしますか。",
+      "question_ruby": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Sebelum tidur, apa yang kamu lakukan?",
+      "example_answer": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+      "img": "pet_cat_omoi_sleep_woman.png"
+    },
+    {
+      "id": "s9",
+      "level": "N4",
+      "question": "毎日運動しますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu berolahraga setiap hari?",
+      "example_answer": "はい、<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>します。",
+      "img": "mat_undou.png"
+    },
+    {
+      "id": "s10",
+      "level": "N5",
+      "question": "仕事は何時に始まりますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりますか。",
+      "translation_id": "Pekerjaan dimulai jam berapa?",
+      "example_answer": "９<ruby>時<rt>じ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。",
+      "img": "sleep_gorogoro_businessman.png"
+    },
+    {
+      "id": "s11",
+      "level": "N4",
+      "question": "毎日何を飲みますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Setiap hari, apa yang kamu minum?",
+      "example_answer": "<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "img": "pool_mizu_nomu.png"
+    },
+    {
+      "id": "s12",
+      "level": "N5",
+      "question": "週末は何をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Akhir pekan, apa yang kamu lakukan?",
+      "example_answer": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+      "img": "kandou_movie_sad.png"
+    },
+    {
+      "id": "s13",
+      "level": "N4",
+      "question": "毎日何時に寝ますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ますか。",
+      "translation_id": "Setiap hari jam berapa kamu tidur?",
+      "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
+      "img": "pet_inu_sleep.png"
+    },
+    {
+      "id": "s14",
+      "level": "N5",
+      "question": "朝、何を飲みますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Pagi hari, apa yang kamu minum?",
+      "example_answer": "コーヒーを<ruby>飲<rt>の</rt></ruby>みます。",
+      "img": "coffee_morning.png"
+    },
+    {
+      "id": "s15",
+      "level": "N4",
+      "question": "学校や仕事の後で、何をしますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で、<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah sekolah atau kerja, apa yang kamu lakukan?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+      "img": "after_school_home.png"
+    },
+    {
+      "id": "s16",
+      "level": "N5",
+      "question": "昼ご飯は何時に食べますか。",
+      "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Jam berapa kamu makan siang?",
+      "example_answer": "１２<ruby>時<rt>じ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。",
+      "img": "lunch_time.png"
+    },
+    {
+      "id": "s17",
+      "level": "N4",
+      "question": "毎日どのくらいテレビを見ますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>どのくらいテレビを<ruby>見<rt>み</rt></ruby>ますか。",
+      "translation_id": "Setiap hari, kira-kira berapa lama kamu menonton TV?",
+      "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>一時間<rt>いちじかん</rt></ruby>くらい<ruby>見<rt>み</rt></ruby>ます。",
+      "img": "tv_boy.png"
+    },
+    {
+      "id": "s18",
+      "level": "N5",
+      "question": "友達と遊びますか。",
+      "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びますか。",
+      "translation_id": "Apakah kamu bermain dengan teman?",
+      "example_answer": "はい、よく<ruby>遊<rt>あそ</rt></ruby>びます。",
+      "img": "play_friends.png"
+    },
+    {
+      "id": "s19",
+      "level": "N4",
+      "question": "休みの日は何をしますか。",
+      "question_ruby": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Hari libur, apa yang kamu lakukan?",
+      "example_answer": "<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+      "img": "holiday_walk.png"
+    },
+    {
+      "id": "s20",
+      "level": "N5",
+      "question": "毎日何時に家を出ますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ますか。",
+      "translation_id": "Setiap hari jam berapa kamu keluar rumah?",
+      "example_answer": "８<ruby>時<rt>じ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>出</rt></ruby>ます。",
+      "img": "leave_home_boy.png"
+    },
+    {
+      "id": "s21",
+      "level": "N5",
+      "question": "お風呂に入りますか。",
+      "question_ruby": "お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu mandi (berendam)?",
+      "example_answer": "はい、<ruby>夜<rt>よる</rt></ruby>お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
+      "img": "bath_boy.png"
+    },
+    {
+      "id": "s22",
+      "level": "N4",
+      "question": "自分で料理を作りますか。",
+      "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu memasak makanan sendiri?",
+      "example_answer": "はい、ときどき<ruby>夕<rt>ゆう</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。",
+      "img": "cooking_man.png"
+    },
+    {
+      "id": "s23",
+      "level": "N5",
+      "question": "掃除はいつしますか。",
+      "question_ruby": "<ruby>掃除<rt>そうじ</rt></ruby>はいつしますか。",
+      "translation_id": "Kapan kamu membersihkan rumah?",
+      "example_answer": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します。",
+      "img": "cleaning_room.png"
+    },
+    {
+      "id": "s24",
+      "level": "N4",
+      "question": "洗濯は誰がしますか。",
+      "question_ruby": "<ruby>洗濯<rt>せんたく</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしますか。",
+      "translation_id": "Siapa yang mencuci pakaian?",
+      "example_answer": "<ruby>母<rt>はは</rt></ruby>が<ruby>洗濯<rt>せんたく</rt></ruby>をしてくれます。",
+      "img": "laundry_woman.png"
+    },
+    {
+      "id": "s25",
+      "level": "N5",
+      "question": "朝、新聞を読みますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu membaca koran di pagi hari?",
+      "example_answer": "いいえ、<ruby>新聞<rt>しんぶん</rt></ruby>は<ruby>読<rt>よ</rt></ruby>みません。",
+      "img": "newspaper_man.png"
+    },
+    {
+      "id": "s26",
+      "level": "N4",
+      "question": "毎日家族に電話しますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu menelepon keluarga setiap hari?",
+      "example_answer": "いいえ、<ruby>一週間<rt>いっしゅうかん</rt></ruby>に<ruby>一回<rt>いっかい</rt></ruby>くらいします。",
+      "img": "phone_call.png"
+    },
+    {
+      "id": "s27",
+      "level": "N5",
+      "question": "自転車で学校へ行きますか。",
+      "question_ruby": "<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu pergi ke sekolah naik sepeda?",
+      "example_answer": "はい、<ruby>毎日自転車<rt>まいにちじてんしゃ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+      "img": "bicycle_ride.png"
+    },
+    {
+      "id": "s28",
+      "level": "N4",
+      "question": "買い物はどこでしますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>はどこでしますか。",
+      "translation_id": "Di mana kamu berbelanja?",
+      "example_answer": "<ruby>近<rt>ちか</rt></ruby>くのスーパーで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>します。",
+      "img": "shopping_supermarket.png"
+    },
+    {
+      "id": "s29",
+      "level": "N5",
+      "question": "毎日日本語を話しますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu berbicara bahasa Jepang setiap hari?",
+      "example_answer": "はい、<ruby>学校<rt>がっこう</rt></ruby>で<ruby>話<rt>はな</rt></ruby>します。",
+      "img": "speaking_japanese.png"
+    },
+    {
+      "id": "s30",
+      "level": "N4",
+      "question": "日記を書いていますか。",
+      "question_ruby": "<ruby>日記<rt>にっき</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていますか。",
+      "translation_id": "Apakah kamu sedang rutin menulis buku harian?",
+      "example_answer": "いいえ、<ruby>日記<rt>にっき</rt></ruby>は<ruby>書<rt>か</rt></ruby>いていません。",
+      "img": "writing_diary.png"
+    }
+  ]
+}

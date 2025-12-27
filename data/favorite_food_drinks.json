@@ -1,0 +1,246 @@
+{
+  "id": "favorite_food_drinks",
+  "name": "<ruby>好<rt>す</rt></ruby>きな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>と<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>",
+  "questions": [
+    {
+      "id": "f1",
+      "level": "N5",
+      "question": "好きな食べ物は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Makanan favoritmu apa?",
+      "example_answer": "ラーメンが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f2",
+      "level": "N5",
+      "question": "好きな飲み物は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Minuman favoritmu apa?",
+      "example_answer": "お<ruby>茶<rt>ちゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f3",
+      "level": "N4",
+      "question": "毎日食べるものは何ですか。",
+      "question_ruby": "<ruby>毎日食<rt>まいにちた</rt></ruby>べるものは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa yang kamu makan setiap hari?",
+      "example_answer": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "f4",
+      "level": "N4",
+      "question": "毎日飲むものは何ですか。",
+      "question_ruby": "<ruby>毎日飲<rt>まいにちの</rt></ruby>むものは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa yang kamu minum setiap hari?",
+      "example_answer": "<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "f5",
+      "level": "N5",
+      "question": "朝ご飯に何を食べますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Sarapan biasanya makan apa?",
+      "example_answer": "パンを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "f6",
+      "level": "N5",
+      "question": "昼ご飯に何を食べますか。",
+      "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Makan siang biasanya makan apa?",
+      "example_answer": "サンドイッチを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "f7",
+      "level": "N5",
+      "question": "晩ご飯に何を食べますか。",
+      "question_ruby": "<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Makan malam biasanya makan apa?",
+      "example_answer": "カレーを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "f8",
+      "level": "N4",
+      "question": "好きな果物は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>果物<rt>くだもの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Buah favoritmu apa?",
+      "example_answer": "リンゴが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f9",
+      "level": "N4",
+      "question": "好きな野菜は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>野菜<rt>やさい</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Sayuran favoritmu apa?",
+      "example_answer": "トマトが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f10",
+      "level": "N5",
+      "question": "甘いものは好きですか。",
+      "question_ruby": "<ruby>甘<rt>あま</rt></ruby>いものは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah suka makanan manis?",
+      "example_answer": "はい、<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f11",
+      "level": "N4",
+      "question": "辛いものは好きですか。",
+      "question_ruby": "<ruby>辛<rt>から</rt></ruby>いものは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah suka makanan pedas?",
+      "example_answer": "はい、<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f12",
+      "level": "N5",
+      "question": "肉と魚、どちらが好きですか。",
+      "question_ruby": "<ruby>肉<rt>にく</rt></ruby>と<ruby>魚<rt>さかな</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Lebih suka daging atau ikan?",
+      "example_answer": "<ruby>魚<rt>さかな</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f13",
+      "level": "N4",
+      "question": "コーヒーとお茶、どちらが好きですか。",
+      "question_ruby": "コーヒーとお<ruby>茶<rt>ちゃ</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Lebih suka kopi atau teh?",
+      "example_answer": "お<ruby>茶<rt>ちゃ</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f14",
+      "level": "N5",
+      "question": "ジュースは毎日飲みますか。",
+      "question_ruby": "ジュースは<ruby>毎日飲<rt>まいにちの</rt></ruby>みますか。",
+      "translation_id": "Apakah minum jus setiap hari?",
+      "example_answer": "いいえ、あまり<ruby>飲<rt>の</rt></ruby>みません。"
+    },
+    {
+      "id": "f15",
+      "level": "N4",
+      "question": "牛乳は好きですか。",
+      "question_ruby": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah suka susu?",
+      "example_answer": "はい、<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f16",
+      "level": "N5",
+      "question": "朝ご飯に何を飲みますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Sarapan biasanya minum apa?",
+      "example_answer": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "f17",
+      "level": "N4",
+      "question": "昼ご飯に何を飲みますか。",
+      "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Makan siang biasanya minum apa?",
+      "example_answer": "お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "f18",
+      "level": "N5",
+      "question": "晩ご飯に何を飲みますか。",
+      "question_ruby": "<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Makan malam biasanya minum apa?",
+      "example_answer": "<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "f19",
+      "level": "N4",
+      "question": "好きなデザートは何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きなデザートは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Dessert favoritmu apa?",
+      "example_answer": "ケーキが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f20",
+      "level": "N5",
+      "question": "果物と野菜、どちらが好きですか。",
+      "question_ruby": "<ruby>果物<rt>くだもの</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Lebih suka buah atau sayur?",
+      "example_answer": "<ruby>果物<rt>くだもの</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f21",
+      "level": "N4",
+      "question": "甘い飲み物と酸っぱい飲み物、どちらが好きですか。",
+      "question_ruby": "<ruby>甘<rt>あま</rt></ruby>い<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と<ruby>酸<rt>す</rt></ruby>っぱい<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Lebih suka minuman manis atau asam?",
+      "example_answer": "<ruby>甘<rt>あま</rt></ruby>いほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f22",
+      "level": "N5",
+      "question": "辛い食べ物と甘い食べ物、どちらが好きですか。",
+      "question_ruby": "<ruby>辛<rt>から</rt></ruby>い<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>と<ruby>甘<rt>あま</rt></ruby>い<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Lebih suka makanan pedas atau manis?",
+      "example_answer": "<ruby>甘<rt>あま</rt></ruby>いほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f23",
+      "level": "N4",
+      "question": "飲み物は温かいのと冷たいの、どちらが好きですか。",
+      "question_ruby": "<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいのと<ruby>冷<rt>つめ</rt></ruby>たいの、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Minuman lebih suka hangat atau dingin?",
+      "example_answer": "<ruby>温<rt>あたた</rt></ruby>かいほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "f24",
+      "level": "N5",
+      "question": "週末に好きな食べ物を食べますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>好<rt>す</rt></ruby>きな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Akhir minggu makan makanan favoritmu?",
+      "example_answer": "はい、<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "f25",
+      "level": "N4",
+      "question": "週末に好きな飲み物を飲みますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>好<rt>す</rt></ruby>きな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Akhir minggu minum minuman favoritmu?",
+      "example_answer": "はい、<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "f26",
+      "level": "N5",
+      "question": "卵料理は好きですか。",
+      "question_ruby": "<ruby>卵料理<rt>たまごりょうり</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka masakan telur?",
+      "example_answer": "はい、オムレツが<ruby>大好<rt>だいす</rt></ruby>きです。"
+    },
+    {
+      "id": "f27",
+      "level": "N4",
+      "question": "嫌いな食べ物はありますか。",
+      "question_ruby": "<ruby>嫌<rt>きら</rt></ruby>いな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>はありますか。",
+      "translation_id": "Apakah ada makanan yang kamu benci?",
+      "example_answer": "いいえ、<ruby>何<rt>なに</rt></ruby>でも<ruby>食<rt>た</rt></ruby>べられます。"
+    },
+    {
+      "id": "f28",
+      "level": "N5",
+      "question": "アイスクリームは何味が好きですか。",
+      "question_ruby": "アイスクリームは<ruby>何味<rt>なにあじ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Es krim rasa apa yang kamu suka?",
+      "example_answer": "チョコ<ruby>味<rt>あじ</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きです。"
+    },
+    {
+      "id": "f29",
+      "level": "N4",
+      "question": "日本料理を食べたことがありますか。",
+      "question_ruby": "<ruby>日本料理<rt>にほんりょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたことがありますか。",
+      "translation_id": "Pernahkah kamu makan masakan Jepang?",
+      "example_answer": "はい、お<ruby>寿司<rt>すし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたことがあります。"
+    },
+    {
+      "id": "f30",
+      "level": "N5",
+      "question": "お酒を飲みますか。",
+      "question_ruby": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu minum alkohol?",
+      "example_answer": "いいえ、お<ruby>酒<rt>さけ</rt></ruby>は<ruby>飲<rt>の</rt></ruby>みません。"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "public_transport",
+  "name": "<ruby>公共交通機関<rt>こうきょうこうつうきかん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う",
+  "questions": [
+    {
+      "id": "pt1",
+      "level": "N5",
+      "question": "毎日バスに乗りますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>バスに<ruby>乗<rt>の</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu naik bus setiap hari?",
+      "example_answer": "はい、<ruby>毎日<rt>まいにち</rt></ruby>バスに<ruby>乗<rt>の</rt></ruby>ります。"
+    },
+    {
+      "id": "pt2",
+      "level": "N5",
+      "question": "電車で学校に行きますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi ke sekolah naik kereta?",
+      "example_answer": "はい、<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "pt3",
+      "level": "N4",
+      "question": "駅までどのくらいかかりますか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>までどのくらいかかりますか。",
+      "translation_id": "Butuh waktu berapa lama ke stasiun?",
+      "example_answer": "１５<ruby>分<rt>ふん</rt></ruby>くらいかかります。"
+    },
+    {
+      "id": "pt4",
+      "level": "N4",
+      "question": "バス停は近いですか。",
+      "question_ruby": "<ruby>バス停<rt>ばすてい</rt></ruby>は<ruby>近<rt>ちか</rt></ruby>いですか。",
+      "translation_id": "Apakah halte bus dekat?",
+      "example_answer": "はい、<ruby>近<rt>ちか</rt></ruby>いです。"
+    },
+    {
+      "id": "pt5",
+      "level": "N5",
+      "question": "電車はよく遅れますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>はよく<ruby>遅<rt>おく</rt></ruby>れますか。",
+      "translation_id": "Apakah kereta sering terlambat?",
+      "example_answer": "いいえ、あまり<ruby>遅<rt>おく</rt></ruby>れません。"
+    },
+    {
+      "id": "pt6",
+      "level": "N5",
+      "question": "地下鉄に乗ったことがありますか。",
+      "question_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったことがありますか。",
+      "translation_id": "Apakah pernah naik subway?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "pt7",
+      "level": "N4",
+      "question": "電車でどこへ行きますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>でどこへ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Naik kereta pergi ke mana?",
+      "example_answer": "<ruby>駅前<rt>えきまえ</rt></ruby>のスーパーへ<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "pt8",
+      "level": "N5",
+      "question": "バスは便利ですか。",
+      "question_ruby": "バスは<ruby>便利<rt>べんり</rt></ruby>ですか。",
+      "translation_id": "Apakah bus itu praktis?",
+      "example_answer": "はい、<ruby>便利<rt>べんり</rt></ruby>です。"
+    },
+    {
+      "id": "pt9",
+      "level": "N4",
+      "question": "電車の切符はいくらですか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>はいくらですか。",
+      "translation_id": "Tiket kereta berapa harganya?",
+      "example_answer": "２００<ruby>円<rt>えん</rt></ruby>です。"
+    },
+    {
+      "id": "pt10",
+      "level": "N5",
+      "question": "バスに乗る前に整理券を取りますか。",
+      "question_ruby": "バスに<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>整理券<rt>せいりけん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りますか。",
+      "translation_id": "Sebelum naik bus, mengambil tiket nomor dulu?",
+      "example_answer": "はい、<ruby>取<rt>と</rt></ruby>ります。"
+    },
+    {
+      "id": "pt11",
+      "level": "N4",
+      "question": "電車の中で座れますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>座<rt>すわ</rt></ruby>れますか。",
+      "translation_id": "Bisa duduk di dalam kereta?",
+      "example_answer": "はい、<ruby>座<rt>すわ</rt></ruby>れます。"
+    },
+    {
+      "id": "pt12",
+      "level": "N5",
+      "question": "バスはどこで降りますか。",
+      "question_ruby": "バスはどこで<ruby>降<rt>お</rt></ruby>りますか。",
+      "translation_id": "Turunnya di halte mana?",
+      "example_answer": "<ruby>次<rt>つぎ</rt></ruby>のバス<ruby>停<rt>てい</rt></ruby>で<ruby>降<rt>お</rt></ruby>ります。"
+    },
+    {
+      "id": "pt13",
+      "level": "N4",
+      "question": "電車は何時に出発しますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>しますか。",
+      "translation_id": "Kereta berangkat jam berapa?",
+      "example_answer": "８<ruby>時<rt>じ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>します。"
+    },
+    {
+      "id": "pt14",
+      "level": "N5",
+      "question": "バスの切符はどこで買いますか。",
+      "question_ruby": "バスの<ruby>切符<rt>きっぷ</rt></ruby>はどこで<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Beli tiket bus di mana?",
+      "example_answer": "バス<ruby>停<rt>てい</rt></ruby>で<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "pt15",
+      "level": "N4",
+      "question": "電車の乗り換えは簡単ですか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>えは<ruby>簡単<rt>かんたん</rt></ruby>ですか。",
+      "translation_id": "Apakah pindah kereta mudah?",
+      "example_answer": "はい、<ruby>簡単<rt>かんたん</rt></ruby>です。"
+    },
+    {
+      "id": "pt16",
+      "level": "N5",
+      "question": "バスはよく混みますか。",
+      "question_ruby": "バスはよく<ruby>混<rt>こ</rt></ruby>みますか。",
+      "translation_id": "Apakah bus sering ramai?",
+      "example_answer": "はい、<ruby>混<rt>こ</rt></ruby>みます。"
+    },
+    {
+      "id": "pt17",
+      "level": "N4",
+      "question": "電車の座席は自由ですか、指定ですか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>座席<rt>ざせき</rt></ruby>は<ruby>自由<rt>じゆう</rt></ruby>ですか、<ruby>指定<rt>してい</rt></ruby>ですか。",
+      "translation_id": "Tempat duduk kereta bebas atau ditentukan?",
+      "example_answer": "<ruby>自由<rt>じゆう</rt></ruby>です。"
+    },
+    {
+      "id": "pt18",
+      "level": "N5",
+      "question": "バスに乗るとき切符を見せますか。",
+      "question_ruby": "バスに<ruby>乗<rt>の</rt></ruby>るとき<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せますか。",
+      "translation_id": "Saat naik bus, menunjukkan tiket?",
+      "example_answer": "はい、<ruby>見<rt>み</rt></ruby>せます。"
+    },
+    {
+      "id": "pt19",
+      "level": "N4",
+      "question": "電車は速いですか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>いですか。",
+      "translation_id": "Apakah kereta cepat?",
+      "example_answer": "はい、<ruby>速<rt>はや</rt></ruby>いです。"
+    },
+    {
+      "id": "pt20",
+      "level": "N5",
+      "question": "バスの運転手に道を聞きますか。",
+      "question_ruby": "バスの<ruby>運転手<rt>うんてんしゅ</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きますか。",
+      "translation_id": "Apakah bertanya arah ke sopir bus?",
+      "example_answer": "はい、<ruby>聞<rt>き</rt></ruby>きます。"
+    },
+    {
+      "id": "pt21",
+      "level": "N4",
+      "question": "電車の中で立ってもいいですか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>立<rt>た</rt></ruby>ってもいいですか。",
+      "translation_id": "Boleh berdiri di dalam kereta?",
+      "example_answer": "はい、いいです。"
+    },
+    {
+      "id": "pt22",
+      "level": "N5",
+      "question": "バスは時間通りに来ますか。",
+      "question_ruby": "バスは<ruby>時間通<rt>じかんどお</rt></ruby>りに<ruby>来<rt>く</rt></ruby>ますか。",
+      "translation_id": "Apakah bus datang tepat waktu?",
+      "example_answer": "はい、<ruby>来<rt>き</rt></ruby>ます。"
+    },
+    {
+      "id": "pt23",
+      "level": "N4",
+      "question": "電車のチケットはどこで買えますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>のチケットはどこで<ruby>買<rt>か</rt></ruby>えますか。",
+      "translation_id": "Tiket kereta bisa dibeli di mana?",
+      "example_answer": "<ruby>駅<rt>えき</rt></ruby>で<ruby>買<rt>か</rt></ruby>えます。"
+    },
+    {
+      "id": "pt24",
+      "level": "N5",
+      "question": "バスは毎日運行していますか。",
+      "question_ruby": "バスは<ruby>毎日運行<rt>まいにちうんこう</rt></ruby>していますか。",
+      "translation_id": "Apakah bus beroperasi setiap hari?",
+      "example_answer": "はい、しています。"
+    },
+    {
+      "id": "pt25",
+      "level": "N4",
+      "question": "電車で座る席は指定ですか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>座<rt>すわ</rt></ruby>る<ruby>席<rt>せき</rt></ruby>は<ruby>指定<rt>してい</rt></ruby>ですか。",
+      "translation_id": "Tempat duduk kereta ditentukan?",
+      "example_answer": "はい、<ruby>指定<rt>してい</rt></ruby>です。"
+    },
+    {
+      "id": "pt26",
+      "level": "N5",
+      "question": "タクシーを呼びますか。",
+      "question_ruby": "タクシーを<ruby>呼<rt>よ</rt></ruby>びますか。",
+      "translation_id": "Apakah kamu memanggil taksi?",
+      "example_answer": "はい、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>呼<rt>よ</rt></ruby>びます。"
+    },
+    {
+      "id": "pt27",
+      "level": "N4",
+      "question": "交通ICカードを使っていますか。",
+      "question_ruby": "<ruby>交通<rt>こうつう</rt></ruby>ICカードを<ruby>使<rt>つか</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu menggunakan kartu IC transportasi (seperti Suica)?",
+      "example_answer": "はい、ICOCAを<ruby>使<rt>つか</rt></ruby>っています。"
+    },
+    {
+      "id": "pt28",
+      "level": "N5",
+      "question": "新幹線に乗ったことがありますか。",
+      "question_ruby": "<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったことがありますか。",
+      "translation_id": "Apakah kamu pernah naik Shinkansen?",
+      "example_answer": "はい、<ruby>去年乗<rt>きょねんの</rt></ruby>りました。"
+    },
+    {
+      "id": "pt29",
+      "level": "N4",
+      "question": "船で旅行するのが好きですか。",
+      "question_ruby": "<ruby>船<rt>ふね</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka bepergian naik kapal?",
+      "example_answer": "いいえ、あまり<ruby>好<rt>す</rt></ruby>きじゃありません。"
+    },
+    {
+      "id": "pt30",
+      "level": "N5",
+      "question": "駅の中に店がありますか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>がありますか。",
+      "translation_id": "Apakah ada toko di dalam stasiun?",
+      "example_answer": "はい、たくさんあります。"
+    }
+  ]
+}

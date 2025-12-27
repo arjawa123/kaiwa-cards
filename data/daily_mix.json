@@ -1,0 +1,326 @@
+{
+  "id": "daily_mix",
+  "name": "<ruby>日常会話<rt>にちじょうかいわ</rt></ruby>ミックス",
+  "questions": [
+    {
+      "id": "dm1",
+      "level": "N5",
+      "question": "お名前は何ですか。",
+      "question_ruby": "お<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+      "translation_id": "Siapa namamu?",
+      "example_answer": "アリフです。"
+    },
+    {
+      "id": "dm2",
+      "level": "N5",
+      "question": "お国はどちらですか。",
+      "question_ruby": "お<ruby>国<rt>くに</rt></ruby>はどちらですか。",
+      "translation_id": "Dari mana asal negaramu?",
+      "example_answer": "インドネシアです。"
+    },
+    {
+      "id": "dm3",
+      "level": "N5",
+      "question": "今はどこに住んでいますか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>はどこに<ruby>住<rt>す</rt></ruby>んでいますか。",
+      "translation_id": "Sekarang tinggal di mana?",
+      "example_answer": "ジャカルタに<ruby>住<rt>す</rt></ruby>んでいます。"
+    },
+    {
+      "id": "dm4",
+      "level": "N5",
+      "question": "お誕生日はいつですか。",
+      "question_ruby": "お<ruby>誕生日<rt>たんじょうび</rt></ruby>はいつですか。",
+      "translation_id": "Kapan hari ulang tahunmu?",
+      "example_answer": "10<ruby>月<rt>がつ</rt></ruby>5<ruby>日<rt>にち</rt></ruby>です。"
+    },
+    {
+      "id": "dm5",
+      "level": "N4",
+      "question": "日本へ行ったことがありますか。",
+      "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか。",
+      "translation_id": "Apakah pernah pergi ke Jepang?",
+      "example_answer": "いいえ、まだありません。いつか<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "dm6",
+      "level": "N5",
+      "question": "趣味は何ですか。",
+      "question_ruby": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+      "translation_id": "Apa hobimu?",
+      "example_answer": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>くことです。"
+    },
+    {
+      "id": "dm7",
+      "level": "N4",
+      "question": "日本語の勉強はどうですか。",
+      "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>はどうですか。",
+      "translation_id": "Bagaimana belajar bahasa Jepangnya?",
+      "example_answer": "<ruby>難<rt>むずか</rt></ruby>しいですが、とても<ruby>面白<rt>おもしろ</rt></ruby>いです。"
+    },
+    {
+      "id": "dm8",
+      "level": "N5",
+      "question": "毎日何時に起きますか。",
+      "question_ruby": "<ruby>毎日何時<rt>まいにちなんじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きますか。",
+      "translation_id": "Setiap hari bangun jam berapa?",
+      "example_answer": "<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。"
+    },
+    {
+      "id": "dm9",
+      "level": "N5",
+      "question": "どうやって学校へ行きますか。",
+      "question_ruby": "どうやって<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Pergi ke sekolah naik apa?",
+      "example_answer": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "dm10",
+      "level": "N4",
+      "question": "お仕事は何をしていますか。",
+      "question_ruby": "お<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしていますか。",
+      "translation_id": "Apa pekerjaanmu?",
+      "example_answer": "<ruby>会社員<rt>かいしゃいん</rt></ruby>をしています。"
+    },
+    {
+      "id": "dm11",
+      "level": "N4",
+      "question": "日本のアニメが好きですか。",
+      "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>のアニメが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka anime Jepang?",
+      "example_answer": "はい、ナルトが<ruby>大好<rt>だいす</rt></ruby>きです。"
+    },
+    {
+      "id": "dm12",
+      "level": "N5",
+      "question": "兄弟がいますか。",
+      "question_ruby": "<ruby>兄弟<rt>きょうだい</rt></ruby>がいますか。",
+      "translation_id": "Apakah punya saudara?",
+      "example_answer": "はい、<ruby>弟<rt>おとうと</rt></ruby>が<ruby>一人<rt>ひとり</rt></ruby>います。"
+    },
+    {
+      "id": "dm13",
+      "level": "N4",
+      "question": "週末は何をすることが多いですか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をすることが<ruby>多<rt>おお</rt></ruby>いですか。",
+      "translation_id": "Akhir pekan biasanya sering melakukan apa?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>でのんびりしたり、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>したりします。"
+    },
+    {
+      "id": "dm14",
+      "level": "N5",
+      "question": "犬と猫、どちらが好きですか。",
+      "question_ruby": "<ruby>犬<rt>いぬ</rt></ruby>と<ruby>猫<rt>ねこ</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Anjing atau kucing, lebih suka yang mana?",
+      "example_answer": "<ruby>猫<rt>ねこ</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "dm15",
+      "level": "N4",
+      "question": "将来、何をしたいですか。",
+      "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしたいですか。",
+      "translation_id": "Di masa depan, ingin melakukan apa?",
+      "example_answer": "<ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいです。"
+    },
+    {
+      "id": "dm16",
+      "level": "N5",
+      "question": "昨日、どこへ行きましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、どこへ<ruby>行<rt>い</rt></ruby>きましたか。",
+      "translation_id": "Kemarin pergi ke mana?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>とモールへ<ruby>行<rt>い</rt></ruby>きました。"
+    },
+    {
+      "id": "dm17",
+      "level": "N4",
+      "question": "日本料理の中で何が一番好きですか。",
+      "question_ruby": "<ruby>日本料理<rt>にほんりょうり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きですか。",
+      "translation_id": "Dari masakan Jepang, apa yang paling kamu suka?",
+      "example_answer": "<ruby>天<rt>てん</rt></ruby>ぷらが<ruby>一番好<rt>いちばんす</rt></ruby>きです。"
+    },
+    {
+      "id": "dm18",
+      "level": "N5",
+      "question": "あなたの町はどんな所ですか。",
+      "question_ruby": "あなたの<ruby>町<rt>まち</rt></ruby>はどんな<ruby>所<rt>ところ</rt></ruby>ですか。",
+      "translation_id": "Kotamu tempat yang seperti apa?",
+      "example_answer": "<ruby>賑<rt>にぎ</rt></ruby>やかで、<ruby>便利<rt>べんり</rt></ruby>なところです。"
+    },
+    {
+      "id": "dm19",
+      "level": "N4",
+      "question": "暇な時、何をしますか。",
+      "question_ruby": "<ruby>暇<rt>ひま</rt></ruby>な<ruby>時<rt>とき</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Saat ada waktu luang, apa yang kamu lakukan?",
+      "example_answer": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>たり、ゲームをしたりします。"
+    },
+    {
+      "id": "dm20",
+      "level": "N5",
+      "question": "お酒を飲みますか。",
+      "question_ruby": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu minum alkohol?",
+      "example_answer": "いいえ、<ruby>飲<rt>の</rt></ruby>みません。"
+    },
+    {
+      "id": "dm21",
+      "level": "N4",
+      "question": "日本語で何が一番難しいですか。",
+      "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>一番難<rt>いちばんむずか</rt></ruby>しいですか。",
+      "translation_id": "Dalam bahasa Jepang, apa yang paling sulit?",
+      "example_answer": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えるのが<ruby>難<rt>むずか</rt></ruby>しいです。"
+    },
+    {
+      "id": "dm22",
+      "level": "N5",
+      "question": "今日は何曜日ですか。",
+      "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>何曜日<rt>なんようび</rt></ruby>ですか。",
+      "translation_id": "Hari ini hari apa?",
+      "example_answer": "<ruby>土曜日<rt>どようび</rt></ruby>です。"
+    },
+    {
+      "id": "dm23",
+      "level": "N4",
+      "question": "毎朝、新聞を読みますか。",
+      "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みますか。",
+      "translation_id": "Apakah setiap pagi membaca koran?",
+      "example_answer": "いいえ、スマホでニュースを<ruby>チェック<rt></rt></ruby>します。"
+    },
+    {
+      "id": "dm24",
+      "level": "N5",
+      "question": "誕生日に何が欲しいですか。",
+      "question_ruby": "<ruby>誕生日<rt>たんじょうび</rt></ruby>に<ruby>何<rt>なに</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいですか。",
+      "translation_id": "Ingin apa saat hari ulang tahun?",
+      "example_answer": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。"
+    },
+    {
+      "id": "dm25",
+      "level": "N4",
+      "question": "一日に何時間寝ますか。",
+      "question_ruby": "<ruby>一日<rt>いちにち</rt></ruby>に<ruby>何時間寝<rt>なんじかんね</rt></ruby>ますか。",
+      "translation_id": "Sehari tidur berapa jam?",
+      "example_answer": "7<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>寝<rt>ね</rt></ruby>ます。"
+    },
+    {
+      "id": "dm26",
+      "level": "N5",
+      "question": "暑いのは好きですか。",
+      "question_ruby": "<ruby>暑<rt>あつ</rt></ruby>いのは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka cuaca panas?",
+      "example_answer": "いいえ、あまり<ruby>好<rt>す</rt></ruby>きじゃありません。"
+    },
+    {
+      "id": "dm27",
+      "level": "N4",
+      "question": "最近、何か面白いことがありましたか。",
+      "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>か<ruby>面白<rt>おもしろ</rt></ruby>いことがありましたか。",
+      "translation_id": "Belakangan ini, ada sesuatu yang menarik tidak?",
+      "example_answer": "はい、<ruby>新<rt>あたら</rt></ruby>しいカフェを<ruby>見<rt>み</rt></ruby>つけました。"
+    },
+    {
+      "id": "dm28",
+      "level": "N5",
+      "question": "コーヒーをよく飲みますか。",
+      "question_ruby": "コーヒーをよく<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu sering minum kopi?",
+      "example_answer": "はい、<ruby>毎朝飲<rt>まいあさの</rt></ruby>みます。"
+    },
+    {
+      "id": "dm29",
+      "level": "N4",
+      "question": "自分の家で料理をしますか。",
+      "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>をしますか。",
+      "translation_id": "Apakah kamu memasak di rumah sendiri?",
+      "example_answer": "はい、ときどき<ruby>作<rt>つく</rt></ruby>ります。"
+    },
+    {
+      "id": "dm30",
+      "level": "N5",
+      "question": "日本語で何が言えますか。",
+      "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>言<rt>い</rt></ruby>えますか。",
+      "translation_id": "Bisa bicara apa dalam bahasa Jepang?",
+      "example_answer": "あいさつと<ruby>自己紹介<rt>じこしょうかい</rt></ruby>ができます。"
+    },
+    {
+      "id": "dm31",
+      "level": "N4",
+      "question": "どこのスーパーで買い物をしますか。",
+      "question_ruby": "どこのスーパーで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしますか。",
+      "translation_id": "Belanja di supermarket mana?",
+      "example_answer": "<ruby>近<rt>ちか</rt></ruby>くのイオンで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>します。"
+    },
+    {
+      "id": "dm32",
+      "level": "N5",
+      "question": "今、何が一番したいですか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>したいですか。",
+      "translation_id": "Sekarang, apa yang paling ingin kamu lakukan?",
+      "example_answer": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。"
+    },
+    {
+      "id": "dm33",
+      "level": "N4",
+      "question": "あなたの国の有名な食べ物は何ですか。",
+      "question_ruby": "あなたの<ruby>国<rt>くに</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa makanan terkenal dari negaramu?",
+      "example_answer": "ナシゴレンが<ruby>有名<rt>ゆうめい</rt></ruby>です。"
+    },
+    {
+      "id": "dm34",
+      "level": "N5",
+      "question": "電話番号を教えてください。",
+      "question_ruby": "<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "translation_id": "Tolong beri tahu nomor teleponmu.",
+      "example_answer": "0812-3456-7890です。"
+    },
+    {
+      "id": "dm35",
+      "level": "N4",
+      "question": "仕事が終わった後で何をしますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah pekerjaan selesai, kamu melakukan apa?",
+      "example_answer": "ジムへ<ruby>行<rt>い</rt></ruby>って、<ruby>運動<rt>うんどう</rt></ruby>します。"
+    },
+    {
+      "id": "dm36",
+      "level": "N5",
+      "question": "車を持っていますか。",
+      "question_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu punya mobil?",
+      "example_answer": "いいえ、オートバイを<ruby>持<rt>も</rt></ruby>っています。"
+    },
+    {
+      "id": "dm37",
+      "level": "N4",
+      "question": "困った時に誰に相談しますか。",
+      "question_ruby": "<ruby>困<rt>こま</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に<ruby>誰<rt>だれ</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しますか。",
+      "translation_id": "Saat kesusahan, kamu konsultasi ke siapa?",
+      "example_answer": "<ruby>親<rt>おや</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>します。"
+    },
+    {
+      "id": "dm38",
+      "level": "N5",
+      "question": "日本語の先生はどんな人ですか。",
+      "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>はどんな<ruby>人<rt>ひと</rt></ruby>ですか。",
+      "translation_id": "Guru bahasa Jepangmu orang yang seperti apa?",
+      "example_answer": "とても<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "id": "dm39",
+      "level": "N4",
+      "question": "日本の歌を歌えますか。",
+      "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>えますか。",
+      "translation_id": "Apakah kamu bisa menyanyi lagu Jepang?",
+      "example_answer": "はい、少しだけ<ruby>歌<rt>うた</rt></ruby>えます。"
+    },
+    {
+      "id": "dm40",
+      "level": "N5",
+      "question": "お疲れ様でした！今の気分はどうですか。",
+      "question_ruby": "お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした！<ruby>今<rt>いま</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>はどうですか。",
+      "translation_id": "Terima kasih atas kerja kerasnya! Bagaimana perasaanmu sekarang?",
+      "example_answer": "とても<ruby>楽<rt>たの</rt></ruby>しかったです！"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "tabemono",
+  "name": "<ruby>食べ物<rt>たべもの</rt></ruby>",
+  "questions": [
+    {
+      "id": "t1",
+      "level": "N5",
+      "question": "好きな食べ物は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Makanan favoritmu apa?",
+      "example_answer": "ラーメンが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t2",
+      "level": "N5",
+      "question": "昨日、何を食べましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましたか。",
+      "translation_id": "Kemarin kamu makan apa?",
+      "example_answer": "<ruby>昨日<rt>きのう</rt></ruby>、カレーを<ruby>食<rt>た</rt></ruby>べました。"
+    },
+    {
+      "id": "t3",
+      "level": "N4",
+      "question": "外食と自炊、どちらが多いですか。",
+      "question_ruby": "<ruby>外食<rt>がいしょく</rt></ruby>と<ruby>自炊<rt>じすい</rt></ruby>、どちらが<ruby>多<rt>おお</rt></ruby>いですか。",
+      "translation_id": "Lebih sering makan di luar atau masak sendiri?",
+      "example_answer": "<ruby>外食<rt>がいしょく</rt></ruby>のほうが<ruby>多<rt>おお</rt></ruby>いです。"
+    },
+    {
+      "id": "t4",
+      "level": "N4",
+      "question": "その料理はどんな味ですか。",
+      "question_ruby": "その<ruby>料理<rt>りょうり</rt></ruby>はどんな<ruby>味<rt>あじ</rt></ruby>ですか。",
+      "translation_id": "Rasanya makanan itu seperti apa?",
+      "example_answer": "<ruby>少<rt>すこ</rt></ruby>し<ruby>辛<rt>から</rt></ruby>くて、おいしいです。"
+    },
+    {
+      "id": "t5",
+      "level": "N4",
+      "question": "よく食べる料理は何ですか。",
+      "question_ruby": "よく<ruby>食<rt>た</rt></ruby>べる<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Masakan apa yang sering kamu makan?",
+      "example_answer": "よく<ruby>焼<rt>や</rt></ruby>き<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t6",
+      "level": "N5",
+      "question": "朝ご飯は何を食べますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Sarapanmu biasanya makan apa?",
+      "example_answer": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>はパンを<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t7",
+      "level": "N5",
+      "question": "昼ご飯はいつ食べますか。",
+      "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>はいつ<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Siang hari biasanya makan kapan?",
+      "example_answer": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は１２<ruby>時<rt>じ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t8",
+      "level": "N4",
+      "question": "よく食べる果物は何ですか。",
+      "question_ruby": "よく<ruby>食<rt>た</rt></ruby>べる<ruby>果物<rt>くだもの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Buah apa yang sering kamu makan?",
+      "example_answer": "リンゴをよく<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t9",
+      "level": "N4",
+      "question": "甘い食べ物は好きですか。",
+      "question_ruby": "<ruby>甘<rt>あま</rt></ruby>い<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka makanan manis?",
+      "example_answer": "はい、<ruby>甘<rt>あま</rt></ruby>い<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t10",
+      "level": "N5",
+      "question": "嫌いな食べ物は何ですか。",
+      "question_ruby": "<ruby>嫌<rt>きら</rt></ruby>いな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Makanan yang tidak kamu suka apa?",
+      "example_answer": "<ruby>納豆<rt>なっとう</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。"
+    },
+    {
+      "id": "t11",
+      "level": "N4",
+      "question": "週に何回外食しますか。",
+      "question_ruby": "<ruby>週<rt>しゅう</rt></ruby>に<ruby>何回外食<rt>がいしょく</rt></ruby>しますか。",
+      "translation_id": "Seminggu berapa kali kamu makan di luar?",
+      "example_answer": "<ruby>週<rt>しゅう</rt></ruby>に２<ruby>回外食<rt>かいがいしょく</rt></ruby>します。"
+    },
+    {
+      "id": "t12",
+      "level": "N5",
+      "question": "どんな飲み物が好きですか。",
+      "question_ruby": "どんな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Minuman apa yang kamu suka?",
+      "example_answer": "お<ruby>茶<rt>ちゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t13",
+      "level": "N4",
+      "question": "辛い食べ物は食べられますか。",
+      "question_ruby": "<ruby>辛<rt>から</rt></ruby>い<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>食<rt>た</rt></ruby>べられますか。",
+      "translation_id": "Apakah kamu bisa makan makanan pedas?",
+      "example_answer": "はい、<ruby>少<rt>すこ</rt></ruby>し<ruby>辛<rt>から</rt></ruby>いのは<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。"
+    },
+    {
+      "id": "t14",
+      "level": "N5",
+      "question": "毎日何を食べますか。",
+      "question_ruby": "<ruby>毎日何<rt>まいにちなに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Setiap hari kamu makan apa?",
+      "example_answer": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t15",
+      "level": "N4",
+      "question": "どんな料理が得意ですか。",
+      "question_ruby": "どんな<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>ですか。",
+      "translation_id": "Masakan apa yang kamu pandai buat?",
+      "example_answer": "カレーが<ruby>得意<rt>とくい</rt></ruby>です。"
+    },
+    {
+      "id": "t16",
+      "level": "N5",
+      "question": "好きな果物は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>果物<rt>くだもの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Buah favoritmu apa?",
+      "example_answer": "バナナが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t17",
+      "level": "N4",
+      "question": "よく食べるお菓子は何ですか。",
+      "question_ruby": "よく<ruby>食<rt>た</rt></ruby>べるお<ruby>菓子<rt>かし</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Cemilan apa yang sering kamu makan?",
+      "example_answer": "チョコレートをよく<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t18",
+      "level": "N5",
+      "question": "食事は何時に食べますか。",
+      "question_ruby": "<ruby>食事<rt>しょくじ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Biasanya makan jam berapa?",
+      "example_answer": "７<ruby>時<rt>じ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t19",
+      "level": "N4",
+      "question": "食べ物の写真を撮りますか。",
+      "question_ruby": "<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu mengambil foto makanan?",
+      "example_answer": "はい、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。"
+    },
+    {
+      "id": "t20",
+      "level": "N5",
+      "question": "友達と一緒に食べるのは好きですか。",
+      "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べるのは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka makan bersama teman?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べるのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t21",
+      "level": "N5",
+      "question": "お弁当を作りますか。",
+      "question_ruby": "お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu membuat Bento?",
+      "example_answer": "はい、ときどき<ruby>作<rt>つく</rt></ruby>ります。"
+    },
+    {
+      "id": "t22",
+      "level": "N4",
+      "question": "日本の料理で何が一番好きですか。",
+      "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きですか。",
+      "translation_id": "Apa masakan Jepang yang paling kamu suka?",
+      "example_answer": "お<ruby>寿司<rt>すし</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きです。"
+    },
+    {
+      "id": "t23",
+      "level": "N5",
+      "question": "野菜は好きですか。",
+      "question_ruby": "<ruby>野菜<rt>やさい</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka sayuran?",
+      "example_answer": "はい、サラダが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t24",
+      "level": "N4",
+      "question": "レストランをどうやって探しますか。",
+      "question_ruby": "レストランをどうやって<ruby>探<rt>さが</rt></ruby>しますか。",
+      "translation_id": "Bagaimana kamu mencari restoran?",
+      "example_answer": "インターネットで<ruby>探<rt>さが</rt></ruby>します。"
+    },
+    {
+      "id": "t25",
+      "level": "N5",
+      "question": "肉と魚、どちらが好きですか。",
+      "question_ruby": "<ruby>肉<rt>にく</rt></ruby>と<ruby>魚<rt>さかな</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Daging atau ikan, mana yang kamu suka?",
+      "example_answer": "<ruby>肉<rt>にく</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "t26",
+      "level": "N4",
+      "question": "料理のレシピをどこで見ますか。",
+      "question_ruby": "<ruby>料理<rt>りょうり</rt></ruby>のレシピをどこで<ruby>見<rt>み</rt></ruby>ますか。",
+      "translation_id": "Di mana kamu melihat resep masakan?",
+      "example_answer": "YouTubeで<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "t27",
+      "level": "N5",
+      "question": "冷たい飲み物がいいですか。",
+      "question_ruby": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>がいいですか。",
+      "translation_id": "Apakah kamu ingin minuman dingin?",
+      "example_answer": "はい、コーラをください。"
+    },
+    {
+      "id": "t28",
+      "level": "N4",
+      "question": "食べ放題に行ったことがありますか。",
+      "question_ruby": "<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby>題に<ruby>行<rt>い</rt></ruby>ったことがありますか。",
+      "translation_id": "Pernahkah kamu pergi ke tempat makan sepuasnya (all you can eat)?",
+      "example_answer": "はい、<ruby>先週行<rt>せんしゅうい</rt></ruby>きました。"
+    },
+    {
+      "id": "t29",
+      "level": "N5",
+      "question": "パンとご飯、どちらをよく食べますか。",
+      "question_ruby": "パンとご<ruby>飯<rt>はん</rt></ruby>、どちらをよく<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Roti atau nasi, mana yang sering kamu makan?",
+      "example_answer": "ご<ruby>飯<rt>はん</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "t30",
+      "level": "N4",
+      "question": "自分で料理を作るのは大変ですか。",
+      "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るのは<ruby>大変<rt>たいへん</rt></ruby>ですか。",
+      "translation_id": "Apakah memasak sendiri itu melelahkan?",
+      "example_answer": "いいえ、とても<ruby>楽<rt>たの</rt></ruby>しいです。"
+    }
+  ]
+}

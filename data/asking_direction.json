@@ -1,0 +1,246 @@
+{
+  "id": "asking_direction",
+  "name": "<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く",
+  "questions": [
+    {
+      "id": "d1",
+      "level": "N5",
+      "question": "駅はどこですか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>はどこですか。",
+      "translation_id": "Stasiun ada di mana?",
+      "example_answer": "あそこです。"
+    },
+    {
+      "id": "d2",
+      "level": "N5",
+      "question": "郵便局はどの方向ですか。",
+      "question_ruby": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>はどの<ruby>方向<rt>ほうこう</rt></ruby>ですか。",
+      "translation_id": "Pos ada di arah mana?",
+      "example_answer": "まっすぐ<ruby>行<rt>い</rt></ruby>って<ruby>右<rt>みぎ</rt></ruby>です。"
+    },
+    {
+      "id": "d3",
+      "level": "N5",
+      "question": "コンビニは近いですか。",
+      "question_ruby": "コンビニは<ruby>近<rt>ちか</rt></ruby>いですか。",
+      "translation_id": "Apakah konbini dekat?",
+      "example_answer": "はい、<ruby>近<rt>ちか</rt></ruby>いです。"
+    },
+    {
+      "id": "d4",
+      "level": "N4",
+      "question": "図書館までどうやって行きますか。",
+      "question_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>までどうやって<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Bagaimana cara ke perpustakaan?",
+      "example_answer": "バスで<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "d5",
+      "level": "N5",
+      "question": "駅までどのくらいかかりますか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>までどのくらいかかりますか。",
+      "translation_id": "Butuh waktu berapa lama ke stasiun?",
+      "example_answer": "１０<ruby>分<rt>ぷん</rt></ruby>くらいかかります。"
+    },
+    {
+      "id": "d6",
+      "level": "N4",
+      "question": "道に迷いました。助けてくれますか。",
+      "question_ruby": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>いました。<ruby>助<rt>たす</rt></ruby>けてくれますか。",
+      "translation_id": "Saya tersesat. Bisa tolong?",
+      "example_answer": "はい、<ruby>案内<rt>あんない</rt></ruby>します。"
+    },
+    {
+      "id": "d7",
+      "level": "N5",
+      "question": "ここから駅まで歩けますか。",
+      "question_ruby": "ここから<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>けますか。",
+      "translation_id": "Bisa jalan kaki dari sini ke stasiun?",
+      "example_answer": "はい、<ruby>歩<rt>ある</rt></ruby>けます。"
+    },
+    {
+      "id": "d8",
+      "level": "N4",
+      "question": "右に曲がったら何がありますか。",
+      "question_ruby": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がったら<ruby>何<rt>なに</rt></ruby>がありますか。",
+      "translation_id": "Kalau belok kanan, ada apa?",
+      "example_answer": "スーパーがあります。"
+    },
+    {
+      "id": "d9",
+      "level": "N5",
+      "question": "駅は近いですか、遠いですか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>は<ruby>近<rt>ちか</rt></ruby>いですか、<ruby>遠<rt>とお</rt></ruby>いですか。",
+      "translation_id": "Stasiun dekat atau jauh?",
+      "example_answer": "<ruby>近<rt>ちか</rt></ruby>いです。"
+    },
+    {
+      "id": "d10",
+      "level": "N4",
+      "question": "まっすぐ行って左に曲がりますか。",
+      "question_ruby": "まっすぐ<ruby>行<rt>い</rt></ruby>って<ruby>左<rt>ひだり</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がりますか。",
+      "translation_id": "Harus jalan lurus lalu belok kiri?",
+      "example_answer": "はい、<ruby>左<rt>ひだり</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がります。"
+    },
+    {
+      "id": "d11",
+      "level": "N5",
+      "question": "近くにバス停はありますか。",
+      "question_ruby": "<ruby>近<rt>ちか</rt></ruby>くにバス<ruby>停<rt>てい</rt></ruby>はありますか。",
+      "translation_id": "Ada halte bus dekat sini?",
+      "example_answer": "はい、あそこにあります。"
+    },
+    {
+      "id": "d12",
+      "level": "N4",
+      "question": "駅までタクシーで行けますか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>までタクシーで<ruby>行<rt>い</rt></ruby>けますか。",
+      "translation_id": "Bisa ke stasiun pakai taksi?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>けます。"
+    },
+    {
+      "id": "d13",
+      "level": "N5",
+      "question": "この道は正しいですか。",
+      "question_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しいですか。",
+      "translation_id": "Apakah jalan ini benar?",
+      "example_answer": "はい、<ruby>正<rt>ただ</rt></ruby>しいです。"
+    },
+    {
+      "id": "d14",
+      "level": "N4",
+      "question": "交差点で右に行きますか、左に行きますか。",
+      "question_ruby": "<ruby>交差点<rt>こうさてん</rt></ruby>で<ruby>右<rt>みぎ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか、<ruby>左<rt>ひだり</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Di persimpangan, ke kanan atau ke kiri?",
+      "example_answer": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "d15",
+      "level": "N5",
+      "question": "駅までどれくらい歩きますか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>までどれくらい<ruby>歩<rt>ある</rt></ruby>きますか。",
+      "translation_id": "Perlu jalan kaki berapa lama ke stasiun?",
+      "example_answer": "５<ruby>分<rt>ふん</rt></ruby>くらい<ruby>歩<rt>ある</rt></ruby>きます。"
+    },
+    {
+      "id": "d16",
+      "level": "N4",
+      "question": "ここから近いのは郵便局ですか、銀行ですか。",
+      "question_ruby": "ここから<ruby>近<rt>ちか</rt></ruby>いのは<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>ですか、<ruby>銀行<rt>ぎんこう</rt></ruby>ですか。",
+      "translation_id": "Dari sini yang dekat, pos atau bank?",
+      "example_answer": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>です。"
+    },
+    {
+      "id": "d17",
+      "level": "N5",
+      "question": "右に曲がったら駅がありますか。",
+      "question_ruby": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がったら<ruby>駅<rt>えき</rt></ruby>がありますか。",
+      "translation_id": "Kalau belok kanan, ada stasiun?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "d18",
+      "level": "N4",
+      "question": "次の信号で左に曲がりますか。",
+      "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>信号<rt>しんごう</rt></ruby>で<ruby>左<rt>ひだり</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がりますか。",
+      "translation_id": "Di lampu lalu lintas berikutnya, belok kiri?",
+      "example_answer": "はい、<ruby>曲<rt>ま</rt></ruby>がります。"
+    },
+    {
+      "id": "d19",
+      "level": "N5",
+      "question": "近くにコンビニはありますか。",
+      "question_ruby": "<ruby>近<rt>ちか</rt></ruby>くにコンビニはありますか。",
+      "translation_id": "Ada konbini dekat sini?",
+      "example_answer": "はい、あそこにあります。"
+    },
+    {
+      "id": "d20",
+      "level": "N4",
+      "question": "地図を見せてもらえますか。",
+      "question_ruby": "<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてもらえますか。",
+      "translation_id": "Bisa menunjukkan peta?",
+      "example_answer": "はい、どうぞ。"
+    },
+    {
+      "id": "d21",
+      "level": "N5",
+      "question": "道に迷いました. 駅はどこですか。",
+      "question_ruby": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>いました。<ruby>駅<rt>えき</rt></ruby>はどこですか。",
+      "translation_id": "Saya tersesat. Stasiun di mana?",
+      "example_answer": "あそこです。"
+    },
+    {
+      "id": "d22",
+      "level": "N4",
+      "question": "交差点の向こうに何がありますか。",
+      "question_ruby": "<ruby>交差点<rt>こうさてん</rt></ruby>の<ruby>向<rt>む</rt></ruby>こうに<ruby>何<rt>なに</rt></ruby>がありますか。",
+      "translation_id": "Di seberang persimpangan, ada apa?",
+      "example_answer": "スーパーがあります。"
+    },
+    {
+      "id": "d23",
+      "level": "N5",
+      "question": "ここから駅まで近いですか。",
+      "question_ruby": "ここから<ruby>駅<rt>えき</rt></ruby>まで<ruby>近<rt>ちか</rt></ruby>いですか。",
+      "translation_id": "Dari sini ke stasiun dekat?",
+      "example_answer": "はい、<ruby>近<rt>ちか</rt></ruby>いです。"
+    },
+    {
+      "id": "d24",
+      "level": "N4",
+      "question": "次の角で右に曲がってください。",
+      "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>角<rt>かど</rt></ruby>で<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。",
+      "translation_id": "Di sudut berikutnya, belok kanan, ya.",
+      "example_answer": "わかりました。"
+    },
+    {
+      "id": "d25",
+      "level": "N5",
+      "question": "駅まで歩くとどのくらいかかりますか。",
+      "question_ruby": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>くとどのくらいかかりますか。",
+      "translation_id": "Kalau jalan kaki ke stasiun, butuh berapa lama?",
+      "example_answer": "１０<ruby>分<rt>ぷん</rt></ruby>くらいかかります。"
+    },
+    {
+      "id": "d26",
+      "level": "N4",
+      "question": "この辺に銀行はありますか。",
+      "question_ruby": "この<ruby>辺<rt>へん</rt></ruby>に<ruby>銀行<rt>ぎんこう</rt></ruby>はありますか。",
+      "translation_id": "Apakah ada bank di sekitar sini?",
+      "example_answer": "はい、あそこの<ruby>角<rt>かど</rt></ruby>にあります。"
+    },
+    {
+      "id": "d27",
+      "level": "N5",
+      "question": "出口はどこですか。",
+      "question_ruby": "<ruby>出口<rt>でぐち</rt></ruby>はどこですか。",
+      "translation_id": "Pintu keluar ada di mana?",
+      "example_answer": "あちらです。"
+    },
+    {
+      "id": "d28",
+      "level": "N4",
+      "question": "反対側のホームですか。",
+      "question_ruby": "<ruby>反対側<rt>はんたいがわ</rt></ruby>のホームですか。",
+      "translation_id": "Apakah di peron sisi seberang?",
+      "example_answer": "はい、そうです。"
+    },
+    {
+      "id": "d29",
+      "level": "N5",
+      "question": "トイレはどこにありますか。",
+      "question_ruby": "トイレはどこにありますか。",
+      "translation_id": "Toilet ada di mana?",
+      "example_answer": "あそこの<ruby>階段<rt>かいだん</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>です。"
+    },
+    {
+      "id": "d30",
+      "level": "N4",
+      "question": "このバスは新宿へ行きますか。",
+      "question_ruby": "このバスは<ruby>新宿<rt>しんじゅく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah bus ini pergi ke Shinjuku?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きますよ。"
+    }
+  ]
+}

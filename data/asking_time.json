@@ -1,0 +1,246 @@
+{
+  "id": "asking_time",
+  "name": "<ruby>時間<rt>じかん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "今何時ですか。",
+      "question_ruby": "<ruby>今何時<rt>いまなんじ</rt></ruby>ですか。",
+      "translation_id": "Sekarang jam berapa?",
+      "example_answer": "<ruby>今<rt>いま</rt></ruby>は３<ruby>時<rt>じ</rt></ruby>です。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "朝何時に起きますか。",
+      "question_ruby": "<ruby>朝何時<rt>あさなんじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きますか。",
+      "translation_id": "Jam berapa kamu bangun pagi?",
+      "example_answer": "<ruby>朝<rt>あさ</rt></ruby>６<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。"
+    },
+    {
+      "id": "q3",
+      "level": "N5",
+      "question": "学校は何時に始まりますか。",
+      "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりますか。",
+      "translation_id": "Sekolah mulai jam berapa?",
+      "example_answer": "<ruby>学校<rt>がっこう</rt></ruby>は８<ruby>時<rt>じ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "仕事は何時に終わりますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりますか。",
+      "translation_id": "Pekerjaan selesai jam berapa?",
+      "example_answer": "<ruby>仕事<rt>しごと</rt></ruby>は５<ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "昼ご飯は何時に食べますか。",
+      "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Jam berapa kamu makan siang?",
+      "example_answer": "１２<ruby>時<rt>じ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "寝るのは何時ですか。",
+      "question_ruby": "<ruby>寝<rt>ね</rt></ruby>るのは<ruby>何時<rt>なんじ</rt></ruby>ですか。",
+      "translation_id": "Jam berapa kamu tidur?",
+      "example_answer": "１１<ruby>時<rt>じ</rt></ruby>です。"
+    },
+    {
+      "id": "q7",
+      "level": "N4",
+      "question": "授業は何時から何時までですか。",
+      "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>から<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "translation_id": "Pelajaran mulai jam berapa sampai jam berapa?",
+      "example_answer": "９<ruby>時<rt>じ</rt></ruby>から１２<ruby>時<rt>じ</rt></ruby>までです。"
+    },
+    {
+      "id": "q8",
+      "level": "N5",
+      "question": "今は午前ですか、午後ですか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby>ですか、<ruby>午後<rt>ごご</rt></ruby>ですか。",
+      "translation_id": "Sekarang pagi atau sore?",
+      "example_answer": "<ruby>今<rt>いま</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>です。"
+    },
+    {
+      "id": "q9",
+      "level": "N4",
+      "question": "電車は何時に出発しますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>しますか。",
+      "translation_id": "Kereta berangkat jam berapa?",
+      "example_answer": "７<ruby>時<rt>じ</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>します。"
+    },
+    {
+      "id": "q10",
+      "level": "N5",
+      "question": "今から何分かかりますか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>何分<rt>なんぷん</rt></ruby>かかりますか。",
+      "translation_id": "Dari sekarang, butuh berapa menit?",
+      "example_answer": "３０<ruby>分<rt>ぷん</rt></ruby>かかります。"
+    },
+    {
+      "id": "q11",
+      "level": "N4",
+      "question": "バスは何時に来ますか。",
+      "question_ruby": "バスは<ruby>何時<rt>なんじ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ますか。",
+      "translation_id": "Bus datang jam berapa?",
+      "example_answer": "８<ruby>時<rt>じ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。"
+    },
+    {
+      "id": "q12",
+      "level": "N5",
+      "question": "授業は何分ですか。",
+      "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>何分<rt>なんぷん</rt></ruby>ですか。",
+      "translation_id": "Pelajaran berapa menit?",
+      "example_answer": "５０<ruby>分<rt>ぷん</rt></ruby>です。"
+    },
+    {
+      "id": "q13",
+      "level": "N4",
+      "question": "明日は何時に起きますか。",
+      "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きますか。",
+      "translation_id": "Besok jam berapa kamu bangun?",
+      "example_answer": "６<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。"
+    },
+    {
+      "id": "q14",
+      "level": "N5",
+      "question": "昼休みは何時から何時までですか。",
+      "question_ruby": "<ruby>昼休<rt>ひるやす</rt></ruby>みは<ruby>何時<rt>なんじ</rt></ruby>から<ruby>何時<rt>なんじ</rt></ruby>までですか。",
+      "translation_id": "Istirahat siang mulai jam berapa sampai jam berapa?",
+      "example_answer": "１２<ruby>時<rt>じ</rt></ruby>から１<ruby>時<rt>じ</rt></ruby>までです。"
+    },
+    {
+      "id": "q15",
+      "level": "N4",
+      "question": "夜ご飯は何時に食べますか。",
+      "question_ruby": "<ruby>夜<rt>よる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べますか。",
+      "translation_id": "Jam berapa kamu makan malam?",
+      "example_answer": "７<ruby>時<rt>じ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "今は午前９時ですか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby>９<ruby>時<rt>じ</rt></ruby>ですか。",
+      "translation_id": "Apakah sekarang jam 9 pagi?",
+      "example_answer": "はい、そうです。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "試合は何時に始まりますか。",
+      "question_ruby": "<ruby>試合<rt>しあい</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりますか。",
+      "translation_id": "Pertandingan dimulai jam berapa?",
+      "example_answer": "３<ruby>時<rt>じ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。"
+    },
+    {
+      "id": "q18",
+      "level": "N5",
+      "question": "映画は何時に終わりますか。",
+      "question_ruby": "<ruby>映画<rt>えいが</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりますか。",
+      "translation_id": "Film selesai jam berapa?",
+      "example_answer": "９<ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
+    },
+    {
+      "id": "q19",
+      "level": "N4",
+      "question": "バスは何分間で着きますか。",
+      "question_ruby": "バスは<ruby>何分間<rt>なんぷんかん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>きますか。",
+      "translation_id": "Bus sampai tujuan dalam berapa menit?",
+      "example_answer": "３０<ruby>分<rt>ぷん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>きます。"
+    },
+    {
+      "id": "q20",
+      "level": "N5",
+      "question": "今何分ですか。",
+      "question_ruby": "<ruby>今何分<rt>いまなんぷん</rt></ruby>ですか。",
+      "translation_id": "Sekarang menit keberapa?",
+      "example_answer": "２０<ruby>分<rt>ぷん</rt></ruby>です。"
+    },
+    {
+      "id": "q21",
+      "level": "N4",
+      "question": "時計は正しいですか。",
+      "question_ruby": "<ruby>時計<rt>とけい</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しいですか。",
+      "translation_id": "Apakah jamnya benar?",
+      "example_answer": "はい、<ruby>正<rt>ただ</rt></ruby>しいです。"
+    },
+    {
+      "id": "q22",
+      "level": "N5",
+      "question": "約束は何時ですか。",
+      "question_ruby": "<ruby>約束<rt>やくそく</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>ですか。",
+      "translation_id": "Jam berapa janji temu?",
+      "example_answer": "５<ruby>時<rt>じ</rt></ruby>です。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "電車は何分おきに来ますか。",
+      "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>何分<rt>なんぷん</rt></ruby>おきに<ruby>来<rt>き</rt></ruby>ますか。",
+      "translation_id": "Kereta datang setiap berapa menit?",
+      "example_answer": "１０<ruby>分<rt>ぷん</rt></ruby>おきに<ruby>来<rt>き</rt></ruby>ます。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "今は午後３時半ですか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>３<ruby>時半<rt>じはん</rt></ruby>ですか。",
+      "translation_id": "Apakah sekarang jam 3:30 sore?",
+      "example_answer": "はい、そうです。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "会議は何時に終わりますか。",
+      "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりますか。",
+      "translation_id": "Rapat selesai jam berapa?",
+      "example_answer": "４<ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
+    },
+    {
+      "id": "q26",
+      "level": "N5",
+      "question": "昨日、何時に寝ましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>何時<rt>なんじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ましたか。",
+      "translation_id": "Kemarin tidur jam berapa?",
+      "example_answer": "１２<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ました。"
+    },
+    {
+      "id": "q27",
+      "level": "N4",
+      "question": "家から駅までどのくらい時間がかかりますか。",
+      "question_ruby": "<ruby>家<rt>いえ</rt></ruby>から<ruby>駅<rt>えき</rt></ruby>までどのくらい<ruby>時間<rt>じかん</rt></ruby>がかかりますか。",
+      "translation_id": "Dari rumah sampai stasiun butuh waktu berapa lama?",
+      "example_answer": "歩いて１５<ruby>分<rt>ふん</rt></ruby>かかります。"
+    },
+    {
+      "id": "q28",
+      "level": "N5",
+      "question": "パーティーは何時に始まりますか。",
+      "question_ruby": "パーティーは<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりますか。",
+      "translation_id": "Pesta mulai jam berapa?",
+      "example_answer": "<ruby>夜<rt>よる</rt></ruby>７<ruby>時<rt>じ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。"
+    },
+    {
+      "id": "q29",
+      "level": "N4",
+      "question": "飛行機の時間は大丈夫ですか。",
+      "question_ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか。",
+      "translation_id": "Apakah waktu pesawatnya aman (tidak terlambat)?",
+      "example_answer": "はい、まだ<ruby>時間<rt>じかん</rt></ruby>があります。"
+    },
+    {
+      "id": "q30",
+      "level": "N5",
+      "question": "今、何時何分ですか。",
+      "question_ruby": "<ruby>今<rt>いま</rt></ruby>、<ruby>何時何分<rt>なんじなんぷん</rt></ruby>ですか。",
+      "translation_id": "Sekarang jam berapa menit berapa?",
+      "example_answer": "４<ruby>時<rt>じ</rt></ruby>１０<ruby>分<rt>ぷん</rt></ruby>です。"
+    }
+  ]
+}

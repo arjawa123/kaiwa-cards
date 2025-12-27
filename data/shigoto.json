@@ -1,0 +1,246 @@
+{
+  "id": "shigoto",
+  "name": "<ruby>仕事<rt>しごと</rt></ruby>",
+  "questions": [
+    {
+      "id": "w1",
+      "level": "N5",
+      "question": "仕事は何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+      "translation_id": "Pekerjaanmu apa?",
+      "example_answer": "<ruby>会社員<rt>かいしゃいん</rt></ruby>です。"
+    },
+    {
+      "id": "w2",
+      "level": "N5",
+      "question": "何時から何時まで働きますか。",
+      "question_ruby": "<ruby>何時<rt>なんじ</rt></ruby>から<ruby>何時<rt>なんじ</rt></ruby>まで<ruby>働<rt>はたら</rt></ruby>きますか。",
+      "translation_id": "Dari jam berapa sampai jam berapa kamu bekerja?",
+      "example_answer": "９<ruby>時<rt>じ</rt></ruby>から５<ruby>時<rt>じ</rt></ruby>まで<ruby>働<rt>はたら</rt></ruby>きます。"
+    },
+    {
+      "id": "w3",
+      "level": "N4",
+      "question": "仕事は忙しいですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいですか。",
+      "translation_id": "Apakah pekerjaanmu sibuk?",
+      "example_answer": "とても<ruby>忙<rt>いそが</rt></ruby>しいです。"
+    },
+    {
+      "id": "w4",
+      "level": "N4",
+      "question": "仕事で大変なことは何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>なことは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa hal yang paling sulit dalam pekerjaanmu?",
+      "example_answer": "<ruby>時間管理<rt>じかんかんり</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>です。"
+    },
+    {
+      "id": "w5",
+      "level": "N4",
+      "question": "将来、どんな仕事をしたいですか。",
+      "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>、どんな<ruby>仕事<rt>しごと</rt></ruby>をしたいですか。",
+      "translation_id": "Di masa depan, pekerjaan seperti apa yang ingin kamu lakukan?",
+      "example_answer": "ITの<ruby>仕事<rt>しごと</rt></ruby>をしたいです。"
+    },
+    {
+      "id": "w6",
+      "level": "N5",
+      "question": "毎日何時に仕事に行きますか。",
+      "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>何時<rt>なんじ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Setiap hari jam berapa kamu pergi bekerja?",
+      "example_answer": "８<ruby>時<rt>じ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w7",
+      "level": "N4",
+      "question": "仕事の休みはいつですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みはいつですか。",
+      "translation_id": "Kapan hari libur pekerjaanmu?",
+      "example_answer": "<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>です。"
+    },
+    {
+      "id": "w8",
+      "level": "N5",
+      "question": "仕事で何をしますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Apa yang kamu lakukan di pekerjaanmu?",
+      "example_answer": "<ruby>書類<rt>しょるい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。"
+    },
+    {
+      "id": "w9",
+      "level": "N4",
+      "question": "仕事で一番好きなことは何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>一番好<rt>いちばんす</rt></ruby>きなことは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Hal apa yang paling kamu suka dalam pekerjaanmu?",
+      "example_answer": "<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>すことが<ruby>一番好<rt>いちばんす</rt></ruby>きです。"
+    },
+    {
+      "id": "w10",
+      "level": "N4",
+      "question": "仕事で困ったことは何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>困<rt>こま</rt></ruby>ったことは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa masalah yang pernah kamu alami di pekerjaan?",
+      "example_answer": "<ruby>資料<rt>しりょう</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>りました。"
+    },
+    {
+      "id": "w11",
+      "level": "N5",
+      "question": "仕事は楽しいですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しいですか。",
+      "translation_id": "Apakah pekerjaanmu menyenangkan?",
+      "example_answer": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しいです。"
+    },
+    {
+      "id": "w12",
+      "level": "N4",
+      "question": "仕事でよく使う道具は何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>う<ruby>道具<rt>どうぐ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Alat apa yang sering kamu gunakan di pekerjaanmu?",
+      "example_answer": "パソコンをよく<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "w13",
+      "level": "N5",
+      "question": "仕事の後で何をしますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah bekerja, apa yang kamu lakukan?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>みます。"
+    },
+    {
+      "id": "w14",
+      "level": "N4",
+      "question": "仕事で気をつけていることは何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>気<rt>き</rt></ruby>をつけていることは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Hal apa yang kamu perhatikan di pekerjaanmu?",
+      "example_answer": "<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることに<ruby>気<rt>き</rt></ruby>をつけています。"
+    },
+    {
+      "id": "w15",
+      "level": "N5",
+      "question": "仕事でどんな人と働きますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>でどんな<ruby>人<rt>ひと</rt></ruby>と<ruby>働<rt>はたら</rt></ruby>きますか。",
+      "translation_id": "Dengan orang seperti apa kamu bekerja?",
+      "example_answer": "<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>働<rt>はたら</rt></ruby>きます。"
+    },
+    {
+      "id": "w16",
+      "level": "N4",
+      "question": "仕事で使うパソコンは何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うパソコンは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Komputer apa yang kamu pakai untuk pekerjaanmu?",
+      "example_answer": "ノートパソコンを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "w17",
+      "level": "N5",
+      "question": "仕事に行くのは楽ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>くのは<ruby>楽<rt>らく</rt></ruby>ですか。",
+      "translation_id": "Pergi ke tempat kerja nyaman/tidak?",
+      "example_answer": "はい、<ruby>楽<rt>らく</rt></ruby>です。"
+    },
+    {
+      "id": "w18",
+      "level": "N4",
+      "question": "仕事で会議はありますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>会議<rt>かいぎ</rt></ruby>はありますか。",
+      "translation_id": "Apakah ada rapat di pekerjaanmu?",
+      "example_answer": "はい、<ruby>毎週会議<rt>まいしゅうかいぎ</rt></ruby>があります。"
+    },
+    {
+      "id": "w19",
+      "level": "N5",
+      "question": "仕事で何を勉強しますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>何<rt>なに</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しますか。",
+      "translation_id": "Apa yang kamu pelajari di pekerjaanmu?",
+      "example_answer": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。"
+    },
+    {
+      "id": "w20",
+      "level": "N4",
+      "question": "仕事で一番大切なことは何ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>なことは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Hal paling penting dalam pekerjaanmu apa?",
+      "example_answer": "<ruby>安全<rt>あんぜん</rt></ruby>と<ruby>正確<rt>せいかく</rt></ruby>さが<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>です。"
+    },
+    {
+      "id": "w21",
+      "level": "N5",
+      "question": "職場に電話がありますか。",
+      "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>がありますか。",
+      "translation_id": "Apakah ada telepon di tempat kerja?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "w22",
+      "level": "N4",
+      "question": "残業は多いですか。",
+      "question_ruby": "<ruby>残業<rt>ざんぎょう</rt></ruby>は<ruby>多<rt>おお</rt></ruby>いですか。",
+      "translation_id": "Apakah lembur itu banyak?",
+      "example_answer": "いいえ、あまり<ruby>多<rt>おお</rt></ruby>くないです。"
+    },
+    {
+      "id": "w23",
+      "level": "N5",
+      "question": "仕事で制服を着ますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>制服<rt>せいふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ますか。",
+      "translation_id": "Apakah kamu memakai seragam di pekerjaan?",
+      "example_answer": "いいえ、スーツを<ruby>着<rt>き</rt></ruby>ます。"
+    },
+    {
+      "id": "w24",
+      "level": "N4",
+      "question": "給料はどうやって受け取りますか。",
+      "question_ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>はどうやって<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りますか。",
+      "translation_id": "Bagaimana kamu menerima gaji?",
+      "example_answer": "<ruby>銀行振込<rt>ぎんこうふりこみ</rt></ruby>です。"
+    },
+    {
+      "id": "w25",
+      "level": "N5",
+      "question": "職場はどこにありますか。",
+      "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>はどこにありますか。",
+      "translation_id": "Di mana tempat kerjamu berada?",
+      "example_answer": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあります。"
+    },
+    {
+      "id": "w26",
+      "level": "N4",
+      "question": "仕事で英語を使いますか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu menggunakan bahasa Inggris di pekerjaan?",
+      "example_answer": "はい、メールで<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "w27",
+      "level": "N5",
+      "question": "仕事の昼休みは何時間ですか。",
+      "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>昼休<rt>ひるやす</rt></ruby>みは<ruby>何時間<rt>なんじかん</rt></ruby>ですか。",
+      "translation_id": "Berapa jam istirahat siang di pekerjaan?",
+      "example_answer": "１<ruby>時間<rt>じかん</rt></ruby>です。"
+    },
+    {
+      "id": "w28",
+      "level": "N4",
+      "question": "上司はどんな人ですか。",
+      "question_ruby": "<ruby>上司<rt>じょうし</rt></ruby>はどんな<ruby>人<rt>ひと</rt></ruby>ですか。",
+      "translation_id": "Atasanmu orang yang seperti apa?",
+      "example_answer": "<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。"
+    },
+    {
+      "id": "w29",
+      "level": "N5",
+      "question": "いつ仕事を始めましたか。",
+      "question_ruby": "いつ<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めましたか。",
+      "translation_id": "Kapan kamu mulai bekerja?",
+      "example_answer": "<ruby>去年<rt>きょねん</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。"
+    },
+    {
+      "id": "w30",
+      "level": "N4",
+      "question": "この仕事を選んだ理由は何ですか。",
+      "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa alasanmu memilih pekerjaan ini?",
+      "example_answer": "<ruby>興味<rt>きょうみ</rt></ruby>があったからです。"
+    }
+  ]
+}

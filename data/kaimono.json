@@ -1,0 +1,246 @@
+{
+  "id": "kaimono",
+  "name": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>",
+  "questions": [
+    {
+      "id": "k1",
+      "level": "N5",
+      "question": "よくどこで買い物をしますか。",
+      "question_ruby": "よくどこで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしますか。",
+      "translation_id": "Sering belanja di mana?",
+      "example_answer": "スーパーで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をします。"
+    },
+    {
+      "id": "k2",
+      "level": "N4",
+      "question": "最近、何を買いましたか。",
+      "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いましたか。",
+      "translation_id": "Belakangan ini, apa yang kamu beli?",
+      "example_answer": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。"
+    },
+    {
+      "id": "k3",
+      "level": "N5",
+      "question": "買い物は好きですか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka berbelanja?",
+      "example_answer": "はい、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "k4",
+      "level": "N4",
+      "question": "買い物をするとき、値段と品質、どちらが大切ですか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をするとき、<ruby>値段<rt>ねだん</rt></ruby>と<ruby>品質<rt>ひんしつ</rt></ruby>、どちらが<ruby>大切<rt>たいせつ</rt></ruby>ですか。",
+      "translation_id": "Saat berbelanja, mana yang lebih penting, harga atau kualitas?",
+      "example_answer": "<ruby>品質<rt>ひんしつ</rt></ruby>のほうが<ruby>大切<rt>たいせつ</rt></ruby>です。"
+    },
+    {
+      "id": "k5",
+      "level": "N4",
+      "question": "店員さんに何を聞くことが多いですか。",
+      "question_ruby": "<ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>何<rt>なに</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことが<ruby>多<rt>おお</rt></ruby>いですか。",
+      "translation_id": "Apa yang sering ditanyakan kepada pegawai toko?",
+      "example_answer": "<ruby>値段<rt>ねだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことが<ruby>多<rt>おお</rt></ruby>いです。"
+    },
+    {
+      "id": "k6",
+      "level": "N5",
+      "question": "買い物に行くのは誰と行きますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くのは<ruby>誰<rt>だれ</rt></ruby>と<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Dengan siapa kamu pergi berbelanja?",
+      "example_answer": "<ruby>友<rt>とも</rt></ruby>だちと<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "k7",
+      "level": "N4",
+      "question": "買い物のとき、現金とカード、どちらを使いますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のとき、<ruby>現金<rt>げんきん</rt></ruby>とカード、どちらを<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Saat berbelanja, menggunakan uang tunai atau kartu?",
+      "example_answer": "カードを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "k8",
+      "level": "N5",
+      "question": "スーパーで何をよく買いますか。",
+      "question_ruby": "スーパーで<ruby>何<rt>なに</rt></ruby>をよく<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Di supermarket, apa yang sering kamu beli?",
+      "example_answer": "<ruby>野菜<rt>やさい</rt></ruby>をよく<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "k9",
+      "level": "N5",
+      "question": "買い物にどのくらい時間がかかりますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>にどのくらい<ruby>時間<rt>じかん</rt></ruby>がかかりますか。",
+      "translation_id": "Berapa lama waktu yang biasanya kamu habiskan untuk berbelanja?",
+      "example_answer": "<ruby>一時間<rt>いちじかん</rt></ruby>くらいかかります。"
+    },
+    {
+      "id": "k10",
+      "level": "N4",
+      "question": "買い物に行くとき、メモを作りますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くとき、メモを<ruby>作<rt>つく</rt></ruby>りますか。",
+      "translation_id": "Apakah kamu membuat catatan saat pergi berbelanja?",
+      "example_answer": "はい、メモを<ruby>作<rt>つく</rt></ruby>ります。"
+    },
+    {
+      "id": "k11",
+      "level": "N5",
+      "question": "週末に買い物に行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu pergi berbelanja di akhir pekan?",
+      "example_answer": "はい、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "k12",
+      "level": "N5",
+      "question": "買い物はオンラインでしますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>はオンラインでしますか。",
+      "translation_id": "Apakah kamu berbelanja online?",
+      "example_answer": "はい、オンラインで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をします。"
+    },
+    {
+      "id": "k13",
+      "level": "N4",
+      "question": "買い物のとき、どんな袋を使いますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のとき、どんな<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Saat berbelanja, tas seperti apa yang kamu gunakan?",
+      "example_answer": "エコバッグを<ruby>使<rt>つか</rt></ruby>います。"
+    },
+    {
+      "id": "k14",
+      "level": "N5",
+      "question": "一番よく買うものは何ですか。",
+      "question_ruby": "<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>買<rt>か</rt></ruby>うものは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Barang apa yang paling sering kamu beli?",
+      "example_answer": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "k15",
+      "level": "N4",
+      "question": "買い物に行く前に何をしますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Apa yang kamu lakukan sebelum pergi berbelanja?",
+      "example_answer": "リストを<ruby>作<rt>つく</rt></ruby>ります。"
+    },
+    {
+      "id": "k16",
+      "level": "N5",
+      "question": "買い物の後で何をしますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Apa yang kamu lakukan setelah berbelanja?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>って<ruby>片付<rt>かたづ</rt></ruby>けます。"
+    },
+    {
+      "id": "k17",
+      "level": "N4",
+      "question": "買い物に行くとき、誰に連絡しますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くとき、<ruby>誰<rt>だれ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>しますか。",
+      "translation_id": "Saat pergi berbelanja, kepada siapa kamu memberi tahu?",
+      "example_answer": "<ruby>友<rt>とも</rt></ruby>だちに<ruby>連絡<rt>れんらく</rt></ruby>します。"
+    },
+    {
+      "id": "k18",
+      "level": "N5",
+      "question": "買い物に行くのはどのくらいの頻度ですか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くのはどのくらいの<ruby>頻度<rt>ひんど</rt></ruby>ですか。",
+      "translation_id": "Seberapa sering kamu pergi berbelanja?",
+      "example_answer": "<ruby>週<rt>しゅう</rt></ruby>に<ruby>二回行<rt>にかいい</rt></ruby>きます。"
+    },
+    {
+      "id": "k19",
+      "level": "N4",
+      "question": "買い物で困ったことは何ですか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>で<ruby>困<rt>こま</rt></ruby>ったことは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Apa kesulitan yang pernah kamu alami saat berbelanja?",
+      "example_answer": "<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れて<ruby>困<rt>こま</rt></ruby>りました。"
+    },
+    {
+      "id": "k20",
+      "level": "N5",
+      "question": "買い物が終わったら何をしますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったら<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Setelah berbelanja, apa yang kamu lakukan?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ます。"
+    },
+    {
+      "id": "k21",
+      "level": "N4",
+      "question": "買い物で一番好きな場所はどこですか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>で<ruby>一番好<rt>いちばんす</rt></ruby>きな<ruby>場所<rt>ばしょ</rt></ruby>はどこですか。",
+      "translation_id": "Tempat belanja mana yang paling kamu suka?",
+      "example_answer": "スーパーが<ruby>一番好<rt>いちばんす</rt></ruby>きです。"
+    },
+    {
+      "id": "k22",
+      "level": "N5",
+      "question": "デパートで何を買いますか。",
+      "question_ruby": "デパートで<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いますか。",
+      "translation_id": "Apa yang kamu beli di departemen store?",
+      "example_answer": "<ruby>靴<rt>くつ</rt></ruby>やカバンを<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "k23",
+      "level": "N4",
+      "question": "買い物のとき、試着をしますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のとき、<ruby>試着<rt>しちゃく</rt></ruby>をしますか。",
+      "translation_id": "Saat berbelanja (baju), apakah kamu mencoba ukurannya?",
+      "example_answer": "はい、いつも<ruby>試着<rt>しちゃく</rt></ruby>してから<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "k24",
+      "level": "N5",
+      "question": "コンビニによく行きますか。",
+      "question_ruby": "コンビニによく<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah kamu sering pergi ke minimarket?",
+      "example_answer": "はい、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "k25",
+      "level": "N4",
+      "question": "安売りやセールは好きですか。",
+      "question_ruby": "<ruby>安売<rt>やすう</rt></ruby>りやセールは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka diskon atau obral?",
+      "example_answer": "はい、セールのときにたくさん<ruby>買<rt>か</rt></ruby>います。"
+    },
+    {
+      "id": "k26",
+      "level": "N5",
+      "question": "お土産を買いましたか。",
+      "question_ruby": "お<ruby>土産<rt>みやげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いましたか。",
+      "translation_id": "Apakah kamu membeli oleh-oleh?",
+      "example_answer": "はい、<ruby>家族<rt>かぞく</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。"
+    },
+    {
+      "id": "k27",
+      "level": "N4",
+      "question": "買い物でポイントカードを使いますか。",
+      "question_ruby": "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>でポイントカードを<ruby>使<rt>つか</rt></ruby>いますか。",
+      "translation_id": "Apakah kamu menggunakan kartu poin saat berbelanja?",
+      "example_answer": "はい、ポイントを<ruby>貯<rt>た</rt></ruby>めています。"
+    },
+    {
+      "id": "k28",
+      "level": "N5",
+      "question": "果物はどこが安いですか。",
+      "question_ruby": "<ruby>果物<rt>くだもの</rt></ruby>はどこが<ruby>安<rt>やす</rt></ruby>いですか。",
+      "translation_id": "Di mana buah-buahan yang harganya murah?",
+      "example_answer": "<ruby>八百屋<rt>やおや</rt></ruby>のほうが<ruby>安<rt>やす</rt></ruby>いです。"
+    },
+    {
+      "id": "k29",
+      "level": "N4",
+      "question": "偽物を買ったことがありますか。",
+      "question_ruby": "<ruby>偽物<rt>にせもの</rt></ruby>を<ruby>買<rt>か</rt></ruby>ったことがありますか。",
+      "translation_id": "Pernahkah kamu membeli barang palsu?",
+      "example_answer": "いいえ、<ruby>偽物<rt>にせもの</rt></ruby>は<ruby>買<rt>か</rt></ruby>いたくないです。"
+    },
+    {
+      "id": "k30",
+      "level": "N5",
+      "question": "新しい靴が欲しいですか。",
+      "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいですか。",
+      "translation_id": "Apakah kamu ingin sepatu baru?",
+      "example_answer": "はい、かっこいい<ruby>靴<rt>くつ</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。"
+    }
+  ]
+}

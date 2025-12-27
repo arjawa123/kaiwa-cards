@@ -1,0 +1,246 @@
+{
+  "id": "weekend_plans",
+  "name": "<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>",
+  "questions": [
+    {
+      "id": "w1",
+      "level": "N5",
+      "question": "週末は何をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Akhir minggu biasanya melakukan apa?",
+      "example_answer": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "w2",
+      "level": "N5",
+      "question": "今週末、どこへ行きますか。",
+      "question_ruby": "<ruby>今週末<rt>こんしゅうまつ</rt></ruby>、どこへ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Akhir minggu ini akan pergi ke mana?",
+      "example_answer": "<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w3",
+      "level": "N4",
+      "question": "友達と遊びますか。",
+      "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びますか。",
+      "translation_id": "Apakah akan bermain dengan teman?",
+      "example_answer": "はい、<ruby>遊<rt>あそ</rt></ruby>びます。"
+    },
+    {
+      "id": "w4",
+      "level": "N4",
+      "question": "週末に何時間勉強しますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>何時間勉強<rt>なんじかんべんきょう</rt></ruby>しますか。",
+      "translation_id": "Berapa jam belajar di akhir minggu?",
+      "example_answer": "２<ruby>時間勉強<rt>じかんべんきょう</rt></ruby>します。"
+    },
+    {
+      "id": "w5",
+      "level": "N5",
+      "question": "週末にスポーツをしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>にスポーツをしますか。",
+      "translation_id": "Apakah berolahraga di akhir minggu?",
+      "example_answer": "はい、します。"
+    },
+    {
+      "id": "w6",
+      "level": "N4",
+      "question": "週末に家族と何をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>と<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Apa yang dilakukan bersama keluarga di akhir minggu?",
+      "example_answer": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w7",
+      "level": "N5",
+      "question": "週末に休みますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>休<rt>やす</rt></ruby>みますか。",
+      "translation_id": "Apakah beristirahat di akhir minggu?",
+      "example_answer": "はい、<ruby>休<rt>やす</rt></ruby>みます。"
+    },
+    {
+      "id": "w8",
+      "level": "N4",
+      "question": "週末に映画館へ行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>映画館<rt>えいがかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi ke bioskop di akhir minggu?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w9",
+      "level": "N5",
+      "question": "週末に買い物をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしますか。",
+      "translation_id": "Apakah berbelanja di akhir minggu?",
+      "example_answer": "はい、します。"
+    },
+    {
+      "id": "w10",
+      "level": "N4",
+      "question": "週末に友達と食事をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>食事<rt>しょくじ</rt></ruby>をしますか。",
+      "translation_id": "Apakah makan bersama teman di akhir minggu?",
+      "example_answer": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>食事<rt>しょくじ</rt></ruby>をします。"
+    },
+    {
+      "id": "w11",
+      "level": "N5",
+      "question": "週末に旅行しますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>しますか。",
+      "translation_id": "Apakah pergi jalan-jalan di akhir minggu?",
+      "example_answer": "はい、<ruby>旅行<rt>りょこう</rt></ruby>します。"
+    },
+    {
+      "id": "w12",
+      "level": "N4",
+      "question": "週末に何を読む予定ですか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む<ruby>予定<rt>よてい</rt></ruby>ですか。",
+      "translation_id": "Apa yang berencana dibaca di akhir minggu?",
+      "example_answer": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。"
+    },
+    {
+      "id": "w13",
+      "level": "N5",
+      "question": "週末に料理をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>料理<rt>りょうり</rt></ruby>をしますか。",
+      "translation_id": "Apakah memasak di akhir minggu?",
+      "example_answer": "はい、<ruby>料理<rt>りょうり</rt></ruby>をします。"
+    },
+    {
+      "id": "w14",
+      "level": "N4",
+      "question": "週末にスポーツクラブへ行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>にスポーツクラブへ<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi ke klub olahraga di akhir minggu?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w15",
+      "level": "N5",
+      "question": "週末に休養しますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>休養<rt>きゅうよう</rt></ruby>しますか。",
+      "translation_id": "Apakah beristirahat untuk relaksasi di akhir minggu?",
+      "example_answer": "はい、します。"
+    },
+    {
+      "id": "w16",
+      "level": "N4",
+      "question": "週末に音楽を聞きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きますか。",
+      "translation_id": "Apakah mendengarkan musik di akhir minggu?",
+      "example_answer": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。"
+    },
+    {
+      "id": "w17",
+      "level": "N5",
+      "question": "週末にテレビを見ますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>にテレビを<ruby>見<rt>み</rt></ruby>ますか。",
+      "translation_id": "Apakah menonton TV di akhir minggu?",
+      "example_answer": "はい、<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "w18",
+      "level": "N4",
+      "question": "週末に友達の家に行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi ke rumah teman di akhir minggu?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w19",
+      "level": "N5",
+      "question": "週末に買い物に行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi berbelanja di akhir minggu?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w20",
+      "level": "N4",
+      "question": "週末にカフェに行きますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>にカフェに<ruby>行<rt>い</rt></ruby>きますか。",
+      "translation_id": "Apakah pergi ke kafe di akhir minggu?",
+      "example_answer": "はい、<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "w21",
+      "level": "N5",
+      "question": "週末に散歩しますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>散歩<rt>さんぽ</rt></ruby>しますか。",
+      "translation_id": "Apakah berjalan-jalan di akhir minggu?",
+      "example_answer": "はい、<ruby>散歩<rt>さんぽ</rt></ruby>します。"
+    },
+    {
+      "id": "w22",
+      "level": "N4",
+      "question": "週末に勉強しますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>しますか。",
+      "translation_id": "Apakah belajar di akhir minggu?",
+      "example_answer": "はい、<ruby>勉強<rt>べんきょう</rt></ruby>します。"
+    },
+    {
+      "id": "w23",
+      "level": "N5",
+      "question": "週末に友達と話しますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しますか。",
+      "translation_id": "Apakah berbicara dengan teman di akhir minggu?",
+      "example_answer": "はい、<ruby>話<rt>はな</rt></ruby>します。"
+    },
+    {
+      "id": "w24",
+      "level": "N4",
+      "question": "週末に新しいことをしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいことをしますか。",
+      "translation_id": "Apakah melakukan hal baru di akhir minggu?",
+      "example_answer": "はい、<ruby>新<rt>あたら</rt></ruby>しいことをします。"
+    },
+    {
+      "id": "w25",
+      "level": "N5",
+      "question": "週末は忙しいですか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいですか。",
+      "translation_id": "Apakah akhir minggu sibuk?",
+      "example_answer": "はい、<ruby>忙<rt>いそが</rt></ruby>しいです。"
+    },
+    {
+      "id": "w26",
+      "level": "N4",
+      "question": "週末に部屋の掃除をしますか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>をしますか。",
+      "translation_id": "Apakah kamu membersihkan kamar di akhir minggu?",
+      "example_answer": "はい、いつも<ruby>掃除<rt>そうじ</rt></ruby>します。"
+    },
+    {
+      "id": "w27",
+      "level": "N5",
+      "question": "日曜日の夜は何時に寝ますか。",
+      "question_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ますか。",
+      "translation_id": "Minggu malam tidur jam berapa?",
+      "example_answer": "１１<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。"
+    },
+    {
+      "id": "w28",
+      "level": "N4",
+      "question": "週末は一人で過ごすのが好きですか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごすのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka menghabiskan akhir minggu sendirian?",
+      "example_answer": "いいえ、<ruby>誰<rt>だれ</rt></ruby>かと<ruby>過<rt>す</rt></ruby>ごすほうが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "w29",
+      "level": "N5",
+      "question": "週末に何を飲むのが好きですか。",
+      "question_ruby": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Saat akhir minggu, suka minum apa?",
+      "example_answer": "<ruby>冷<rt>つめ</rt></ruby>たいビールを<ruby>飲<rt>の</rt></ruby>むのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "w30",
+      "level": "N4",
+      "question": "今度の土曜日に予定がありますか。",
+      "question_ruby": "<ruby>今度<rt>こんど</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>がありますか。",
+      "translation_id": "Apakah ada rencana hari Sabtu depan?",
+      "example_answer": "いいえ、まだありません。"
+    }
+  ]
+}

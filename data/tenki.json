@@ -1,0 +1,246 @@
+{
+  "id": "tenki",
+  "name": "<ruby>天気<rt>てんき</rt></ruby>",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "今日の天気はどうですか。",
+      "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうですか。",
+      "translation_id": "Bagaimana cuaca hari ini?",
+      "example_answer": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れです。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "昨日の天気はどうでしたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうでしたか。",
+      "translation_id": "Bagaimana cuaca kemarin?",
+      "example_answer": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でした。"
+    },
+    {
+      "id": "q3",
+      "level": "N4",
+      "question": "好きな季節は何ですか。",
+      "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<ruby>季節<rt>きせつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Musim apa yang kamu suka?",
+      "example_answer": "<ruby>春<rt>はる</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "雨の日は何をしますか。",
+      "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Hari hujan kamu melakukan apa?",
+      "example_answer": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>読書<rt>どくしょ</rt></ruby>をします。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "天気予報を見ますか。",
+      "question_ruby": "<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>ますか。",
+      "translation_id": "Apakah kamu melihat ramalan cuaca?",
+      "example_answer": "はい、<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "夏は暑いですか。",
+      "question_ruby": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いですか。",
+      "translation_id": "Apakah musim panas panas?",
+      "example_answer": "はい、<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いです。"
+    },
+    {
+      "id": "q7",
+      "level": "N5",
+      "question": "冬は寒いですか。",
+      "question_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いですか。",
+      "translation_id": "Apakah musim dingin dingin?",
+      "example_answer": "はい、<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。"
+    },
+    {
+      "id": "q8",
+      "level": "N4",
+      "question": "どの季節に雨が多いですか。",
+      "question_ruby": "どの<ruby>季節<rt>きせつ</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですか。",
+      "translation_id": "Musim apa yang paling banyak hujannya?",
+      "example_answer": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。"
+    },
+    {
+      "id": "q9",
+      "level": "N5",
+      "question": "今日は晴れですか、曇りですか、雨ですか。",
+      "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れですか、<ruby>曇<rt>くも</rt></ruby>りですか、<ruby>雨<rt>あめ</rt></ruby>ですか。",
+      "translation_id": "Hari ini cerah, mendung, atau hujan?",
+      "example_answer": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りです。"
+    },
+    {
+      "id": "q10",
+      "level": "N4",
+      "question": "雪が降ったことがありますか。",
+      "question_ruby": "<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったことがありますか。",
+      "translation_id": "Apakah kamu pernah turun salju?",
+      "example_answer": "はい、<ruby>去年雪<rt>きょねんゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。"
+    },
+    {
+      "id": "q11",
+      "level": "N5",
+      "question": "風が強い日は何をしますか。",
+      "question_ruby": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Hari angin kencang kamu melakukan apa?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>にいます。"
+    },
+    {
+      "id": "q12",
+      "level": "N4",
+      "question": "天気によって気分は変わりますか。",
+      "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>によって<ruby>気分<rt>きぶん</rt></ruby>は<ruby>変<rt>か</rt></ruby>わりますか。",
+      "translation_id": "Apakah suasana hati berubah tergantung cuaca?",
+      "example_answer": "はい、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。"
+    },
+    {
+      "id": "q13",
+      "level": "N5",
+      "question": "朝は霧が出ますか。",
+      "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>は<ruby>霧<rt>きり</rt></ruby>が<ruby>出<rt>で</rt></ruby>ますか。",
+      "translation_id": "Pagi hari muncul kabut tidak?",
+      "example_answer": "はい、<ruby>朝<rt>あさ</rt></ruby>は<ruby>霧<rt>きり</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。"
+    },
+    {
+      "id": "q14",
+      "level": "N5",
+      "question": "雷が鳴ると怖いですか。",
+      "question_ruby": "<ruby>雷<rt>かみなり</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>ると<ruby>怖<rt>こわ</rt></ruby>いですか。",
+      "translation_id": "Apakah kamu takut kalau ada petir?",
+      "example_answer": "はい、<ruby>少<rt>すこ</rt></ruby>し<ruby>怖<rt>こわ</rt></ruby>いです。"
+    },
+    {
+      "id": "q15",
+      "level": "N4",
+      "question": "天気が悪い日は外に出ますか。",
+      "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>は<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ますか。",
+      "translation_id": "Hari cuaca buruk, kamu pergi ke luar?",
+      "example_answer": "いいえ、<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ません。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "天気がいい日は何をしますか。",
+      "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>日<rt>ひ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Hari cuaca bagus, kamu melakukan apa?",
+      "example_answer": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "暑い日と寒い日, どちらが好きですか。",
+      "question_ruby": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>と<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>、どちらが<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Hari panas atau hari dingin, mana yang kamu suka?",
+      "example_answer": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q18",
+      "level": "N5",
+      "question": "天気が変わりやすい地域に住んだことがありますか。",
+      "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりやすい<ruby>地域<rt>ちいき</rt></ruby>に<ruby>住<rt>す</rt></ruby>んだことがありますか。",
+      "translation_id": "Apakah kamu pernah tinggal di daerah yang cuacanya cepat berubah?",
+      "example_answer": "はい、あります。"
+    },
+    {
+      "id": "q19",
+      "level": "N4",
+      "question": "雨の日に気をつけることは何ですか。",
+      "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけることは<ruby>何<rt>なに</rt></ruby>ですか。",
+      "translation_id": "Saat hujan, apa yang harus diperhatikan?",
+      "example_answer": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。"
+    },
+    {
+      "id": "q20",
+      "level": "N5",
+      "question": "夏の天気は暑すぎますか。",
+      "question_ruby": "<ruby>夏<rt>なつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>すぎますか。",
+      "translation_id": "Apakah cuaca musim panas terlalu panas?",
+      "example_answer": "はい、<ruby>暑<rt>あつ</rt></ruby>すぎます。"
+    },
+    {
+      "id": "q21",
+      "level": "N4",
+      "question": "雪の日に外出しますか。",
+      "question_ruby": "<ruby>雪<rt>ゆき</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>外出<rt>がいしゅつ</rt></ruby>しますか。",
+      "translation_id": "Saat salju, kamu keluar rumah?",
+      "example_answer": "いいえ、<ruby>外出<rt>がいしゅつ</rt></ruby>しません。"
+    },
+    {
+      "id": "q22",
+      "level": "N5",
+      "question": "春は暖かいですか。",
+      "question_ruby": "<ruby>春<rt>はる</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいですか。",
+      "translation_id": "Apakah musim semi hangat?",
+      "example_answer": "はい、<ruby>春<rt>はる</rt></ruby>は<ruby>暖<rt>あたた</rt></ruby>かいです。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "秋の天気は涼しいですか。",
+      "question_ruby": "<ruby>秋<rt>あき</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しいですか。",
+      "translation_id": "Apakah cuaca musim gugur sejuk?",
+      "example_answer": "はい、<ruby>秋<rt>あき</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しいです。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "天気が悪い日は家で何をしますか。",
+      "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Hari cuaca buruk, kamu melakukan apa di rumah?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>で<ruby>読書<rt>どくしょ</rt></ruby>をします。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "明日の天気はどうなると思いますか。",
+      "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうなるど<ruby>思<rt>おも</rt></ruby>いますか。",
+      "translation_id": "Menurutmu, bagaimana cuaca besok?",
+      "example_answer": "<ruby>明日<rt>あした</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れると<ruby>思<rt>おも</rt></ruby>います。"
+    },
+    {
+      "id": "q26",
+      "level": "N5",
+      "question": "空の色は何色ですか。",
+      "question_ruby": "<ruby>空<rt>そら</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<ruby>何色<rt>なにいろ</rt></ruby>ですか。",
+      "translation_id": "Warna langitnya warna apa?",
+      "example_answer": "<ruby>青色<rt>あおいろ</rt></ruby>です。"
+    },
+    {
+      "id": "q27",
+      "level": "N4",
+      "question": "台風が来たことがありますか。",
+      "question_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>き</rt></ruby>たことがありますか。",
+      "translation_id": "Pernahkah ada angin topan (taifun) datang?",
+      "example_answer": "はい、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。"
+    },
+    {
+      "id": "q28",
+      "level": "N5",
+      "question": "湿度が高いのは嫌いですか。",
+      "question_ruby": "<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いのは<ruby>嫌<rt>きら</rt></ruby>いですか。",
+      "translation_id": "Apakah kamu tidak suka kalau kelembabannya tinggi?",
+      "example_answer": "はい、とても<ruby>嫌<rt>きら</rt></ruby>いです。"
+    },
+    {
+      "id": "q29",
+      "level": "N4",
+      "question": "虹を見たことがありますか。",
+      "question_ruby": "<ruby>虹<rt>にじ</rt></ruby>を<ruby>見<rt>み</rt></ruby>たことがありますか。",
+      "translation_id": "Pernahkah kamu melihat pelangi?",
+      "example_answer": "はい、<ruby>雨<rt>あめ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>に<ruby>見<rt>み</rt></ruby>ました。"
+    },
+    {
+      "id": "q30",
+      "level": "N5",
+      "question": "外は今、雨が降っていますか。",
+      "question_ruby": "<ruby>外<rt>そと</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていますか。",
+      "translation_id": "Apakah di luar sekarang sedang turun hujan?",
+      "example_answer": "いいえ、<ruby>降<rt>ふ</rt></ruby>っていません。"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "condition",
+  "name": "<ruby>体調<rt>たいちょう</rt></ruby>・<ruby>健康<rt>けんこう</rt></ruby>",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "N5",
+      "question": "元気ですか。",
+      "question_ruby": "<ruby>元気<rt>げんき</rt></ruby>ですか。",
+      "translation_id": "Apa kabar? / Kamu sehat?",
+      "example_answer": "はい、<ruby>元気<rt>げんき</rt></ruby>です。"
+    },
+    {
+      "id": "q2",
+      "level": "N5",
+      "question": "最近、体調はどうですか。",
+      "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>体調<rt>たいちょう</rt></ruby>はどうですか。",
+      "translation_id": "Bagaimana kondisi tubuhmu akhir-akhir ini?",
+      "example_answer": "<ruby>体調<rt>たいちょう</rt></ruby>は<ruby>良<rt>よ</rt></ruby>いです。"
+    },
+    {
+      "id": "q3",
+      "level": "N4",
+      "question": "昨日、よく眠れましたか。",
+      "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>、よく<ruby>眠<rt>ねむ</rt></ruby>れましたか。",
+      "translation_id": "Apakah kamu tidur nyenyak kemarin?",
+      "example_answer": "はい、よく<ruby>眠<rt>ねむ</rt></ruby>れました。"
+    },
+    {
+      "id": "q4",
+      "level": "N5",
+      "question": "疲れていますか。",
+      "question_ruby": "<ruby>疲<rt>つか</rt></ruby>れていますか。",
+      "translation_id": "Apakah kamu lelah?",
+      "example_answer": "<ruby>少<rt>すこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れています。"
+    },
+    {
+      "id": "q5",
+      "level": "N4",
+      "question": "風邪を引いたことがありますか。",
+      "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いたことがありますか。",
+      "translation_id": "Apakah kamu pernah masuk angin / flu?",
+      "example_answer": "はい、<ruby>去年風邪<rt>きょねんかぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きました。"
+    },
+    {
+      "id": "q6",
+      "level": "N5",
+      "question": "熱がありますか。",
+      "question_ruby": "<ruby>熱<rt>ねつ</rt></ruby>がありますか。",
+      "translation_id": "Apakah kamu demam?",
+      "example_answer": "いいえ、<ruby>熱<rt>ねつ</rt></ruby>はありません。"
+    },
+    {
+      "id": "q7",
+      "level": "N5",
+      "question": "頭が痛いですか。",
+      "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いですか。",
+      "translation_id": "Apakah kepalamu sakit?",
+      "example_answer": "はい、<ruby>少<rt>すこ</rt></ruby>し<ruby>痛<rt>いた</rt></ruby>いです。"
+    },
+    {
+      "id": "q8",
+      "level": "N4",
+      "question": "病院に行ったことがありますか。",
+      "question_ruby": "<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったことがありますか。",
+      "translation_id": "Apakah kamu pernah pergi ke rumah sakit?",
+      "example_answer": "はい、<ruby>先月病院<rt>せんげつびょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+    },
+    {
+      "id": "q9",
+      "level": "N5",
+      "question": "薬を飲みますか。",
+      "question_ruby": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みますか。",
+      "translation_id": "Apakah kamu minum obat?",
+      "example_answer": "はい、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+    },
+    {
+      "id": "q10",
+      "level": "N4",
+      "question": "よく運動しますか。",
+      "question_ruby": "よく<ruby>運動<rt>うんどう</rt></ruby>しますか。",
+      "translation_id": "Apakah kamu sering berolahraga?",
+      "example_answer": "はい、<ruby>毎日運動<rt>まいにちうんどう</rt></ruby>します。"
+    },
+    {
+      "id": "q11",
+      "level": "N5",
+      "question": "何かアレルギーがありますか。",
+      "question_ruby": "<ruby>何<rt>なに</rt></ruby>かアレルギーがありますか。",
+      "translation_id": "Apakah kamu punya alergi?",
+      "example_answer": "はい、<ruby>花粉<rt>かふん</rt></ruby>にアレルギーがあります。"
+    },
+    {
+      "id": "q12",
+      "level": "N5",
+      "question": "お腹が空いていますか。",
+      "question_ruby": "<ruby>お腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>いていますか。",
+      "translation_id": "Apakah kamu lapar?",
+      "example_answer": "はい、<ruby>お腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>いています。"
+    },
+    {
+      "id": "q13",
+      "level": "N4",
+      "question": "気分が悪いですか。",
+      "question_ruby": "<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いですか。",
+      "translation_id": "Apakah kamu merasa tidak enak badan?",
+      "example_answer": "はい、<ruby>少<rt>すこ</rt></ruby>し<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。"
+    },
+    {
+      "id": "q14",
+      "level": "N4",
+      "question": "病気になったことがありますか。",
+      "question_ruby": "<ruby>病気<rt>びょうき</rt></ruby>になったことがありますか。",
+      "translation_id": "Apakah kamu pernah sakit serius?",
+      "example_answer": "はい、<ruby>一度風邪<rt>いちどかぜ</rt></ruby>で<ruby>病気<rt>びょうき</rt></ruby>になりました。"
+    },
+    {
+      "id": "q15",
+      "level": "N5",
+      "question": "今日は元気ですか。",
+      "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>ですか。",
+      "translation_id": "Hari ini kamu sehat?",
+      "example_answer": "はい、<ruby>今日<rt>きょう</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>です。"
+    },
+    {
+      "id": "q16",
+      "level": "N5",
+      "question": "よく眠れますか。",
+      "question_ruby": "よく<ruby>眠<rt>ねむ</rt></ruby>れますか。",
+      "translation_id": "Apakah kamu bisa tidur nyenyak?",
+      "example_answer": "はい、よく<ruby>眠<rt>ねむ</rt></ruby>れます。"
+    },
+    {
+      "id": "q17",
+      "level": "N4",
+      "question": "運動をするのは好きですか。",
+      "question_ruby": "<ruby>運動<rt>うんどう</rt></ruby>をするのは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka berolahraga?",
+      "example_answer": "はい、<ruby>運動<rt>うんどう</rt></ruby>するのが<ruby>好<rt>す</rt></ruby>きです。"
+    },
+    {
+      "id": "q18",
+      "level": "N4",
+      "question": "毎日何時間寝ますか。",
+      "question_ruby": "<ruby>毎日何時間寝<rt>まいにちなんじかんね</rt></ruby>ますか。",
+      "translation_id": "Berapa jam kamu tidur setiap hari?",
+      "example_answer": "<ruby>毎日<rt>まいにち</rt></ruby>７<ruby>時間寝<rt>じかんね</rt></ruby>ます。"
+    },
+    {
+      "id": "q19",
+      "level": "N5",
+      "question": "最近疲れましたか。",
+      "question_ruby": "<ruby>最近疲<rt>さいきんつか</rt></ruby>れましたか。",
+      "translation_id": "Akhir-akhir ini kamu lelah?",
+      "example_answer": "はい、<ruby>最近少<rt>さいきんすこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れました。"
+    },
+    {
+      "id": "q20",
+      "level": "N4",
+      "question": "風邪を予防するために何をしますか。",
+      "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するために<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Untuk mencegah flu, kamu melakukan apa?",
+      "example_answer": "<ruby>手<rt>て</rt></ruby>をよく<ruby>洗<rt>あら</rt></ruby>います。"
+    },
+    {
+      "id": "q21",
+      "level": "N5",
+      "question": "体に気をつけていますか。",
+      "question_ruby": "<ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけていますか。",
+      "translation_id": "Apakah kamu menjaga kesehatan tubuh?",
+      "example_answer": "はい、<ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけています。"
+    },
+    {
+      "id": "q22",
+      "level": "N4",
+      "question": "最近運動しましたか。",
+      "question_ruby": "<ruby>最近運動<rt>さいきんうんどう</rt></ruby>しましたか。",
+      "translation_id": "Akhir-akhir ini kamu berolahraga?",
+      "example_answer": "はい、<ruby>昨日運動<rt>きのううんどう</rt></ruby>しました。"
+    },
+    {
+      "id": "q23",
+      "level": "N4",
+      "question": "健康診断を受けますか。",
+      "question_ruby": "<ruby>健康診断<rt>けんこうしんだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けますか。",
+      "translation_id": "Apakah kamu mengikuti pemeriksaan kesehatan?",
+      "example_answer": "はい、<ruby>毎年健康診断<rt>まいとしけんこうしんだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。"
+    },
+    {
+      "id": "q24",
+      "level": "N5",
+      "question": "薬を飲むのは好きですか。",
+      "question_ruby": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのは<ruby>好<rt>す</rt></ruby>きですか。",
+      "translation_id": "Apakah kamu suka minum obat?",
+      "example_answer": "いいえ、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのはあまり<ruby>好<rt>す</rt></ruby>きではありません。"
+    },
+    {
+      "id": "q25",
+      "level": "N4",
+      "question": "体調が悪いとき、何をしますか。",
+      "question_ruby": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いとき、<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "translation_id": "Saat kondisi tubuhmu buruk, kamu melakukan apa?",
+      "example_answer": "<ruby>家<rt>いえ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>みます。"
+    },
+    {
+      "id": "q26",
+      "level": "N5",
+      "question": "どこが痛いですか。",
+      "question_ruby": "どこが<ruby>痛<rt>いた</rt></ruby>いですか。",
+      "translation_id": "Di mana bagian yang sakit?",
+      "example_answer": "<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。"
+    },
+    {
+      "id": "q27",
+      "level": "N4",
+      "question": "野菜をたくさん食べていますか。",
+      "question_ruby": "<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べていますか。",
+      "translation_id": "Apakah kamu makan banyak sayur?",
+      "example_answer": "はい、<ruby>健康<rt>けんこう</rt></ruby>のためにたくさん<ruby>食<rt>た</rt></ruby>べています。"
+    },
+    {
+      "id": "q28",
+      "level": "N5",
+      "question": "病院の電話番号を知っていますか。",
+      "question_ruby": "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていますか。",
+      "translation_id": "Apakah kamu tahu nomor telepon rumah sakit?",
+      "example_answer": "はい、スマホに<ruby>入<rt>い</rt></ruby>っています。"
+    },
+    {
+      "id": "q29",
+      "level": "N4",
+      "question": "お酒を飲みすぎることがありますか。",
+      "question_ruby": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みすぎることがありますか。",
+      "translation_id": "Apakah kamu kadang minum alkohol berlebihan?",
+      "example_answer": "いいえ、お<ruby>酒<rt>さけ</rt></ruby>はあまり<ruby>飲<rt>の</rt></ruby>みません。"
+    },
+    {
+      "id": "q30",
+      "level": "N5",
+      "question": "早く寝るようにしていますか。",
+      "question_ruby": "<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>るようにしていますか。",
+      "translation_id": "Apakah kamu mencoba untuk tidur lebih awal?",
+      "example_answer": "はい、できるだけ<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。"
+    }
+  ]
+}
