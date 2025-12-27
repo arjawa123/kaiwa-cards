@@ -236,8 +236,8 @@ function endSession() {
 
   document.getElementById("practice").classList.add("hidden");
   document.getElementById("end").classList.remove("hidden");
-  document.getElementById("summary").innerText =
-    `質問数：${questions.length}問\nレベル：${selectedLevel}`;
+  document.getElementById("summary").innerHTML =
+    `<ruby>質問数<rt>しつもんすう</rt></ruby>：${questions.length}<ruby>問<rt>とい</rt></ruby><br>レベル：${selectedLevel}`;
   
   const box = document.getElementById("exampleBox");
   if (!box.classList.contains("hidden")) {
@@ -261,7 +261,7 @@ function toggleExample() {
 
   if (!q.example_answer) return;
 
-  box.innerHTML = "例文： " + q.example_answer;
+  box.innerHTML = "<ruby>例文<rt>れいぶん</rt></ruby>： " + q.example_answer;
   box.classList.toggle("hidden");
 }
 
@@ -357,5 +357,3 @@ document.getElementById("randomThemeChk").addEventListener("change", e => {
   document.querySelector(".start-btn").disabled =
   isRandomQ && db ? false : !currentTheme;
 });
-// document.getElementById("metaInfo").innerText =
-//  `テーマ：${currentTheme.name} ｜ レベル：${selectedLevel} ｜ ${index + 1}/${questions.length}`;
